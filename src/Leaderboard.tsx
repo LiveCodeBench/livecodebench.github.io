@@ -191,4 +191,6 @@ const Leaderboard = (props: any) => {
   )
 }
 
-export default withStreamlitConnection(Leaderboard)
+// // This line is changed from the original streamlit code
+// export default withStreamlitConnection(Leaderboard)
+export default Leaderboard
