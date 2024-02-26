@@ -6,9 +6,8 @@ import mockData from "./mocks/2024_02_26.json"
 
 ReactDOM.render(
   <React.StrictMode>
-    <p>Hi</p>
-    <Leaderboard {...mockData} />
-    <p>Hello</p>
+    <h1>LiveCodeBench</h1>
+    <Leaderboard theme={{ base: "light" }} args={mockData} />
   </React.StrictMode>,
   document.getElementById("root")
 )
