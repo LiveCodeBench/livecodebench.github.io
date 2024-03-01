@@ -12,7 +12,7 @@ ReactDOM.render(
         <div className="publication-links">
           <span className="link-block">
             <a
-              href="index.html"
+              href="/"
               className="external-link button is-normal is-rounded is-dark"
             >
               <span className="icon">
