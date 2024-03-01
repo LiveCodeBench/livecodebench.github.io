@@ -8,17 +8,21 @@ ReactDOM.render(
   <React.StrictMode>
     <div>
       <h1 style={{ textAlign: "center" }}>LiveCodeBench</h1>
-      <span className="link-block">
-        <a
-          href="index.html"
-          className="external-link button is-normal is-rounded is-dark"
-        >
-          <span className="icon">
-            <i className="fas fa-home"></i>
+      <div className="column has-text-centered">
+        <div className="publication-links">
+          <span className="link-block">
+            <a
+              href="index.html"
+              className="external-link button is-normal is-rounded is-dark"
+            >
+              <span className="icon">
+                <i className="fas fa-home"></i>
+              </span>
+              <span>Home</span>
+            </a>
           </span>
-          <span>Home</span>
-        </a>
-      </span>
+        </div>
+      </div>
     </div>
     <Leaderboard theme={{ base: "light" }} args={mockData} />
   </React.StrictMode>,
