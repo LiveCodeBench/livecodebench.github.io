@@ -30,12 +30,14 @@ ReactDOM.render(
                   </span>
                 </div>
               </div>
+              <div className="column has-text-centered">
+                <Leaderboard theme={{ base: "light" }} args={mockData} />
+              </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <Leaderboard theme={{ base: "light" }} args={mockData} />
   </React.StrictMode>,
   document.getElementById("root")
 )
