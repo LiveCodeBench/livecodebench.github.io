@@ -135,7 +135,7 @@ const Leaderboard = (props: any) => {
 
   const gridStyle = useMemo(
     () => ({
-      height: "850px",
+      height: "1200px",
       width: "704px",
       "--ag-font-family": FONT_FAMILY,
     }),
