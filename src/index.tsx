@@ -7,7 +7,10 @@ import mockData from "./mocks/2024_02_26.json"
 ReactDOM.render(
   <React.StrictMode>
     <div>
-      <h1 style={{ textAlign: "center" }}>LiveCodeBench</h1>
+      <h1 className="title is-1 publication-title">
+        LiveCodeBench: Holistic and Contamination Free Evaluation of Large
+        Language Models for Code
+      </h1>
       <div className="column has-text-centered">
         <div className="publication-links">
           <span className="link-block">
