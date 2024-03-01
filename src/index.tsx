@@ -1,6 +1,6 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import Leaderboard from "./Leaderboard"
+import Leaderboard from "./LeaderboardComp"
 
 import mockData from "./mocks/2024_02_26.json"
 
