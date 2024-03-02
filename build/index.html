@@ -1,24 +1,19 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="description"
-      content="LiveCodeBench: Holistic and Contamination Free Evaluation of Large
-      Language Models for Code"
-    />
-    <meta
-      name="keywords"
-      content="LiveCodeBench, Code, Large Language Models, LLM, Evaluation, Benchmark"
-    />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>
-      LiveCodeBench: Holistic and Contamination Free Evaluation of Large
-      Language Models for Code
-    </title>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <!-- <script
+<head>
+  <meta charset="utf-8" />
+  <meta name="description" content="LiveCodeBench: Holistic and Contamination Free Evaluation of Large
+      Language Models for Code" />
+  <meta name="keywords" content="LiveCodeBench, Code, Large Language Models, LLM, Evaluation, Benchmark" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>
+    LiveCodeBench: Holistic and Contamination Free Evaluation of Large
+    Language Models for Code
+  </title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- <script
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"
     ></script>
@@ -34,426 +29,264 @@
       gtag("config", "G-PYVRSFMDRL")
     </script> -->
 
-    <link
-      href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
-      rel="stylesheet"
-    />
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet" />
 
-    <link rel="stylesheet" href="./css/bulma.min.css" />
-    <link rel="stylesheet" href="./css/bulma-carousel.min.css" />
-    <link rel="stylesheet" href="./css/bulma-slider.min.css" />
-    <link rel="stylesheet" href="./css/fontawesome.all.min.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"
-    />
-    <link rel="stylesheet" href="./css/index.css" />
-    <link rel="icon" href="./images/favicon.svg" />
+  <link rel="stylesheet" href="./css/bulma.min.css" />
+  <link rel="stylesheet" href="./css/bulma-carousel.min.css" />
+  <link rel="stylesheet" href="./css/bulma-slider.min.css" />
+  <link rel="stylesheet" href="./css/fontawesome.all.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
+  <link rel="stylesheet" href="./css/index.css" />
+  <link rel="icon" href="./images/favicon.svg" />
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script defer src="./js/fontawesome.all.min.js"></script>
-    <script src="./js/bulma-carousel.min.js"></script>
-    <script src="./js/bulma-slider.min.js"></script>
-    <script src="./js/index.js"></script>
-  </head>
-  <body>
-    <nav class="navbar" role="navigation" aria-label="main navigation">
-      <div class="navbar-brand">
-        <a
-          role="button"
-          class="navbar-burger"
-          aria-label="menu"
-          aria-expanded="false"
-        >
-          <span aria-hidden="true"></span>
-          <span aria-hidden="true"></span>
-          <span aria-hidden="true"></span>
-        </a>
-      </div>
-      <div class="navbar-menu">
-        <div class="navbar-start" style="flex-grow: 1; justify-content: center">
-          <a class="navbar-item" href="FIXME">
-            <span class="icon">
-              <i class="fas fa-home"></i>
-            </span>
-          </a>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./js/fontawesome.all.min.js"></script>
+  <script src="./js/bulma-carousel.min.js"></script>
+  <script src="./js/bulma-slider.min.js"></script>
+  <script src="./js/index.js"></script>
+</head>
 
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link"> More Research </a>
-            <div class="navbar-dropdown">
-              <a class="navbar-item" href="FIXME"> FIXME </a>
-              <a class="navbar-item" href="FIXME"> FIXME </a>
-              <a class="navbar-item" href="FIXME"> FIXME </a>
-              <a class="navbar-item" href="FIXME"> FIXME </a>
+<body>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">
+              LiveCodeBench: Holistic and Contamination Free Evaluation of
+              Large Language Models for Code
+            </h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="https://naman-ntc.github.io/">Naman Jain</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://kinghan.info/">King Han</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://minimario.github.io/">Alex Gu</a><sup>2</sup>,</span>
+              <span class="author-block">
+                <a href="https://wending.dev/">Wen-Ding Li</a><sup>3</sup>,</span>
+              <span class="author-block">
+                <a href="https://fanjia-yan.github.io/">Fanjia Yan</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://tianjunz.github.io/">Tianjun Zhang</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://www.sidaw.xyz/">Sida Wang</a><sup>4</sup>,</span>
+              <span class="author-block">
+                <a href="https://people.csail.mit.edu/asolar/">Armando Solar-Lezama</a><sup>2</sup>,</span>
+              <span class="author-block">
+                <a href="https://people.eecs.berkeley.edu/~ksen/">Koushik Sen</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://people.eecs.berkeley.edu/~istoica/">Ion Stoica</a><sup>1</sup></span>
             </div>
-          </div>
-        </div>
-      </div>
-    </nav>
 
-    <section class="hero">
-      <div class="hero-body">
-        <div class="container is-max-desktop">
-          <div class="columns is-centered">
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup>1</sup>University of California, Berkeley</span>
+              <span class="author-block"><sup>2</sup>MIT</span>
+              <span class="author-block"><sup>3</sup>Cornell University</span>
+              <span class="author-block"><sup>4</sup>Meta AI</span>
+            </div>
+
             <div class="column has-text-centered">
-              <h1 class="title is-1 publication-title">
-                LiveCodeBench: Holistic and Contamination Free Evaluation of
-                Large Language Models for Code
-              </h1>
-              <div class="is-size-5 publication-authors">
-                <span class="author-block">
-                  <a href="https://naman-ntc.github.io/">Naman Jain</a
-                  ><sup>1</sup>,</span
-                >
-                <span class="author-block">
-                  <a href="https://kinghan.info/">King Han</a
-                  ><sup>1</sup>,</span
-                >
-                <span class="author-block">
-                  <a href="https://minimario.github.io/">Alex Gu</a
-                  ><sup>2</sup>,</span
-                >
-                <span class="author-block">
-                  <a href="https://wending.dev/">Wen-Ding Li</a
-                  ><sup>3</sup>,</span
-                >
-                <span class="author-block">
-                  <a href="https://fanjia-yan.github.io/">Fanjia Yan</a
-                  ><sup>1</sup>,</span
-                >
-                <span class="author-block">
-                  <a href="https://tianjunz.github.io/">Tianjun Zhang</a
-                  ><sup>1</sup>,</span
-                >
-                <span class="author-block">
-                  <a href="https://www.sidaw.xyz/">Sida Wang</a
-                  ><sup>4</sup>,</span
-                >
-                <span class="author-block">
-                  <a href="https://people.csail.mit.edu/asolar/"
-                    >Armando Solar-Lezama</a
-                  ><sup>2</sup>,</span
-                >
-                <span class="author-block">
-                  <a href="https://people.eecs.berkeley.edu/~ksen/"
-                    >Koushik Sen</a
-                  ><sup>1</sup>,</span
-                >
-                <span class="author-block">
-                  <a href="https://people.eecs.berkeley.edu/~istoica/"
-                    >Ion Stoica</a
-                  ><sup>1</sup></span
-                >
-              </div>
-
-              <div class="is-size-5 publication-authors">
-                <span class="author-block"
-                  ><sup>1</sup>University of California, Berkeley</span
-                >
-                <span class="author-block"><sup>2</sup>MIT</span>
-                <span class="author-block"><sup>3</sup>Cornell University</span>
-                <span class="author-block"
-                  ><sup>4</sup>Facebook AI Research</span
-                >
-              </div>
-
-              <div class="column has-text-centered">
-                <div class="publication-links">
-                  <!-- PDF Link. -->
-                  <span class="link-block">
-                    <a
-                      href="FIXME"
-                      class="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span class="icon">
-                        <i class="fas fa-file-pdf"></i>
-                      </span>
-                      <span>Paper</span>
-                    </a>
-                  </span>
-                  <span class="link-block">
-                    <a
-                      href="FIXME"
-                      class="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span class="icon">
-                        <i class="fab fa-github"></i>
-                      </span>
-                      <span>Code</span>
-                    </a>
-                  </span>
-                  <!-- Dataset Link. -->
-                  <span class="link-block">
-                    <a
-                      href="FIXME"
-                      class="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span class="icon">
-                        <i class="far fa-images"></i>
-                      </span>
-                      <span>Data</span>
-                    </a>
-                  </span>
-                  <!-- Leaderboard Link. -->
-                  <span class="link-block">
-                    <a
-                      href="leaderboard.html"
-                      class="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span class="icon">
-                        <i class="fa fa-trophy"></i>
-                      </span>
-                      <span>Leaderboard</span>
-                    </a>
-                  </span>
-                </div>
+              <div class="publication-links">
+                <!-- PDF Link. -->
+                <span class="link-block">
+                  <a href="FIXME" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="FIXME" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <!-- Dataset Link. -->
+                <span class="link-block">
+                  <a href="FIXME" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="far fa-images"></i>
+                    </span>
+                    <span>Data</span>
+                  </a>
+                </span>
+                <!-- Leaderboard Link. -->
+                <span class="link-block">
+                  <a href="leaderboard.html" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fa fa-trophy"></i>
+                    </span>
+                    <span>Leaderboard</span>
+                  </a>
+                </span>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="hero teaser">
-      <div class="container is-max-desktop">
-        <div class="hero-body">
-          FIXME: Image
-          <h2 class="subtitle has-text-centered">
-            <span class="dnerf">LiveCodeBench</span> FIXME: Description
-          </h2>
-        </div>
-      </div>
-    </section>
-
-    <!-- <section class="hero is-light is-small">
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
       <div class="hero-body">
-        <div class="container">
-          <div id="results-carousel" class="carousel results-carousel">
-            <div class="item item-steve">
-              <video
-                poster=""
-                id="steve"
-                autoplay
-                controls
-                muted
-                loop
-                playsinline
-                height="100%"
-              >
-                <source src="./static/videos/steve.mp4" type="video/mp4" />
-              </video>
+        <div class="columns is-centered">
+          <!-- center the image -->
+          <img src="./images/LCB_holistic_tasks.png" alt="Teaser" class="teaser-image" width="80%" class="center" />
+        </div>
+
+        <h2 class="subtitle has-text-centered">
+          <span class="dnerf">LiveCodeBench</span> collects problems from periodic contests on <span
+            class="dnerf">LeetCode</span>, <span class="dnerf">AtCoder</span>, and <span class="dnerf">Codeforces</span>
+          platforms and uses them for constructing a holistic benchmark for evaluating Code LLMs across variety of
+          code-related scenarios in a <it>live</it> manner.
+        </h2>
+
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <!-- Abstract. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Introduction</h2>
+          <div class="content has-text-justified">
+            <p>
+              LiveCodeBench is a holistic and contamination-free evaluation benchmark
+              of LLMs for code that continuously collects new problems over time.
+              Particularly, LiveCodeBench also focuses on broader code-related capabilities,
+              such as self-repair, code execution, and test output prediction,
+              beyond mere code generation. Currently, LiveCodeBench hosts over
+              three hundred high-quality coding problems published between May
+              2023 and January 2024. We evaluate 24 LLMs on LiveCodeBench
+              scenarios and present novel empirical findings not revealed in
+              prior benchmarks.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!--/ Abstract. -->
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Contamination</h2>
+          <div class="content has-text-justified">
+            <p>
+              <span class="dnerf">LiveCodeBench</span> annotates problems with release dates, and thus allows evaluating
+              models on problems released during a specific time period. Thus, for a newer model
+              with a training-cutoff date <span class="dnerf">D</span>, we can evaluate it on problems released after
+              <span class="dnerf">D</span> to measure its generalization on <i>unseen</i> problems.
+            </p>
+            <!-- side by side images-->
+            <div class="columns is-centered">
+              <img src="./images/contamination1.png" alt="Code Generation Live Evaluation" class="teaser-image"
+                width="48%" class="center" />
+              <img src="./images/contamination2.png" alt="Test Output Prediction Live Evaluation" class="teaser-image"
+                width="48%" class="center" />
             </div>
-            <div class="item item-chair-tp">
-              <video
-                poster=""
-                id="chair-tp"
-                autoplay
-                controls
-                muted
-                loop
-                playsinline
-                height="100%"
-              >
-                <source src="./static/videos/chair-tp.mp4" type="video/mp4" />
-              </video>
-            </div>
-            <div class="item item-shiba">
-              <video
-                poster=""
-                id="shiba"
-                autoplay
-                controls
-                muted
-                loop
-                playsinline
-                height="100%"
-              >
-                <source src="./static/videos/shiba.mp4" type="video/mp4" />
-              </video>
-            </div>
-            <div class="item item-fullbody">
-              <video
-                poster=""
-                id="fullbody"
-                autoplay
-                controls
-                muted
-                loop
-                playsinline
-                height="100%"
-              >
-                <source src="./static/videos/fullbody.mp4" type="video/mp4" />
-              </video>
-            </div>
-            <div class="item item-blueshirt">
-              <video
-                poster=""
-                id="blueshirt"
-                autoplay
-                controls
-                muted
-                loop
-                playsinline
-                height="100%"
-              >
-                <source src="./static/videos/blueshirt.mp4" type="video/mp4" />
-              </video>
-            </div>
-            <div class="item item-mask">
-              <video
-                poster=""
-                id="mask"
-                autoplay
-                controls
-                muted
-                loop
-                playsinline
-                height="100%"
-              >
-                <source src="./static/videos/mask.mp4" type="video/mp4" />
-              </video>
-            </div>
-            <div class="item item-coffee">
-              <video
-                poster=""
-                id="coffee"
-                autoplay
-                controls
-                muted
-                loop
-                playsinline
-                height="100%"
-              >
-                <source src="./static/videos/coffee.mp4" type="video/mp4" />
-              </video>
-            </div>
-            <div class="item item-toby">
-              <video
-                poster=""
-                id="toby"
-                autoplay
-                controls
-                muted
-                loop
-                playsinline
-                height="100%"
-              >
-                <source src="./static/videos/toby2.mp4" type="video/mp4" />
-              </video>
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi
+              recusandae ipsam doloribus quis accusantium harum explicabo
+              molestias voluptates placeat reprehenderit fugiat voluptas
+              voluptate, repudiandae neque, voluptatibus dignissimos eum
+              similique ratione.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Holistic Evaluation and Overfitting</h2>
+          <div class="content has-text-justified">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
+              voluptatibus nam explicabo, quod animi iusto cupiditate
+              consequuntur quia nulla ut at iure vitae facere est consequatur
+              fuga molestiae error asperiores!
+            </p>
+            <div class="columns is-centered">
+              <img src="./images/tasks_radar.png" alt="Holistic Evaluation" class="teaser-image" width="48%"
+                class="center" />
+              <img src="./images/lcb_vs_he.png" alt="HumanEval Overfitting" class="teaser-image" width="48%"
+                class="center" />
             </div>
           </div>
         </div>
       </div>
-    </section> -->
+    </div>
+  </section>
 
-    <section class="section">
-      <div class="container is-max-desktop">
-        <!-- Abstract. -->
-        <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <h2 class="title is-3">Abstract</h2>
-            <div class="content has-text-justified">
-              <p>
-                Large Language Models (LLMs) applied to code-related
-                applications have emerged as a prominent domain, receiving
-                significant interest from both the academic and industry
-                communities. However, as new and improved LLMs are developed,
-                prior evaluation benchmarks (e.g., HumanEval, MBPP) are no
-                longer sufficient for understanding and judging their
-                capabilities. In this work, we propose LiveCodeBench, a holistic
-                and contamination-free evaluation of LLMs for code that
-                continuously collects new problems over time. Notably, our
-                benchmark also focuses on broader code-related capabilities,
-                such as self-repair, code execution, and test output prediction,
-                beyond mere code generation. Currently, LiveCodeBench hosts over
-                three hundred high-quality coding problems published between May
-                2023 and January 2024. We evaluate 16 LLMs on LiveCodeBench
-                scenarios and present novel empirical findings not revealed in
-                prior benchmarks. We will release all prompts and model
-                completions for further analysis by the community, as well as a
-                general toolkit for easily adding new scenarios and models.
-              </p>
-            </div>
-          </div>
-        </div>
-        <!--/ Abstract. -->
-      </div>
-    </section>
 
-    <section class="section">
-      <div class="container is-max-desktop">
-        <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <h2 class="title is-3">Section</h2>
-            <div class="content has-text-justified">
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
-                voluptatibus nam explicabo, quod animi iusto cupiditate
-                consequuntur quia nulla ut at iure vitae facere est consequatur
-                fuga molestiae error asperiores!
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi
-                recusandae ipsam doloribus quis accusantium harum explicabo
-                molestias voluptates placeat reprehenderit fugiat voluptas
-                voluptate, repudiandae neque, voluptatibus dignissimos eum
-                similique ratione.
-              </p>
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Model Comparisions</h2>
+          <div class="content has-text-justified">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
+              voluptatibus nam explicabo, quod animi iusto cupiditate
+              consequuntur quia nulla ut at iure vitae facere est consequatur
+              fuga molestiae error asperiores!
+            </p>
+            <div class="columns is-centered">
+              <img src="./images/lc_barchart.png" alt="Open vesus Closed Models" class="teaser-image" width="48%"
+                class="center" />
+              <img src="./images/codegen_performance.png" alt="Code Execution Performance" class="teaser-image"
+                width="48%" class="center" />
             </div>
           </div>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="section" id="BibTeX">
-      <div class="container is-max-desktop content">
-        <h2 class="title">BibTeX</h2>
-        <pre><code>@article{FIXME,
+
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@article{jain2024livecodebench,
   author    = {Naman Jain, King Han, Alex Gu, Wen-Ding Li, Fanjia Yan, Tianjun Zhang, Sida Wang, Armando Solar-Lezama, Koushik Sen, Ion Stoica},
   title     = {LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code},
-  journal   = {FIXME},
   year      = {2024},
+  journal   = {arXiv preprint},
 }</code></pre>
-      </div>
-    </section>
+    </div>
+  </section>
 
-    <footer class="footer">
-      <div class="container">
-        <div class="content has-text-centered">
-          <a class="icon-link" href="FIXME">
-            <i class="fas fa-file-pdf"></i>
-          </a>
-          <a class="icon-link" href="FIXME">
-            <i class="fab fa-github"></i>
-          </a>
-        </div>
-        <div class="columns is-centered">
-          <div class="column is-8">
-            <div class="content">
-              <p>
-                This website is licensed under a
-                <a
-                  rel="license"
-                  href="http://creativecommons.org/licenses/by-sa/4.0/"
-                  >Creative Commons Attribution-ShareAlike 4.0 International
-                  License</a
-                >.
-              </p>
-              <p>
-                This means you are free to borrow the
-                <a
-                  href="https://github.com/LiveCodeBench/livecodebench.github.io"
-                  >source code</a
-                >
-                of this website, we just ask that you link back to this page in
-                the footer. Please remember to remove the analytics code
-                included in the header of the website which you do not want on
-                your website.
-              </p>
-            </div>
+  <footer class="footer">
+    <div class="container">
+
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              The source code from this website is borrowed from <a
+                href="https://github.com/nerfies/nerfies.github.io">this template</a>!
+            </p>
           </div>
         </div>
       </div>
-    </footer>
-  </body>
+    </div>
+  </footer>
+</body>
+
 </html>
