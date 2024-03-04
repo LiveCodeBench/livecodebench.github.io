@@ -150,6 +150,15 @@ const Leaderboard = (props: any) => {
           <b>Select a date range for filtering problems</b>
         </div>
         <Box sx={{ width: "100%" }} px={6} pt={5} pb={2}>
+          <style>
+            {`
+              @media (max-width: 768px) {
+                .MuiSlider-markLabel {
+                  display: none;
+                }
+              }
+            `}
+          </style>
           <Slider
             aria-label="Date Slider"
             value={dateStartAndEnd}
