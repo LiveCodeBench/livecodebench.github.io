@@ -136,7 +136,7 @@ const Leaderboard = (props: any) => {
   const gridStyle = useMemo(
     () => ({
       height: "1250px",
-      width: "704px",
+      minWidth: "704px",
       "--ag-font-family": FONT_FAMILY,
     }),
     []
@@ -171,7 +171,7 @@ const Leaderboard = (props: any) => {
           alignItems: "center",
         }}
       >
-        <div style={{ flexGrow: "1" }}>
+        <div style={{ flexGrow: "1", width: "100%" }}>
           <div style={gridStyle} className={agGridTheme}>
             {/* @ts-ignore */}
             <AgGridReact
