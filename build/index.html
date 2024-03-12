@@ -71,7 +71,7 @@
               <span class="author-block">
                 <a href="https://tianjunz.github.io/">Tianjun Zhang</a><sup>1</sup>,</span>
               <span class="author-block">
-                <a href="https://www.sidaw.xyz/">Sida Wang</a><sup>4</sup>,</span>
+                <a href="https://www.sidaw.xyz/">Sida Wang</a>,</span>
               <span class="author-block">
                 <a href="https://people.csail.mit.edu/asolar/">Armando Solar-Lezama</a><sup>2</sup>,</span>
               <span class="author-block">
@@ -84,7 +84,6 @@
               <span class="author-block"><sup>1</sup>University of California, Berkeley</span>
               <span class="author-block"><sup>2</sup>MIT</span>
               <span class="author-block"><sup>3</sup>Cornell University</span>
-              <span class="author-block"><sup>4</sup>Meta AI</span>
             </div>
 
             <div class="column has-text-centered">
@@ -166,7 +165,7 @@
               such as self-repair, code execution, and test output prediction,
               beyond mere code generation. Currently, LiveCodeBench hosts over
               three hundred high-quality coding problems published between May
-              2023 and January 2024. We evaluate 29 LLMs on LiveCodeBench
+              2023 and February 2024. We evaluate 29 LLMs on LiveCodeBench
               scenarios and present novel empirical findings not revealed in
               prior benchmarks.
             </p>
@@ -215,7 +214,7 @@
     <div class="container is-max-desktop">
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
-          <h2 class="title is-3">Holistic Evaluation and Overfitting</h2>
+          <h2 class="title is-3">Holistic Evaluation and Open vs Closed Models</h2>
           <div class="content has-text-justified">
             <p>
               <span class="dnerf">LiveCodeBench</span> evaluates models on a variety of code-related scenarios, such as
@@ -233,9 +232,35 @@
             <br />
             <div class="columns is-centered">
               <img src="./images/tasks_radar.png" alt="Holistic Evaluation" class="teaser-image" width="44%"
+                height="44%" class="center" />
+              <img src="./images/lc_barchart.png" alt="Open vesus Closed Models" class="teaser-image" width="48%"
                 class="center" />
-              <img src="./images/lcb_vs_he.png" alt="HumanEval Overfitting" class="teaser-image" width="55%"
-                class="center" />
+
+              <!-- <img src="./images/lcb_vs_he.png" alt="HumanEval Overfitting" class="teaser-image" width="55%"
+                height="55%" class="center" /> -->
+            </div>
+            <p>
+              We compare the performance of open access models with closed api-access models on <span
+                class="dnerf">LiveCodeBench</span> and find that generally the closed api-access models outperform the
+              open models. Particularly, the only open models that surpass the barrier are fine-tuned variants of large
+              (30+B parameter) models.
+            </p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Potential Overfitting in HumanEval</h2>
+          <div class="content has-text-justified">
+            <div class="columns is-centered">
+              <img src="./images/lcb_vs_he.png" alt="HumanEval Overfitting" class="teaser-image" width="80%"
+                height="80%" class="center" />
             </div>
             <p>
               We also find that models that perform well on <span class="dnerf">HumanEval</span> might be overfitting on
@@ -249,20 +274,17 @@
               For instance, <span class="dnerf">DS-Ins-1.3B</span> model outperforms <span
                 class="dnerf">Gemini-Pro</span> and <span class="dnerf">Claude-Ins-1</span> but performs considerably
               worse on <span class="dnerf">LCB-Easy</span>.
-            </p>
-
-            <p>
               Interestingly, the models in the red region are mostly fine-tuned variants of open access models. On the
               other hand, base models and most of the closed api-access models lie in the green region. This highlights
-              a potential lack of diverse fine-tuning data being employed by the open source community.
+              a potential lack of diverse fine-tuning data being employed by the open source community and the need for
+              optimizing models for a broader set of code-related tasks.
             </p>
-
           </div>
         </div>
       </div>
+
     </div>
   </section>
-
 
   <section class="section">
     <div class="container is-max-desktop">
@@ -270,16 +292,16 @@
         <div class="column is-four-fifths">
           <h2 class="title is-3">Model Comparisions</h2>
           <div class="content has-text-justified">
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
-              voluptatibus nam explicabo, quod animi iusto cupiditate
-              consequuntur quia nulla ut at iure vitae facere est consequatur
-              fuga molestiae error asperiores!
-            </p>
             <div class="columns is-centered">
-              <img src="./images/lc_barchart.png" alt="Open vesus Closed Models" class="teaser-image" width="48%"
-                class="center" />
-              <img src="./images/codegen_performance.png" alt="Code Execution Performance" class="teaser-image"
+              <img src="./images/codegen_performance.png" alt="Code Generation Performance" class="teaser-image"
+                width="48%" class="center" />
+              <img src="./images/repair_performance.png" alt="Code Execution Performance" class="teaser-image"
+                width="48%" class="center" />
+            </div>
+            <div class="columns is-centered">
+              <img src="./images/testgen_performance.png" alt="Code Execution Performance" class="teaser-image"
+                width="48%" class="center" />
+              <img src="./images/execution_performance.png" alt="Code Execution Performance" class="teaser-image"
                 width="48%" class="center" />
             </div>
           </div>
