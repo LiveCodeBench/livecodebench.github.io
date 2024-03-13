@@ -1,0 +1,44 @@
+  agGridMaxWidth {
+      max-width: 1200px;
+      /* Adjust this value based on your preference */
+      margin: auto;
+      /* This centers the grid horizontally */
+  }
+
+  .ag-theme-quartz .ag-cell {
+      font-size: 17px !important;
+  }
+
+  .ag-theme-quartz .ag-header-cell-label {
+      font-size: 19px !important;
+      align-items: center;
+  }
+
+  .MuiSlider-markLabel {
+      display: none;
+  }
+
+
+  @media only screen and (max-width: 768px) {
+      agGridMaxWidth {
+          max-width: 750px;
+          /* Adjust this value based on your preference */
+          margin: auto;
+          /* This centers the grid horizontally */
+      }
+
+      .ag-theme-quartz .ag-cell {
+          font-size: 14px !important;
+      }
+
+      .ag-theme-quartz .ag-header-cell-label {
+          font-size: 16px !important;
+          align-items: center;
+      }
+
+      #flexGridWrapper {
+          width: 100%;
+          margin: auto;
+          max-width: 760px;
+      }
+  }

@@ -9,7 +9,7 @@ import Grid from '@mui/material/Grid';
 import { AgGridReact } from "ag-grid-react"
 import "ag-grid-community/styles/ag-grid.css" // Core CSS
 import "ag-grid-community/styles/ag-theme-quartz.css" // Theme
-
+import "./LeaderboardComp.css"
 import Box from "@mui/material/Box"
 import Slider from "@mui/material/Slider"
 import { ThemeProvider, createTheme } from "@mui/material/styles"
@@ -209,44 +209,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
 
         <Box sx={{ width: "100%" }} px={6} pt={5} pb={2}>
-          <style>
-            {`
-              agGridMaxWidth {
-                max-width: 1200px; /* Adjust this value based on your preference */
-                margin: auto; /* This centers the grid horizontally */
-              }
 
-              .ag-theme-quartz .ag-cell {
-                font-size: 17px !important;
-              }
-              
-              .ag-theme-quartz .ag-header-cell-label {
-                font-size: 19px !important;
-                align-items: center;
-              }
-              .MuiSlider-markLabel {
-                display: none;
-              }
-            
-              
-              @media (max-width: 600px) {
-                agGridMaxWidth {
-                  max-width: 700px; /* Adjust this value based on your preference */
-                  margin: auto; /* This centers the grid horizontally */
-                }
-  
-                .ag-theme-quartz .ag-cell {
-                  font-size: 14px !important;
-                }
-                
-                .ag-theme-quartz .ag-header-cell-label {
-                  font-size: 16px !important;
-                  align-items: center;
-                }
-                                
-              }
-            `}
-          </style>
           <Grid container justifyContent="center">
             <Grid item xs={12}>
 
@@ -273,7 +236,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
           alignItems: "center",
         }}
       >
-        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", width: "100%" }}>
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", width: "100%" }} id='flexGridWrapper'>
           <div style={{ flexGrow: "1", width: "100%", display: "flex", justifyContent: "center" }}> {/* Center the grid */}
             <div style={gridStyle} className={agGridTheme}>
               {/* @ts-ignore */}
