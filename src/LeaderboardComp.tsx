@@ -31,6 +31,8 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   const { performances, models, date_marks } = args;
 
 
+  const [isMobileCompressed, setIsMobileCompressed] = useState(window.innerWidth < 768);
+
   // const [data, setData] = useState(args);
 
   // console.log(props)
@@ -54,7 +56,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   const [dateMarks, setDateMarks] = React.useState(() => getDateMarksFromTimestamps(date_marks));
 
   useEffect(() => {
-    console.log('Component re-rendered due to changes in date_marks:', date_marks);
+    // console.log('Component re-rendered due to changes in date_marks:', date_marks);
     setDateMarks(getDateMarksFromTimestamps(date_marks));
   }, [date_marks]);
 
@@ -122,7 +124,20 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
     );
   }, [performances, models, dateStartAndEnd]);
 
+  if (isMobileCompressed) {
+    // remove columns from leaderboard
+    // remove Easy-Pass@1, Medium-Pass@1, Hard-Pass@1
 
+    // will delete throw error if column not found
+
+    leaderboard.forEach((row: any) => {
+      delete row["Easy-Pass@1"];
+      delete row["Medium-Pass@1"];
+      delete row["Hard-Pass@1"];
+      delete row["Pass@1 (no COT)"];
+    });
+
+  }
   // console.log(leaderboard)
 
 
@@ -159,7 +174,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   const [rowData, setRowData] = useState(leaderboard)
 
   useEffect(() => {
-    console.log('Component re-rendered due to changes in leaderboard:', leaderboard);
+    // console.log('Component re-rendered due to changes in leaderboard:', leaderboard);
     setRowData(leaderboard);
   }, [leaderboard]);
 
@@ -168,7 +183,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   )
 
   useEffect(() => {
-    console.log('Component re-rendered due to changes in column:', columnNames, modelsDict);
+    // console.log('Component re-rendered due to changes in column:', columnNames, modelsDict);
     setColumnDefs(getColumnDefs(columnNames, modelsDict));
   }, [columnNames, modelsDict]);
 
@@ -190,11 +205,11 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
   const gridStyle = useMemo(
     () => ({
-      // height: "1250px",
       height: 42 * rowData.length + "px",
+      "--ag-font-family": FONT_FAMILY,
       // minWidth: "760px",
       // maxWidth: "100%",
-      "--ag-font-family": FONT_FAMILY,
+      // height: "1250px",
     }),
     [rowData]
   )

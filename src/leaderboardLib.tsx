@@ -84,7 +84,7 @@ function get_pass_at_1(
     mean(results.map((result) => result["Pass@1-COT"]))
   )
 
-  console.log("COT PASS: ", cot_pass, cot_pass != undefined, cot_pass != null, cot_pass.toString() != "NaN")
+  // console.log("COT PASS: ", cot_pass, cot_pass != undefined, cot_pass != null, cot_pass.toString() != "NaN")
 
   return {
     average_pass,
@@ -149,7 +149,7 @@ function getLeaderboard(
             "Release Date: " + new Date(model.release_date).toLocaleDateString(),
           Contaminated: model.release_date >= start,
           "Pass@1": cot_pass,
-          "Pass@1 (no CoT)": exec_pass,
+          "Pass@1 (no COT)": exec_pass,
         }
         return output
       }
@@ -272,12 +272,21 @@ function getColumnDefs(columnNames: Array<string>, modelsDict: any) {
             `,
             sort: "desc",
           }
-        case "Pass@1-CoT":
+        case "Pass@1-COT":
           return {
             field: column_name,
             headerTooltip: `
                 Pass@1 is probability of passing a given problem in one attempt with CoT.
               `,
+            sort: "desc",
+          }
+
+        case "Pass@1 (no COT)":
+          return {
+            field: column_name,
+            headerTooltip: `
+                  Pass@1 is probability of passing a given problem in one attempt with CoT.
+                `,
             sort: "desc",
           }
 

@@ -29,7 +29,7 @@ const LeaderboardTabs = () => {
 
   // Function to render the leaderboard based on the selected tab
   const renderLeaderboard = () => {
-    console.log(activeTab);
+    // console.log(activeTab);
     switch (activeTab) {
       case 'tab1':
         return <Leaderboard theme={{ base: "light" }} args={mockDataGen} />;
