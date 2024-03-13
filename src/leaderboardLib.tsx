@@ -289,7 +289,7 @@ function getColumnDefs(columnNames: Array<string>, modelsDict: any) {
           return {
             field: column_name,
             headerTooltip: `
-                  Pass@1 is probability of passing a given problem in one attempt with CoT.
+                  Pass@1 is probability of passing a given problem in one attempt without CoT.
                 `,
             sort: "desc",
           }

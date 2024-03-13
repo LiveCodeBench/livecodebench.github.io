@@ -216,6 +216,11 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
     [rowData]
   )
 
+
+  const autoSizeStrategy = {
+    type: 'fitCellContents'
+  };
+
   return (
     <div style={{ width: "100%", height: "100%" }}>
       <ThemeProvider theme={muiTheme}>
@@ -267,7 +272,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
                 rowSelection={"multiple"}
                 enableCellTextSelection={true}
                 tooltipShowDelay={0}
-                suppressMovable
+                autoSizeStrategy={autoSizeStrategy}
               />
             </div>
           </div>
