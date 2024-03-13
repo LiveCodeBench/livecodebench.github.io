@@ -148,8 +148,8 @@ function getLeaderboard(
           "Release Date":
             "Release Date: " + new Date(model.release_date).toLocaleDateString(),
           Contaminated: model.release_date >= start,
-          "Pass@1-CoT": cot_pass,
-          "Pass@1": exec_pass,
+          "Pass@1": cot_pass,
+          "Pass@1 (no CoT)": exec_pass,
         }
         return output
       }

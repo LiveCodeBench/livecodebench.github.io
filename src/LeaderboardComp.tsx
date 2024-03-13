@@ -24,16 +24,17 @@ import "./LeaderboardAgGrid.css"
 import styles from "./Leaderboard.module.css"
 const FONT_FAMILY = "'JetBrains Mono', monospace"
 
-const Leaderboard = (props: any) => {
+const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   // args from Streamlit
   let args = props.args;
   const { performances, models, date_marks } = args;
+
 
   // const [data, setData] = useState(args);
 
   // console.log(props)
   // console.log(performances)
-  console.log(models)
+  // console.log(models)
 
 
 
@@ -52,6 +53,7 @@ const Leaderboard = (props: any) => {
   const [dateMarks, setDateMarks] = React.useState(() => getDateMarksFromTimestamps(date_marks));
 
   useEffect(() => {
+    console.log('Component re-rendered due to changes in date_marks:', date_marks);
     setDateMarks(getDateMarksFromTimestamps(date_marks));
   }, [date_marks]);
 
@@ -120,11 +122,24 @@ const Leaderboard = (props: any) => {
   }, [performances, models, dateStartAndEnd]);
 
 
-  console.log(leaderboard)
+  // console.log(leaderboard)
+
+
+  const numProblems = performances.filter(
+    (result: any) =>
+      result["model"] === "GPT-3.5-Turbo-0301" &&
+      result["date"] >= dateStartAndEnd[0] &&
+      result["date"] <= dateStartAndEnd[1]
+  ).length;
+
 
   // df is an array of objects
   // Get the columns of df
-  const columnNames = Object.keys(leaderboard[0])
+  const columnNames = useMemo(() => {
+    return Object.keys(leaderboard[0])
+  }, [leaderboard]);
+
+  // Object.keys(leaderboard[0])
 
   const defaultColDef = useMemo(() => {
     return {
@@ -143,6 +158,7 @@ const Leaderboard = (props: any) => {
   const [rowData, setRowData] = useState(leaderboard)
 
   useEffect(() => {
+    console.log('Component re-rendered due to changes in leaderboard:', leaderboard);
     setRowData(leaderboard);
   }, [leaderboard]);
 
@@ -151,11 +167,12 @@ const Leaderboard = (props: any) => {
   )
 
   useEffect(() => {
+    console.log('Component re-rendered due to changes in column:', columnNames, modelsDict);
     setColumnDefs(getColumnDefs(columnNames, modelsDict));
   }, [columnNames, modelsDict]);
 
 
-  console.log(columnNames, modelsDict);
+  // console.log(columnNames, modelsDict);
   // ********* Styles and return *********
 
   const muiTheme = createTheme({
@@ -185,12 +202,12 @@ const Leaderboard = (props: any) => {
       <ThemeProvider theme={muiTheme}>
         <CssBaseline />
         <div style={{ display: "flex", justifyContent: "center" }}>
-          <b>Select a date range for filtering problems</b>
+          <b>Current number of problems - {numProblems}. Select a time-window for filtering problems</b>
         </div>
         <Box sx={{ width: "100%" }} px={6} pt={5} pb={2}>
           <style>
             {`
-              @media (max-width: 768px) {
+              @media (max-width: 900px) {
                 .MuiSlider-markLabel {
                   display: none;
                 }
@@ -236,7 +253,7 @@ const Leaderboard = (props: any) => {
       </div>
     </div>
   )
-}
+});
 
 // // This line is changed from the original streamlit code
 // export default withStreamlitConnection(Leaderboard)
