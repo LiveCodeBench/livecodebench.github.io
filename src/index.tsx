@@ -2,7 +2,10 @@ import React from "react"
 import ReactDOM from "react-dom"
 import Leaderboard from "./LeaderboardComp"
 
-import mockData from "./mocks/2024_02_26.json"
+import mockDataGen from "./mocks/performances_generation.json"
+import mockDataRep from "./mocks/performances_repair.json"
+import mockDataTest from "./mocks/performances_testgen.json"
+
 
 ReactDOM.render(
   <React.StrictMode>
@@ -31,7 +34,7 @@ ReactDOM.render(
                 </div>
               </div>
               <div className="column has-text-centered">
-                <Leaderboard theme={{ base: "light" }} args={mockData} />
+                <Leaderboard theme={{ base: "light" }} args={mockDataGen} />
               </div>
             </div>
           </div>
