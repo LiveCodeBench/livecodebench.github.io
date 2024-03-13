@@ -217,20 +217,33 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
               }
 
               .ag-theme-quartz .ag-cell {
-                font-size: 18px !important;
+                font-size: 17px !important;
               }
               
               .ag-theme-quartz .ag-header-cell-label {
-                font-size: 20px !important;
+                font-size: 19px !important;
                 align-items: center;
               }
-              
+              .MuiSlider-markLabel {
+                display: none;
+              }
+            
               
               @media (max-width: 600px) {
-                .MuiSlider-markLabel {
-                  display: none;
+                agGridMaxWidth {
+                  max-width: 700px; /* Adjust this value based on your preference */
+                  margin: auto; /* This centers the grid horizontally */
                 }
-                .
+  
+                .ag-theme-quartz .ag-cell {
+                  font-size: 14px !important;
+                }
+                
+                .ag-theme-quartz .ag-header-cell-label {
+                  font-size: 16px !important;
+                  align-items: center;
+                }
+                                
               }
             `}
           </style>
