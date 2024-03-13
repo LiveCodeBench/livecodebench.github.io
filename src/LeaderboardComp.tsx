@@ -205,11 +205,13 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
   const gridStyle = useMemo(
     () => ({
-      height: 42 * rowData.length + "px",
+      height: `${Math.min(42 * rowData.length, 1000)}px`, // Adjust 600 to your desired max height
+      // height: "100%",
       "--ag-font-family": FONT_FAMILY,
       // minWidth: "760px",
       // maxWidth: "100%",
       // height: "1250px",
+      overflow: "auto",
     }),
     [rowData]
   )
@@ -265,6 +267,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
                 rowSelection={"multiple"}
                 enableCellTextSelection={true}
                 tooltipShowDelay={0}
+                suppressMovable
               />
             </div>
           </div>

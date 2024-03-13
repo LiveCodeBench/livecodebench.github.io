@@ -45,7 +45,7 @@
     }
 
     .tab-content {
-        padding: 5px;
+        padding: 6px;
         /* Adjust padding for consistency */
     }
 }
@@ -53,12 +53,12 @@
 /* Further adjustments for very small screens */
 @media (max-width: 480px) {
     .tabs li {
-        padding: 12px 5px;
+        padding: 8px 8px;
         /* Reduce padding on very small screens */
     }
 
     .tab-content {
-        padding: 12px;
+        padding: 4px;
         /* Consistent padding adjustment */
     }
 }

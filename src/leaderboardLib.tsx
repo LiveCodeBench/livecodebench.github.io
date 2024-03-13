@@ -229,11 +229,15 @@ function getColumnDefs(columnNames: Array<string>, modelsDict: any) {
         case "Rank":
           return {
             field: column_name,
+            suppressMovable: true,
+            cellClass: 'suppress-movable-col',
           }
 
         case "Model":
           return {
             field: column_name,
+            suppressMovable: true,
+            cellClass: 'suppress-movable-col',
             flex: 2,
             tooltipField: "Release Date",
             cellRenderer: (params: any) => {
