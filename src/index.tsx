@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import ReactDOM from "react-dom"
 import Leaderboard from "./LeaderboardComp"
 
@@ -13,6 +13,19 @@ import mockDataExec from "./mocks/performances_execution.json"
 const LeaderboardTabs = () => {
   // State to track the currently selected tab
   const [activeTab, setActiveTab] = useState('tab1');
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+
+    window.addEventListener('resize', handleResize);
+
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
 
   // Function to render the leaderboard based on the selected tab
   const renderLeaderboard = () => {
@@ -32,7 +45,7 @@ const LeaderboardTabs = () => {
   };
   return (
     <div className="tabs-container">
-      <ul className="tabs">
+      <ul className={`tabs ${isMobile ? 'mobile' : ''}`}>
         <li className={activeTab === 'tab1' ? 'is-active' : ''} onClick={() => setActiveTab('tab1')}><a>Code Generation</a></li>
         <li className={activeTab === 'tab2' ? 'is-active' : ''} onClick={() => setActiveTab('tab2')}><a>Self Repair</a></li>
         <li className={activeTab === 'tab3' ? 'is-active' : ''} onClick={() => setActiveTab('tab3')}><a>Test Output Prediction</a></li>

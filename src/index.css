@@ -31,3 +31,34 @@
     border-radius: 8px;
     margin-top: 10px;
 }
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .tabs {
+        flex-direction: column;
+        /* Stack tabs vertically */
+    }
+
+    .tabs li {
+        padding: 15px 10px;
+        /* Adjust padding for better touch targets */
+    }
+
+    .tab-content {
+        padding: 15px;
+        /* Adjust padding for consistency */
+    }
+}
+
+/* Further adjustments for very small screens */
+@media (max-width: 480px) {
+    .tabs li {
+        padding: 12px 5px;
+        /* Reduce padding on very small screens */
+    }
+
+    .tab-content {
+        padding: 12px;
+        /* Consistent padding adjustment */
+    }
+}
