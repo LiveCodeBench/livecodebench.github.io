@@ -21,31 +21,42 @@
 
   @media only screen and (max-width: 768px) {
       agGridMaxWidth {
-          max-width: 750px;
+          width: 100% !important;
+          /* max-width: 750px; */
           /* Adjust this value based on your preference */
           margin: auto;
           /* This centers the grid horizontally */
       }
 
       .ag-root-wrapper {
-          width: 100%;
-          max-width: 750px;
+          width: 100% !important;
+          /* max-width: 750px; */
+          margin: auto;
+      }
+
+      .ag-theme-quartz {
+          width: 100% !important;
           margin: auto;
       }
 
       .ag-theme-quartz .ag-cell {
-          font-size: 14px !important;
+          font-size: 12px !important;
+          align-items: center;
+          width: 100% !important;
+          margin: auto;
       }
 
       .ag-theme-quartz .ag-header-cell-label {
-          font-size: 16px !important;
+          font-size: 14px !important;
           align-items: center;
+          width: 100% !important;
+          margin: auto;
       }
 
       #flexGridWrapper {
-          width: 100%;
+          width: 100% !important;
           margin: auto;
-          max-width: 760px;
+          /* max-width: 760px; */
 
       }
   }

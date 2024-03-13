@@ -192,8 +192,8 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
     () => ({
       // height: "1250px",
       height: 42 * rowData.length + "px",
-      minWidth: "760px",
-      maxWidth: "100%",
+      // minWidth: "760px",
+      // maxWidth: "100%",
       "--ag-font-family": FONT_FAMILY,
     }),
     [rowData]
