@@ -12,8 +12,8 @@
 } */
 
 .leaderboardModelContaminated {
-  background-color: rgb(0, 0, 0, 0.05);
+  background-color: rgba(227, 178, 178, 0.3);
   /* backdrop-filter: blur(6px); */
   color: transparent;
-  text-shadow: 0 0 2px #000;
+  text-shadow: 0 0 0.05px #000;
 }

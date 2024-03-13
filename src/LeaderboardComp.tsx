@@ -4,7 +4,7 @@ import {
   withStreamlitConnection,
 } from "streamlit-component-lib"
 
-import React, { useCallback, useMemo, useRef, useState } from "react"
+import React, { useCallback, useMemo, useRef, useEffect, useState } from "react"
 import { AgGridReact } from "ag-grid-react"
 import "ag-grid-community/styles/ag-grid.css" // Core CSS
 import "ag-grid-community/styles/ag-theme-quartz.css" // Theme
@@ -26,10 +26,17 @@ const FONT_FAMILY = "'JetBrains Mono', monospace"
 
 const Leaderboard = (props: any) => {
   // args from Streamlit
-  const { performances, models, date_marks } = props.args
+  let args = props.args;
+  const { performances, models, date_marks } = args;
+
+  // const [data, setData] = useState(args);
+
   // console.log(props)
   // console.log(performances)
-  // console.log(models)
+  console.log(models)
+
+
+
 
   const modelsDict = useMemo(() => {
     return models.reduce((acc: any, model: any) => {
@@ -37,6 +44,7 @@ const Leaderboard = (props: any) => {
       return acc
     }, {})
   }, [models])
+
 
   // ********* DateSlider *********
 
@@ -95,6 +103,8 @@ const Leaderboard = (props: any) => {
     dateStartAndEnd[0],
     dateStartAndEnd[1]
   )
+
+  console.log(leaderboard)
 
   // df is an array of objects
   // Get the columns of df
