@@ -48,12 +48,18 @@ const Leaderboard = (props: any) => {
 
   // ********* DateSlider *********
 
-  const dateMarks = getDateMarksFromTimestamps(date_marks)
+  // const dateMarks = getDateMarksFromTimestamps(date_marks)
+  const [dateMarks, setDateMarks] = React.useState(() => getDateMarksFromTimestamps(date_marks));
+
+  useEffect(() => {
+    setDateMarks(getDateMarksFromTimestamps(date_marks));
+  }, [date_marks]);
 
   const [dateStartAndEnd, setDateStartAndEnd] = React.useState<number[]>([
     dateMarks[1].value, // Right now, this is 2023-05-01
     dateMarks[dateMarks.length - 1].value,
   ])
+
 
   const dateSliderHandleChange = (
     event: Event,
@@ -97,12 +103,22 @@ const Leaderboard = (props: any) => {
 
   // ********* AgGrid *********
 
-  const leaderboard = getLeaderboard(
-    performances,
-    models,
-    dateStartAndEnd[0],
-    dateStartAndEnd[1]
-  )
+  // const leaderboard = getLeaderboard(
+  //   performances,
+  //   models,
+  //   dateStartAndEnd[0],
+  //   dateStartAndEnd[1]
+  // )
+
+  const leaderboard = useMemo(() => {
+    return getLeaderboard(
+      performances,
+      models,
+      dateStartAndEnd[0],
+      dateStartAndEnd[1]
+    );
+  }, [performances, models, dateStartAndEnd]);
+
 
   console.log(leaderboard)
 
@@ -125,10 +141,21 @@ const Leaderboard = (props: any) => {
 
   const gridRef = useRef()
   const [rowData, setRowData] = useState(leaderboard)
+
+  useEffect(() => {
+    setRowData(leaderboard);
+  }, [leaderboard]);
+
   const [columnDefs, setColumnDefs] = useState(
     getColumnDefs(columnNames, modelsDict)
   )
 
+  useEffect(() => {
+    setColumnDefs(getColumnDefs(columnNames, modelsDict));
+  }, [columnNames, modelsDict]);
+
+
+  console.log(columnNames, modelsDict);
   // ********* Styles and return *********
 
   const muiTheme = createTheme({
@@ -145,11 +172,12 @@ const Leaderboard = (props: any) => {
 
   const gridStyle = useMemo(
     () => ({
-      height: "1250px",
+      // height: "1250px",
+      height: 42 * rowData.length + "px",
       minWidth: "760px",
       "--ag-font-family": FONT_FAMILY,
     }),
-    []
+    [rowData]
   )
 
   return (

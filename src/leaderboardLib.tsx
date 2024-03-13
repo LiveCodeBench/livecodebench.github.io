@@ -76,11 +76,23 @@ function get_pass_at_1(
     )
   )
 
+  const exec_pass = formatNumber(
+    mean(results.map((result) => result["Pass@1"]))
+  )
+
+  const cot_pass = formatNumber(
+    mean(results.map((result) => result["Pass@1-COT"]))
+  )
+
+  console.log("COT PASS: ", cot_pass, cot_pass != undefined, cot_pass != null, cot_pass.toString() != "NaN")
+
   return {
     average_pass,
     easy_pass,
     medium_pass,
     hard_pass,
+    exec_pass,
+    cot_pass,
   }
 }
 
@@ -124,21 +136,35 @@ function getLeaderboard(
   return models
     .filter((model) => model.release_date)
     .map((model) => {
-      const { average_pass, easy_pass, medium_pass, hard_pass } = get_pass_at_1(
+      const { average_pass, easy_pass, medium_pass, hard_pass, exec_pass, cot_pass } = get_pass_at_1(
         performances,
         model.model_repr,
         start,
         end
       )
-      return {
-        Model: model.model_repr,
-        "Release Date":
-          "Release Date: " + new Date(model.release_date).toLocaleDateString(),
-        Contaminated: model.release_date >= start,
-        "Pass@1": average_pass || 0,
-        "Easy-Pass@1": easy_pass || 0,
-        "Medium-Pass@1": medium_pass || 0,
-        "Hard-Pass@1": hard_pass || 0,
+      if (cot_pass.toString() != "NaN") {
+        let output = {
+          Model: model.model_repr,
+          "Release Date":
+            "Release Date: " + new Date(model.release_date).toLocaleDateString(),
+          Contaminated: model.release_date >= start,
+          "Pass@1-CoT": cot_pass,
+          "Pass@1": exec_pass,
+        }
+        return output
+      }
+      else {
+        let output = {
+          Model: model.model_repr,
+          "Release Date":
+            "Release Date: " + new Date(model.release_date).toLocaleDateString(),
+          Contaminated: model.release_date >= start,
+          "Pass@1": average_pass,
+          "Easy-Pass@1": easy_pass,
+          "Medium-Pass@1": medium_pass,
+          "Hard-Pass@1": hard_pass,
+        }
+        return output
       }
     })
     .sort((a, b) => b["Pass@1"] - a["Pass@1"])
@@ -244,6 +270,14 @@ function getColumnDefs(columnNames: Array<string>, modelsDict: any) {
             headerTooltip: `
               Pass@1 is probability of passing a given problem in one attempt.
             `,
+            sort: "desc",
+          }
+        case "Pass@1-CoT":
+          return {
+            field: column_name,
+            headerTooltip: `
+                Pass@1 is probability of passing a given problem in one attempt with CoT.
+              `,
             sort: "desc",
           }
 

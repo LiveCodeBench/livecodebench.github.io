@@ -1,0 +1,33 @@
+.tabs-container {
+    font-family: Arial, sans-serif;
+}
+
+.tabs {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    background: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.tabs li {
+    flex-grow: 1;
+    text-align: center;
+    padding: 10px 20px;
+    cursor: pointer;
+    background: #ddd;
+    transition: background-color 0.3s ease;
+}
+
+.tabs li.is-active,
+.tabs li:hover {
+    background: #bbb;
+}
+
+.tab-content {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-top: 10px;
+}

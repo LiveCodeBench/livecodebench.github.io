@@ -2,10 +2,12 @@ import React, { useState } from 'react';
 import ReactDOM from "react-dom"
 import Leaderboard from "./LeaderboardComp"
 
+import "./index.css"
+
 import mockDataGen from "./mocks/performances_generation.json"
 import mockDataRep from "./mocks/performances_repair.json"
 import mockDataTest from "./mocks/performances_testgen.json"
-
+import mockDataExec from "./mocks/performances_execution.json"
 
 
 const LeaderboardTabs = () => {
@@ -22,21 +24,23 @@ const LeaderboardTabs = () => {
         return <Leaderboard theme={{ base: "light" }} args={mockDataRep} />;
       case 'tab3':
         return <Leaderboard theme={{ base: "light" }} args={mockDataTest} />;
+      case 'tab4':
+        return <Leaderboard theme={{ base: "light" }} args={mockDataExec} />;
       default:
         return <div>Select a tab</div>;
     }
   };
   return (
-    <div>
-      <div className="tabs is-boxed">
-        <ul>
-          <li className={activeTab === 'tab1' ? 'is-active' : ''} onClick={() => setActiveTab('tab1')}><a>Code Generation</a></li>
-          <li className={activeTab === 'tab2' ? 'is-active' : ''} onClick={() => setActiveTab('tab2')}><a>Self Repair</a></li>
-          <li className={activeTab === 'tab3' ? 'is-active' : ''} onClick={() => setActiveTab('tab3')}><a>Test Output Prediction</a></li>
-        </ul>
-
+    <div className="tabs-container">
+      <ul className="tabs">
+        <li className={activeTab === 'tab1' ? 'is-active' : ''} onClick={() => setActiveTab('tab1')}><a>Code Generation</a></li>
+        <li className={activeTab === 'tab2' ? 'is-active' : ''} onClick={() => setActiveTab('tab2')}><a>Self Repair</a></li>
+        <li className={activeTab === 'tab3' ? 'is-active' : ''} onClick={() => setActiveTab('tab3')}><a>Test Output Prediction</a></li>
+        <li className={activeTab === 'tab4' ? 'is-active' : ''} onClick={() => setActiveTab('tab4')}><a>Code Execution</a></li>
+      </ul>
+      <div className="tab-content">
+        {renderLeaderboard()}
       </div>
-      {renderLeaderboard()}
     </div>
   );
 };
