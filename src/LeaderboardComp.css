@@ -27,6 +27,12 @@
           /* This centers the grid horizontally */
       }
 
+      .ag-root-wrapper {
+          width: 100%;
+          max-width: 750px;
+          margin: auto;
+      }
+
       .ag-theme-quartz .ag-cell {
           font-size: 14px !important;
       }
