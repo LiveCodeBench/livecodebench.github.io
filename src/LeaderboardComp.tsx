@@ -5,6 +5,7 @@ import {
 } from "streamlit-component-lib"
 
 import React, { useCallback, useMemo, useRef, useEffect, useState } from "react"
+import Grid from '@mui/material/Grid';
 import { AgGridReact } from "ag-grid-react"
 import "ag-grid-community/styles/ag-grid.css" // Core CSS
 import "ag-grid-community/styles/ag-theme-quartz.css" // Theme
@@ -192,6 +193,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
       // height: "1250px",
       height: 42 * rowData.length + "px",
       minWidth: "760px",
+      maxWidth: "100%",
       "--ag-font-family": FONT_FAMILY,
     }),
     [rowData]
@@ -204,28 +206,51 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
         <div style={{ display: "flex", justifyContent: "center" }}>
           <b>Current number of problems - {numProblems}. Select a time-window for filtering problems</b>
         </div>
+
+
         <Box sx={{ width: "100%" }} px={6} pt={5} pb={2}>
           <style>
             {`
-              @media (max-width: 900px) {
+              agGridMaxWidth {
+                max-width: 1200px; /* Adjust this value based on your preference */
+                margin: auto; /* This centers the grid horizontally */
+              }
+
+              .ag-theme-quartz .ag-cell {
+                font-size: 18px !important;
+              }
+              
+              .ag-theme-quartz .ag-header-cell-label {
+                font-size: 20px !important;
+                align-items: center;
+              }
+              
+              
+              @media (max-width: 600px) {
                 .MuiSlider-markLabel {
                   display: none;
                 }
+                .
               }
             `}
           </style>
-          <Slider
-            aria-label="Date Slider"
-            value={dateStartAndEnd}
-            onChange={dateSliderHandleChange}
-            valueLabelFormat={dateLabelFormat}
-            getAriaValueText={dateAriaText}
-            step={null}
-            valueLabelDisplay="on"
-            marks={dateMarks}
-            min={dateMarks[0].value}
-            max={dateMarks[dateMarks.length - 1].value}
-          />
+          <Grid container justifyContent="center">
+            <Grid item xs={12}>
+
+              <Slider
+                aria-label="Date Slider"
+                value={dateStartAndEnd}
+                onChange={dateSliderHandleChange}
+                valueLabelFormat={dateLabelFormat}
+                getAriaValueText={dateAriaText}
+                step={null}
+                valueLabelDisplay="on"
+                marks={dateMarks}
+                min={dateMarks[0].value}
+                max={dateMarks[dateMarks.length - 1].value}
+              />
+            </Grid>
+          </Grid>
         </Box>
       </ThemeProvider>
       <div
@@ -235,23 +260,26 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
           alignItems: "center",
         }}
       >
-        <div style={{ flexGrow: "1", width: "100%" }}>
-          <div style={gridStyle} className={agGridTheme}>
-            {/* @ts-ignore */}
-            <AgGridReact
-              ref={gridRef}
-              rowData={rowData}
-              columnDefs={columnDefs}
-              defaultColDef={defaultColDef}
-              rowClassRules={rowClassRules}
-              rowSelection={"multiple"}
-              enableCellTextSelection={true}
-              tooltipShowDelay={0}
-            />
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", width: "100%" }}>
+          <div style={{ flexGrow: "1", width: "100%", display: "flex", justifyContent: "center" }}> {/* Center the grid */}
+            <div style={gridStyle} className={agGridTheme}>
+              {/* @ts-ignore */}
+
+              <AgGridReact
+                ref={gridRef}
+                rowData={rowData}
+                columnDefs={columnDefs}
+                defaultColDef={defaultColDef}
+                rowClassRules={rowClassRules}
+                rowSelection={"multiple"}
+                enableCellTextSelection={true}
+                tooltipShowDelay={0}
+              />
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </div >
   )
 });
 
