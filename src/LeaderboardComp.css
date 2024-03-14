@@ -2,6 +2,7 @@
       width: 100% !important;
       /* Adjust this value based on your preference */
       margin: auto;
+      overflow: auto !important;
       /* This centers the grid horizontally */
   }
 
@@ -14,6 +15,7 @@
   .ag-theme-quartz {
       width: 100% !important;
       margin: auto;
+      overflow: auto !important;
   }
 
 
@@ -48,7 +50,7 @@
           width: 100% !important;
           /* max-width: 750px; */
           /* Adjust this value based on your preference */
-          margin: auto;
+          margin: auto !important;
           /* This centers the grid horizontally */
       }
 

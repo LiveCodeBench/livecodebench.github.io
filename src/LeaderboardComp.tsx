@@ -221,6 +221,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
     type: 'fitCellContents'
   }
 
+
   return (
     <div style={{ width: "100%", height: "100%" }}>
       <ThemeProvider theme={muiTheme}>
@@ -273,6 +274,16 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
                 enableCellTextSelection={true}
                 tooltipShowDelay={0}
                 autoSizeStrategy={autoSizeStrategy}
+                onGridReady={(params) => {
+                  params.api.sizeColumnsToFit()
+                  params.api.autoSizeAllColumns(false)
+                  params.api.resetRowHeights()
+                }}
+                onGridSizeChanged={(params) => {
+                  params.api.sizeColumnsToFit()
+                  params.api.autoSizeAllColumns(false)
+                  params.api.resetRowHeights()
+                }}
               />
             </div>
           </div>
