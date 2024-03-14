@@ -219,7 +219,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
   const autoSizeStrategy = {
     type: 'fitCellContents'
-  };
+  }
 
   return (
     <div style={{ width: "100%", height: "100%" }}>
