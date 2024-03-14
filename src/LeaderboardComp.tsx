@@ -212,6 +212,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
       // maxWidth: "100%",
       // height: "1250px",
       overflow: "auto",
+      margin: "auto",
     }),
     [rowData]
   )
@@ -284,6 +285,17 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
                   params.api.autoSizeAllColumns(false)
                   params.api.resetRowHeights()
                 }}
+                onGridColumnsChanged={(params) => {
+                  params.api.sizeColumnsToFit()
+                  params.api.autoSizeAllColumns(false)
+                  params.api.resetRowHeights()
+                }}
+                onRowDataUpdated={(params) => {
+                  params.api.sizeColumnsToFit()
+                  params.api.autoSizeAllColumns(false)
+                  params.api.resetRowHeights()
+                }}
+
               />
             </div>
           </div>
