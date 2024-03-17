@@ -1,5 +1,6 @@
 import React from "react"
 import styles from "./Leaderboard.module.css"
+import { exec } from "child_process"
 
 function mean(array: Array<number>) {
   return array.reduce((a, b) => a + b, 0) / array.length
@@ -142,14 +143,14 @@ function getLeaderboard(
         start,
         end
       )
-      if (cot_pass.toString() != "NaN") {
+      if (performances[0].hasOwnProperty("Pass@1-COT")) {
         let output = {
           Model: model.model_repr,
           "Release Date":
             "Release Date: " + new Date(model.release_date).toLocaleDateString(),
           Contaminated: model.release_date >= start,
-          "Pass@1": cot_pass,
-          "Pass@1 (no COT)": exec_pass,
+          "Pass@1": cot_pass.toString() === "NaN" ? -1 : cot_pass,
+          "Pass@1 (no COT)": exec_pass.toString() === "NaN" ? -1 : exec_pass,
         }
         return output
       }
@@ -159,10 +160,10 @@ function getLeaderboard(
           "Release Date":
             "Release Date: " + new Date(model.release_date).toLocaleDateString(),
           Contaminated: model.release_date >= start,
-          "Pass@1": average_pass,
-          "Easy-Pass@1": easy_pass,
-          "Medium-Pass@1": medium_pass,
-          "Hard-Pass@1": hard_pass,
+          "Pass@1": average_pass.toString() === "NaN" ? -1 : average_pass,
+          "Easy-Pass@1": easy_pass.toString() === "NaN" ? -1 : easy_pass,
+          "Medium-Pass@1": medium_pass.toString() === "NaN" ? -1 : medium_pass,
+          "Hard-Pass@1": hard_pass.toString() === "NaN" ? -1 : hard_pass,
         }
         return output
       }

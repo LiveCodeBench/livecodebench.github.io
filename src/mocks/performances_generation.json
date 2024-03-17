@@ -96147,21 +96147,21 @@
             "model_repr": "StarCoder2-3b",
             "model_style": "StarCoderBase",
             "release_date": 1672560000000,
-            "link": "https://huggingface.co/bigcode/starcoder2-7b-magicoder-instruct/tree/main"
+            "link": "https://huggingface.co/bigcode/starcoder2-3b"
         },
         {
             "model_name": "bigcode/starcoder2-7b",
             "model_repr": "StarCoder2-7b",
             "model_style": "StarCoderBase",
             "release_date": 1672560000000,
-            "link": "https://huggingface.co/bigcode/starcoder2-7b-magicoder-instruct/tree/main"
+            "link": "https://huggingface.co/bigcode/starcoder2-7b"
         },
         {
             "model_name": "bigcode/starcoder2-15b",
             "model_repr": "StarCoder2-15b",
             "model_style": "StarCoderBase",
             "release_date": 1672560000000,
-            "link": "https://huggingface.co/bigcode/starcoder2-7b-magicoder-instruct/tree/main"
+            "link": "https://huggingface.co/bigcode/starcoder2-15b"
         },
         {
             "model_name": "codellama/CodeLlama-34b-hf",
@@ -96188,21 +96188,21 @@
             "model_name": "deepseek-ai/deepseek-coder-33b-base",
             "model_repr": "DSCoder-33b-Base",
             "model_style": "DeepSeekBase",
-            "release_date": 1672560000000,
+            "release_date": 1693378800000,
             "link": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-base"
         },
         {
             "model_name": "deepseek-ai/deepseek-coder-6.7b-base",
             "model_repr": "DSCoder-6.7b-Base",
             "model_style": "DeepSeekBase",
-            "release_date": 1672560000000,
+            "release_date": 1693378800000,
             "link": "https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base"
         },
         {
             "model_name": "deepseek-ai/deepseek-coder-1.3b-base",
             "model_repr": "DSCoder-1.3b-Base",
             "model_style": "DeepSeekBase",
-            "release_date": 1672560000000,
+            "release_date": 1693378800000,
             "link": "https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base"
         },
         {

@@ -223,12 +223,31 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   }
 
 
+  let message = `${numProblems} problems selected in the current time window.`;
+
+  if (numProblems === 0) {
+    message = "No problems selected in the current time window. Please select a different time window.";
+  }
+  else if (numProblems < 100) {
+    message += "<br>Less than 100 problems selected. We recommend a larger time-window to get a more accurate leaderboard.";
+  }
+  else {
+    message += "<br>You can change start or end date to change the time window.";
+  }
+
+
+
   return (
     <div style={{ width: "100%", height: "100%" }}>
       <ThemeProvider theme={muiTheme}>
         <CssBaseline />
         <div style={{ display: "flex", justifyContent: "center" }}>
-          <b>Current number of problems - {numProblems}. Select a time-window for filtering problems</b>
+          <b>{message.split("<br>").map((line, index) => (
+            <React.Fragment key={index}>
+              {line}
+              <br />
+            </React.Fragment>
+          ))}</b>
         </div>
 
 
@@ -255,7 +274,8 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
       </ThemeProvider>
       <div
         style={{
-          display: "flex",
+          display: numProblems === 0 ? "none" : "flex"
+          ,
           flexDirection: "column",
           alignItems: "center",
         }}
