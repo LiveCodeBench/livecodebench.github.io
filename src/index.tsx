@@ -71,21 +71,6 @@ ReactDOM.render(
                 Large Language Models for Code
               </h1>
               <div className="column has-text-centered">
-                <div className="publication-links">
-                  <span className="link-block">
-                    <a
-                      href="/"
-                      className="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span className="icon">
-                        <i className="fas fa-home"></i>
-                      </span>
-                      <span>Home</span>
-                    </a>
-                  </span>
-                </div>
-              </div>
-              <div className="column has-text-centered">
                 <LeaderboardTabs />
               </div>
             </div>
