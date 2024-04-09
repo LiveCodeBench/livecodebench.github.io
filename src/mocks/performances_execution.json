@@ -92065,21 +92065,21 @@
             "model_name": "claude-3-opus-20240229",
             "model_repr": "Claude-3-Opus",
             "model_style": "AnthropicMessage",
-            "release_date": 1693378800000,
+            "release_date": 1682838000000,
             "link": "https://www.anthropic.com/index/claude-3"
         },
         {
             "model_name": "claude-3-sonnet-20240229",
             "model_repr": "Claude-3-Sonnet",
             "model_style": "AnthropicMessage",
-            "release_date": 1693378800000,
+            "release_date": 1682838000000,
             "link": "https://www.anthropic.com/index/claude-3"
         },
         {
             "model_name": "claude-3-haiku-20240307",
             "model_repr": "Claude-3-Haiku",
             "model_style": "AnthropicMessage",
-            "release_date": 1693378800000,
+            "release_date": 1682838000000,
             "link": "https://www.anthropic.com/index/claude-3"
         },
         {
