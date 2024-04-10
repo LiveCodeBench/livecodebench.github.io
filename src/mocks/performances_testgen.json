@@ -49298,6 +49298,3542 @@
         },
         {
             "question_id": "2727",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684022400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2727",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684022400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2728",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2728",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2730",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2730",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2754",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2754",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2755",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2755",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2756",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685232000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2756",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685232000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2757",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685923200000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2757",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685923200000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2777",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1683504000000,
+            "difficulty": "easy",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2777",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1683504000000,
+            "difficulty": "easy",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2779",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1683504000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2779",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1683504000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2784",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684022400000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2784",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684022400000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2785",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2785",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2785",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2786",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686441600000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2786",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686441600000,
+            "difficulty": "medium",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2786",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686441600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2791",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684108800000,
+            "difficulty": "easy",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2791",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684108800000,
+            "difficulty": "easy",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2792",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684108800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2792",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684108800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2792",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684108800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2800",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2800",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2802",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684713600000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2802",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684713600000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2808",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687132800000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2808",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687132800000,
+            "difficulty": "hard",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2810",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2810",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2811",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2811",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2812",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "easy",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2812",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "easy",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2816",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2816",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2816",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2817",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685318400000,
+            "difficulty": "medium",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2817",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685318400000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2819",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685318400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2819",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685318400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2824",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686441600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2824",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686441600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2825",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2825",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2825",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2827",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685232000000,
+            "difficulty": "hard",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2827",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685232000000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2827",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1685232000000,
+            "difficulty": "hard",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2828",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2828",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2828",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2831",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687737600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2831",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687737600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2832",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2832",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2833",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2833",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2834",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2834",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2837",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2837",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2839",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686528000000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2839",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686528000000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2839",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1686528000000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2844",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1689552000000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2844",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1689552000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2845",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2845",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2847",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2847",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2847",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "easy",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2848",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2848",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2849",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688342400000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2849",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688342400000,
+            "difficulty": "hard",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2850",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2850",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2854",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2854",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2854",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2855",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2855",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2855",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2856",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2856",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2857",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687132800000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2857",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687132800000,
+            "difficulty": "easy",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2866",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688342400000,
+            "difficulty": "easy",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2866",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688342400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2866",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688342400000,
+            "difficulty": "easy",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2867",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2867",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2868",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2868",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2869",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2869",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2869",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2870",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688860800000,
+            "difficulty": "easy",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2870",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688860800000,
+            "difficulty": "easy",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2872",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690156800000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2872",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690156800000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2873",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2873",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2876",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690761600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2876",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690761600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2877",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2877",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2878",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2878",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2879",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698019200000,
+            "difficulty": "hard",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2879",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698019200000,
+            "difficulty": "hard",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2879",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698019200000,
+            "difficulty": "hard",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2881",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690156800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2881",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690156800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2881",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690156800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2882",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2882",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2883",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2883",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2883",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2884",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1689552000000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2884",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1689552000000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2886",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691366400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2886",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691366400000,
+            "difficulty": "easy",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2887",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2887",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2888",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2888",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2888",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2891",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2891",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2892",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2892",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2892",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2892",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2893",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2893",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2902",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691971200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2902",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691971200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2915",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2915",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2916",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691366400000,
+            "difficulty": "medium",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2916",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691366400000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2916",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691366400000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2917",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692489600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2917",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692489600000,
+            "difficulty": "easy",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2919",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690156800000,
+            "difficulty": "hard",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2919",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690156800000,
+            "difficulty": "hard",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2919",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690156800000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2920",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691280000000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2920",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691280000000,
+            "difficulty": "medium",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2920",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691280000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2921",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690761600000,
+            "difficulty": "hard",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2921",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1690761600000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2952",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691280000000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2952",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691280000000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2953",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2953",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2954",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693699200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2954",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693699200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2954",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693699200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2955",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691280000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2955",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691280000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2977",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692576000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2977",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692576000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2977",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692576000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2979",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2979",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2998",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693785600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2998",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693785600000,
+            "difficulty": "easy",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2999",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693699200000,
+            "difficulty": "easy",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2999",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693699200000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3000",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691971200000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3000",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691971200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3000",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1691971200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3017",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692489600000,
+            "difficulty": "hard",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3017",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692489600000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3017",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692489600000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3018",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692489600000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3018",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692489600000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3018",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1692489600000,
+            "difficulty": "medium",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3019",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "easy",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3019",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "easy",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3019",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3024",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694390400000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3024",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694390400000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3025",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3025",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3025",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3026",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3026",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3026",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3031",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3031",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3032",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3032",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3033",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3033",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3034",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694390400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3034",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694390400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3044",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696118400000,
+            "difficulty": "easy",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3044",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696118400000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3044",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696118400000,
+            "difficulty": "easy",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3045",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694908800000,
+            "difficulty": "easy",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3045",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694908800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3045",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694908800000,
+            "difficulty": "easy",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3046",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3046",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3046",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3047",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694995200000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3047",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694995200000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3055",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1695600000000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3055",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1695600000000,
+            "difficulty": "easy",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3080",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3080",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3081",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3081",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3081",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3091",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697328000000,
+            "difficulty": "hard",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3091",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697328000000,
+            "difficulty": "hard",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3091",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697328000000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3093",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694995200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3093",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694995200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3094",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3094",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3104",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694995200000,
+            "difficulty": "medium",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3104",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1694995200000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3106",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3106",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3106",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3114",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1695600000000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3114",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1695600000000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3114",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1695600000000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3141",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696204800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3141",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696204800000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3141",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696204800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3150",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3150",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3150",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3151",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3151",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3153",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696809600000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3153",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696809600000,
+            "difficulty": "hard",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3154",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696204800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3154",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696204800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3154",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696204800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3163",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698537600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3163",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698537600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3164",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697328000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3164",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1697328000000,
+            "difficulty": "easy",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3166",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698019200000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3166",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698019200000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3171",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698624000000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3171",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698624000000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3172",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696809600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3172",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696809600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3172",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1696809600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3174",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3174",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3174",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3176",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698019200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3176",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698019200000,
+            "difficulty": "easy",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3176",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698019200000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3183",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698624000000,
+            "difficulty": "easy",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3183",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698624000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3183",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1698624000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3184",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699228800000,
+            "difficulty": "hard",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3184",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699228800000,
+            "difficulty": "hard",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3184",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699228800000,
+            "difficulty": "hard",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3188",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699228800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3188",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699228800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3190",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699833600000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3190",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699833600000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3190",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699833600000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3192",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3192",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3192",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3193",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699833600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3193",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699833600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3193",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699833600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3194",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3194",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3194",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3195",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3195",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3195",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3196",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702771200000,
+            "difficulty": "hard",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3196",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702771200000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3199",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699747200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3199",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699747200000,
+            "difficulty": "easy",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3200",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699747200000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3200",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1699747200000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3203",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703980800000,
+            "difficulty": "hard",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3203",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703980800000,
+            "difficulty": "hard",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3203",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703980800000,
+            "difficulty": "hard",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3206",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3206",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3207",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700352000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3207",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700352000000,
+            "difficulty": "easy",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3209",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3209",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3210",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3210",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3210",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3211",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3211",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3211",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3212",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3212",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "hard",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3212",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3213",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3213",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3219",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3219",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3219",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3220",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3220",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3221",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1701561600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3221",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1701561600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3223",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3223",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3224",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3224",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3225",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3225",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3225",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3226",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3226",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3227",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702771200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3227",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702771200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3228",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3228",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3228",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3229",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702771200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3229",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702771200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3229",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702771200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3230",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3230",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3230",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3231",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1701561600000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3231",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1701561600000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3231",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1701561600000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3233",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3233",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3233",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3234",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3234",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3235",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3235",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3235",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3236",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3236",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3239",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3239",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3239",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3240",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3240",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3242",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705190400000,
+            "difficulty": "easy",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3242",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705190400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3243",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3243",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3243",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3244",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3244",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3244",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3245",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3245",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3246",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703980800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3246",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703980800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3246",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703980800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3249",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3249",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3251",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3251",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3252",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3252",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3252",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3261",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1706400000000,
+            "difficulty": "hard",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3261",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1706400000000,
+            "difficulty": "hard",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3261",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1706400000000,
+            "difficulty": "hard",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3262",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3262",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3262",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3263",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705795200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3263",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705795200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3263",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705795200000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3265",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3265",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3265",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3267",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703980800000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3267",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703980800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3267",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1703980800000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3269",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3269",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3279",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3279",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3291",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3291",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 30.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3291",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3292",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708819200000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3292",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708819200000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3292",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708819200000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3297",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 0.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3297",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3297",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3298",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "hard",
+            "pass@1": 20.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3298",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "hard",
+            "pass@1": 80.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3299",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3299",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3308",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3308",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3309",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3309",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3309",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3311",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707004800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3311",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707004800000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3312",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1706400000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3312",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1706400000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3317",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 40.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3317",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3317",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3320",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 70.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3320",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 60.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3324",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708819200000,
+            "difficulty": "easy",
+            "pass@1": 10.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3324",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708819200000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3329",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3329",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3331",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3331",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3331",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 100.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3347",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 90.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "3347",
+            "model": "GPT-4-Turbo-2024-04-09",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 50.0,
+            "platform": "leetcode"
+        },
+        {
+            "question_id": "2727",
             "model": "Claude-2",
             "date": 1684022400000,
             "difficulty": "easy",
@@ -95360,6 +98896,13 @@
         {
             "model_name": "gpt-4-1106-preview",
             "model_repr": "GPT-4-Turbo-1106",
+            "model_style": "OpenAIChat",
+            "release_date": 1682838000000,
+            "link": "https://openai.com/blog/new-models-and-developer-products-announced-at-devday"
+        },
+        {
+            "model_name": "gpt-4-turbo-2024-04-09",
+            "model_repr": "GPT-4-Turbo-2024-04-09",
             "model_style": "OpenAIChat",
             "release_date": 1682838000000,
             "link": "https://openai.com/blog/new-models-and-developer-products-announced-at-devday"
