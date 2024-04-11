@@ -67213,7 +67213,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1692662400000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "codeforces"
         },
         {
@@ -67245,7 +67245,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1697587200000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "codeforces"
         },
         {
@@ -67253,7 +67253,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1697587200000,
             "difficulty": "hard",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "codeforces"
         },
         {
@@ -67333,7 +67333,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1683504000000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "leetcode"
         },
         {
@@ -67549,7 +67549,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1687132800000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -67597,7 +67597,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1688947200000,
             "difficulty": "medium",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "leetcode"
         },
         {
@@ -67605,7 +67605,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1690761600000,
             "difficulty": "medium",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "leetcode"
         },
         {
@@ -67613,7 +67613,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1687132800000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -67621,7 +67621,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1688342400000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -67717,7 +67717,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1690070400000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -67757,7 +67757,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1689552000000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -67869,7 +67869,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1691280000000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -67925,7 +67925,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1692489600000,
             "difficulty": "medium",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "leetcode"
         },
         {
@@ -67981,7 +67981,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1694390400000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -68005,7 +68005,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1693785600000,
             "difficulty": "medium",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "leetcode"
         },
         {
@@ -68101,7 +68101,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1697414400000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -68133,7 +68133,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1698537600000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "leetcode"
         },
         {
@@ -68181,7 +68181,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1698019200000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -68205,7 +68205,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1699228800000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "leetcode"
         },
         {
@@ -68469,7 +68469,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1704585600000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -68485,7 +68485,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1705190400000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -68589,7 +68589,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1707609600000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "leetcode"
         },
         {
@@ -68669,7 +68669,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1706400000000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "leetcode"
         },
         {
@@ -68773,7 +68773,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1684627200000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -68789,7 +68789,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1684627200000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -68805,7 +68805,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1684627200000,
             "difficulty": "hard",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -68829,7 +68829,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1685232000000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -68861,7 +68861,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1685836800000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -68901,7 +68901,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1686441600000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -68949,7 +68949,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1687046400000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -69165,7 +69165,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1690070400000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -69189,7 +69189,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1690070400000,
             "difficulty": "hard",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -69245,7 +69245,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1691280000000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -69253,7 +69253,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1691280000000,
             "difficulty": "medium",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -69285,7 +69285,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1691884800000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -69365,7 +69365,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1693699200000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -69421,7 +69421,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1694304000000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -69517,7 +69517,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1696118400000,
             "difficulty": "easy",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -69653,7 +69653,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1697932800000,
             "difficulty": "medium",
-            "pass@1": 0.0,
+            "pass@1": 100.0,
             "platform": "atcoder"
         },
         {
@@ -69701,7 +69701,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1698537600000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -69709,7 +69709,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1698537600000,
             "difficulty": "medium",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -69821,7 +69821,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1700352000000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -70021,7 +70021,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1703376000000,
             "difficulty": "medium",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -70165,7 +70165,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1706400000000,
             "difficulty": "easy",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
@@ -70213,7 +70213,7 @@
             "model": "Google-Gemini-Pro-1.5",
             "date": 1707004800000,
             "difficulty": "medium",
-            "pass@1": 100.0,
+            "pass@1": 0.0,
             "platform": "atcoder"
         },
         {
