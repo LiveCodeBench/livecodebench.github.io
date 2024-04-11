@@ -146,8 +146,8 @@ function getLeaderboard(
       if (performances[0].hasOwnProperty("Pass@1-COT")) {
         let output = {
           Model: model.model_repr,
-          "Release Date":
-            "Release Date: " + new Date(model.release_date).toLocaleDateString(),
+          "Estimated Cutoff For LiveCodeBench":
+            "Estimated Cutoff For LiveCodeBench: " + new Date(model.release_date).toLocaleDateString(),
           Contaminated: model.release_date >= start,
           "Pass@1": cot_pass.toString() === "NaN" ? -1 : cot_pass,
           "Pass@1 (no COT)": exec_pass.toString() === "NaN" ? -1 : exec_pass,
@@ -157,8 +157,8 @@ function getLeaderboard(
       else {
         let output = {
           Model: model.model_repr,
-          "Release Date":
-            "Release Date: " + new Date(model.release_date).toLocaleDateString(),
+          "Estimated Cutoff For LiveCodeBench":
+            "Estimated Cutoff For LiveCodeBench: " + new Date(model.release_date).toLocaleDateString(),
           Contaminated: model.release_date >= start,
           "Pass@1": average_pass.toString() === "NaN" ? -1 : average_pass,
           "Easy-Pass@1": easy_pass.toString() === "NaN" ? -1 : easy_pass,
@@ -240,7 +240,7 @@ function getColumnDefs(columnNames: Array<string>, modelsDict: any) {
             suppressMovable: true,
             cellClass: 'suppress-movable-col',
             flex: 2,
-            tooltipField: "Release Date",
+            tooltipField: "Estimated Cutoff For LiveCodeBench",
             cellRenderer: (params: any) => {
               return modelsDict[params.value].link ? (
                 <a
@@ -256,7 +256,7 @@ function getColumnDefs(columnNames: Array<string>, modelsDict: any) {
             },
           }
 
-        case "Release Date":
+        case "Estimated Cutoff For LiveCodeBench":
           return null
 
         case "Contaminated":
