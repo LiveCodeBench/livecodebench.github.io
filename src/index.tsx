@@ -119,6 +119,28 @@ ReactDOM.render(
               <div className="column has-text-centered">
                 <LeaderboardTabs />
               </div>
+
+
+              <section className="section">
+                <div className="container is-max-desktop">
+                  <div className="columns is-centered has-text-centered">
+                    <div className="column is-four-fifths">
+                      <h2 className="title is-3">Submitting Custom Models</h2>
+                      <div className="content has-text-justified">
+                        <p>
+                          To submit models to the leaderboard, you can run the evaluation using the evaluation scripts in <a href="https://github.com/LiveCodeBench/LiveCodeBench">GitHub</a>. Once you have the results,
+                          you can fill out <a href="https://forms.gle/h2abvAHh6UnhWzzd9">this form</a>. You will need to fill out
+                          model details and provide the generated evaluation file with model generations and pass@1 scores. We will
+                          review the submission and add the model to the leaderboard accordingly.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+
+
+
             </div>
           </div>
         </div>
