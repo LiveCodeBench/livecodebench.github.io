@@ -144027,7 +144027,7 @@
             "model_name": "openbmb/Eurux-8x22b-nca",
             "model_repr": "Eurux-8x22b-NCA (n=1)",
             "model_style": "CodeLLaMa",
-            "release_date": 1693378800000,
+            "release_date": 1682838000000,
             "link": "https://huggingface.co/openbmb/Eurux-8x22b-nca"
         },
         {

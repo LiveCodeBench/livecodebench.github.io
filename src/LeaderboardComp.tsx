@@ -226,14 +226,16 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   let message = `${numProblems} problems selected in the current time window.`;
 
   if (numProblems === 0) {
-    message = "No problems selected in the current time window. Please select a different time window.";
+    message = "No problems selected in the current time window. Please select a different time window. ";
   }
   else if (numProblems < 100) {
-    message += "<br>Less than 100 problems selected. We recommend a larger time-window to get a more accurate leaderboard.";
+    message += "Less than 100 problems selected. We recommend a larger time-window to get a more accurate leaderboard.";
   }
   else {
-    message += "<br>You can change start or end date to change the time window.";
+    message += "You can change start or end date to change the time window.";
   }
+
+  message += "<br><br>We estimate cutoff dates based on release date and performance variation. Feel free to adjust the slider to see the leaderboard at different time windows. Please offer feedback if you find any issues!"
 
 
 
