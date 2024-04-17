@@ -104,7 +104,7 @@ ReactDOM.render(
 
                   <span className="link-block">
                     <a
-                      href="/"
+                      href="https://livecodebench.github.io/"
                       className="external-link button is-normal is-rounded is-dark"
                     >
                       <span className="icon">
