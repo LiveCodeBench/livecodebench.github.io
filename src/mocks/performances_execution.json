@@ -113,7 +113,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_0",
             "question_id": 2777,
             "Pass@1": 0.0,
@@ -321,7 +321,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_1",
             "question_id": 2777,
             "Pass@1": 0.0,
@@ -529,7 +529,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_2",
             "question_id": 2777,
             "Pass@1": 0.0,
@@ -737,7 +737,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_3",
             "question_id": 2777,
             "Pass@1": 0.0,
@@ -945,7 +945,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_4",
             "question_id": 2777,
             "Pass@1": 0.0,
@@ -1153,7 +1153,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_5",
             "question_id": 2777,
             "Pass@1": 0.0,
@@ -1361,7 +1361,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_6",
             "question_id": 2779,
             "Pass@1": 100.0,
@@ -1569,7 +1569,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_7",
             "question_id": 2779,
             "Pass@1": 100.0,
@@ -1777,7 +1777,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_8",
             "question_id": 2779,
             "Pass@1": 100.0,
@@ -1985,7 +1985,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_9",
             "question_id": 2779,
             "Pass@1": 100.0,
@@ -2193,7 +2193,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_10",
             "question_id": 2779,
             "Pass@1": 0.0,
@@ -2401,7 +2401,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_11",
             "question_id": 2779,
             "Pass@1": 0.0,
@@ -2609,7 +2609,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_12",
             "question_id": 2792,
             "Pass@1": 100.0,
@@ -2817,7 +2817,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_13",
             "question_id": 2792,
             "Pass@1": 0.0,
@@ -3025,7 +3025,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_14",
             "question_id": 2792,
             "Pass@1": 0.0,
@@ -3233,7 +3233,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_15",
             "question_id": 2792,
             "Pass@1": 100.0,
@@ -3441,7 +3441,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_16",
             "question_id": 2792,
             "Pass@1": 100.0,
@@ -3649,7 +3649,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_17",
             "question_id": 2792,
             "Pass@1": 100.0,
@@ -3857,7 +3857,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_18",
             "question_id": 2800,
             "Pass@1": 100.0,
@@ -4065,7 +4065,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_19",
             "question_id": 2800,
             "Pass@1": 0.0,
@@ -4273,7 +4273,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_20",
             "question_id": 2800,
             "Pass@1": 0.0,
@@ -4481,7 +4481,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_21",
             "question_id": 2800,
             "Pass@1": 0.0,
@@ -4689,7 +4689,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_22",
             "question_id": 2800,
             "Pass@1": 100.0,
@@ -4897,7 +4897,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_23",
             "question_id": 2800,
             "Pass@1": 0.0,
@@ -5105,7 +5105,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_24",
             "question_id": 2816,
             "Pass@1": 0.0,
@@ -5313,7 +5313,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_25",
             "question_id": 2816,
             "Pass@1": 0.0,
@@ -5521,7 +5521,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_26",
             "question_id": 2816,
             "Pass@1": 100.0,
@@ -5729,7 +5729,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_27",
             "question_id": 2816,
             "Pass@1": 100.0,
@@ -5937,7 +5937,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_28",
             "question_id": 2816,
             "Pass@1": 0.0,
@@ -6145,7 +6145,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_29",
             "question_id": 2816,
             "Pass@1": 0.0,
@@ -6353,7 +6353,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_30",
             "question_id": 2819,
             "Pass@1": 100.0,
@@ -6561,7 +6561,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_31",
             "question_id": 2819,
             "Pass@1": 100.0,
@@ -6769,7 +6769,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_32",
             "question_id": 2819,
             "Pass@1": 100.0,
@@ -6977,7 +6977,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_33",
             "question_id": 2819,
             "Pass@1": 100.0,
@@ -7185,7 +7185,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_34",
             "question_id": 2819,
             "Pass@1": 100.0,
@@ -7393,7 +7393,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_35",
             "question_id": 2819,
             "Pass@1": 100.0,
@@ -7601,7 +7601,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_36",
             "question_id": 2817,
             "Pass@1": 100.0,
@@ -7809,7 +7809,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_37",
             "question_id": 2817,
             "Pass@1": 100.0,
@@ -8017,7 +8017,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_38",
             "question_id": 2817,
             "Pass@1": 100.0,
@@ -8225,7 +8225,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_39",
             "question_id": 2817,
             "Pass@1": 100.0,
@@ -8433,7 +8433,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_40",
             "question_id": 2817,
             "Pass@1": 100.0,
@@ -8641,7 +8641,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_41",
             "question_id": 2817,
             "Pass@1": 100.0,
@@ -8849,7 +8849,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_42",
             "question_id": 2825,
             "Pass@1": 100.0,
@@ -9057,7 +9057,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_43",
             "question_id": 2825,
             "Pass@1": 100.0,
@@ -9265,7 +9265,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_44",
             "question_id": 2785,
             "Pass@1": 0.0,
@@ -9473,7 +9473,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_45",
             "question_id": 2785,
             "Pass@1": 0.0,
@@ -9681,7 +9681,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_46",
             "question_id": 2785,
             "Pass@1": 0.0,
@@ -9889,7 +9889,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_47",
             "question_id": 2785,
             "Pass@1": 0.0,
@@ -10097,7 +10097,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_48",
             "question_id": 2785,
             "Pass@1": 0.0,
@@ -10305,7 +10305,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_49",
             "question_id": 2785,
             "Pass@1": 0.0,
@@ -10513,7 +10513,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_50",
             "question_id": 2828,
             "Pass@1": 0.0,
@@ -10721,7 +10721,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_51",
             "question_id": 2828,
             "Pass@1": 0.0,
@@ -10929,7 +10929,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_52",
             "question_id": 2828,
             "Pass@1": 0.0,
@@ -11137,7 +11137,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_53",
             "question_id": 2828,
             "Pass@1": 0.0,
@@ -11345,7 +11345,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_54",
             "question_id": 2828,
             "Pass@1": 0.0,
@@ -11553,7 +11553,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_55",
             "question_id": 2828,
             "Pass@1": 0.0,
@@ -11761,7 +11761,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_56",
             "question_id": 2810,
             "Pass@1": 100.0,
@@ -11969,7 +11969,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_57",
             "question_id": 2857,
             "Pass@1": 100.0,
@@ -12177,7 +12177,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_58",
             "question_id": 2857,
             "Pass@1": 100.0,
@@ -12385,7 +12385,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_59",
             "question_id": 2857,
             "Pass@1": 100.0,
@@ -12593,7 +12593,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_60",
             "question_id": 2857,
             "Pass@1": 100.0,
@@ -12801,7 +12801,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_61",
             "question_id": 2857,
             "Pass@1": 100.0,
@@ -13009,7 +13009,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_62",
             "question_id": 2857,
             "Pass@1": 100.0,
@@ -13217,7 +13217,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_63",
             "question_id": 2845,
             "Pass@1": 100.0,
@@ -13425,7 +13425,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_64",
             "question_id": 2845,
             "Pass@1": 100.0,
@@ -13633,7 +13633,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_65",
             "question_id": 2845,
             "Pass@1": 100.0,
@@ -13841,7 +13841,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_66",
             "question_id": 2845,
             "Pass@1": 100.0,
@@ -14049,7 +14049,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_67",
             "question_id": 2845,
             "Pass@1": 100.0,
@@ -14257,7 +14257,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_68",
             "question_id": 2845,
             "Pass@1": 100.0,
@@ -14465,7 +14465,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_69",
             "question_id": 2831,
             "Pass@1": 100.0,
@@ -14673,7 +14673,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_70",
             "question_id": 2831,
             "Pass@1": 100.0,
@@ -14881,7 +14881,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_71",
             "question_id": 2831,
             "Pass@1": 100.0,
@@ -15089,7 +15089,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_72",
             "question_id": 2831,
             "Pass@1": 100.0,
@@ -15297,7 +15297,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_73",
             "question_id": 2831,
             "Pass@1": 0.0,
@@ -15505,7 +15505,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_74",
             "question_id": 2831,
             "Pass@1": 100.0,
@@ -15713,7 +15713,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_75",
             "question_id": 2837,
             "Pass@1": 0.0,
@@ -15921,7 +15921,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_76",
             "question_id": 2837,
             "Pass@1": 100.0,
@@ -16129,7 +16129,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_77",
             "question_id": 2837,
             "Pass@1": 0.0,
@@ -16337,7 +16337,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_78",
             "question_id": 2837,
             "Pass@1": 0.0,
@@ -16545,7 +16545,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_79",
             "question_id": 2837,
             "Pass@1": 0.0,
@@ -16753,7 +16753,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_80",
             "question_id": 2837,
             "Pass@1": 0.0,
@@ -16961,7 +16961,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_81",
             "question_id": 2867,
             "Pass@1": 100.0,
@@ -17169,7 +17169,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_82",
             "question_id": 2867,
             "Pass@1": 0.0,
@@ -17377,7 +17377,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_83",
             "question_id": 2867,
             "Pass@1": 0.0,
@@ -17585,7 +17585,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_84",
             "question_id": 2867,
             "Pass@1": 100.0,
@@ -17793,7 +17793,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_85",
             "question_id": 2867,
             "Pass@1": 0.0,
@@ -18001,7 +18001,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_86",
             "question_id": 2867,
             "Pass@1": 0.0,
@@ -18209,7 +18209,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_87",
             "question_id": 2866,
             "Pass@1": 0.0,
@@ -18417,7 +18417,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_88",
             "question_id": 2866,
             "Pass@1": 0.0,
@@ -18625,7 +18625,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_89",
             "question_id": 2866,
             "Pass@1": 0.0,
@@ -18833,7 +18833,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_90",
             "question_id": 2866,
             "Pass@1": 0.0,
@@ -19041,7 +19041,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_91",
             "question_id": 2866,
             "Pass@1": 0.0,
@@ -19249,7 +19249,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_92",
             "question_id": 2866,
             "Pass@1": 100.0,
@@ -19457,7 +19457,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_93",
             "question_id": 2868,
             "Pass@1": 0.0,
@@ -19665,7 +19665,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_94",
             "question_id": 2868,
             "Pass@1": 0.0,
@@ -19873,7 +19873,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_95",
             "question_id": 2868,
             "Pass@1": 0.0,
@@ -20081,7 +20081,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_96",
             "question_id": 2868,
             "Pass@1": 100.0,
@@ -20289,7 +20289,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_97",
             "question_id": 2855,
             "Pass@1": 100.0,
@@ -20497,7 +20497,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_98",
             "question_id": 2855,
             "Pass@1": 100.0,
@@ -20705,7 +20705,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_99",
             "question_id": 2855,
             "Pass@1": 100.0,
@@ -20913,7 +20913,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_100",
             "question_id": 2855,
             "Pass@1": 100.0,
@@ -21121,7 +21121,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_101",
             "question_id": 2855,
             "Pass@1": 100.0,
@@ -21329,7 +21329,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_102",
             "question_id": 2855,
             "Pass@1": 100.0,
@@ -21537,7 +21537,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_103",
             "question_id": 2869,
             "Pass@1": 0.0,
@@ -21745,7 +21745,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_104",
             "question_id": 2869,
             "Pass@1": 0.0,
@@ -21953,7 +21953,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_105",
             "question_id": 2878,
             "Pass@1": 100.0,
@@ -22161,7 +22161,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_106",
             "question_id": 2878,
             "Pass@1": 100.0,
@@ -22369,7 +22369,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_107",
             "question_id": 2878,
             "Pass@1": 100.0,
@@ -22577,7 +22577,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_108",
             "question_id": 2878,
             "Pass@1": 100.0,
@@ -22785,7 +22785,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_109",
             "question_id": 2878,
             "Pass@1": 100.0,
@@ -22993,7 +22993,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_110",
             "question_id": 2878,
             "Pass@1": 100.0,
@@ -23201,7 +23201,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_111",
             "question_id": 2891,
             "Pass@1": 100.0,
@@ -23409,7 +23409,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_112",
             "question_id": 2891,
             "Pass@1": 0.0,
@@ -23617,7 +23617,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_113",
             "question_id": 2891,
             "Pass@1": 100.0,
@@ -23825,7 +23825,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_114",
             "question_id": 2891,
             "Pass@1": 100.0,
@@ -24033,7 +24033,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_115",
             "question_id": 2891,
             "Pass@1": 0.0,
@@ -24241,7 +24241,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_116",
             "question_id": 2891,
             "Pass@1": 100.0,
@@ -24449,7 +24449,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_117",
             "question_id": 2888,
             "Pass@1": 0.0,
@@ -24657,7 +24657,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_118",
             "question_id": 2888,
             "Pass@1": 0.0,
@@ -24865,7 +24865,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_119",
             "question_id": 2888,
             "Pass@1": 0.0,
@@ -25073,7 +25073,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_120",
             "question_id": 2888,
             "Pass@1": 0.0,
@@ -25281,7 +25281,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_121",
             "question_id": 2888,
             "Pass@1": 0.0,
@@ -25489,7 +25489,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_122",
             "question_id": 2888,
             "Pass@1": 0.0,
@@ -25697,7 +25697,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_123",
             "question_id": 2881,
             "Pass@1": 100.0,
@@ -25905,7 +25905,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_124",
             "question_id": 2881,
             "Pass@1": 100.0,
@@ -26113,7 +26113,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_125",
             "question_id": 2881,
             "Pass@1": 100.0,
@@ -26321,7 +26321,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_126",
             "question_id": 2881,
             "Pass@1": 100.0,
@@ -26529,7 +26529,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_127",
             "question_id": 2881,
             "Pass@1": 100.0,
@@ -26737,7 +26737,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_128",
             "question_id": 2881,
             "Pass@1": 100.0,
@@ -26945,7 +26945,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_129",
             "question_id": 2919,
             "Pass@1": 100.0,
@@ -27153,7 +27153,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_130",
             "question_id": 2919,
             "Pass@1": 0.0,
@@ -27361,7 +27361,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_131",
             "question_id": 2919,
             "Pass@1": 100.0,
@@ -27569,7 +27569,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_132",
             "question_id": 2919,
             "Pass@1": 100.0,
@@ -27777,7 +27777,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_133",
             "question_id": 2919,
             "Pass@1": 0.0,
@@ -27985,7 +27985,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_134",
             "question_id": 2876,
             "Pass@1": 100.0,
@@ -28193,7 +28193,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_135",
             "question_id": 2876,
             "Pass@1": 100.0,
@@ -28401,7 +28401,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_136",
             "question_id": 2876,
             "Pass@1": 100.0,
@@ -28609,7 +28609,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_137",
             "question_id": 2876,
             "Pass@1": 100.0,
@@ -28817,7 +28817,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_138",
             "question_id": 2876,
             "Pass@1": 100.0,
@@ -29025,7 +29025,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_139",
             "question_id": 2876,
             "Pass@1": 100.0,
@@ -29233,7 +29233,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_140",
             "question_id": 2856,
             "Pass@1": 100.0,
@@ -29441,7 +29441,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_141",
             "question_id": 2856,
             "Pass@1": 0.0,
@@ -29649,7 +29649,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_142",
             "question_id": 2856,
             "Pass@1": 0.0,
@@ -29857,7 +29857,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_143",
             "question_id": 2856,
             "Pass@1": 100.0,
@@ -30065,7 +30065,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_144",
             "question_id": 2856,
             "Pass@1": 100.0,
@@ -30273,7 +30273,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_145",
             "question_id": 2856,
             "Pass@1": 100.0,
@@ -30481,7 +30481,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_146",
             "question_id": 2886,
             "Pass@1": 0.0,
@@ -30689,7 +30689,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_147",
             "question_id": 2886,
             "Pass@1": 0.0,
@@ -30897,7 +30897,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_148",
             "question_id": 2886,
             "Pass@1": 0.0,
@@ -31105,7 +31105,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_149",
             "question_id": 2886,
             "Pass@1": 0.0,
@@ -31313,7 +31313,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_150",
             "question_id": 2886,
             "Pass@1": 0.0,
@@ -31521,7 +31521,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_151",
             "question_id": 2886,
             "Pass@1": 0.0,
@@ -31729,7 +31729,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_152",
             "question_id": 2916,
             "Pass@1": 0.0,
@@ -31937,7 +31937,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_153",
             "question_id": 2916,
             "Pass@1": 0.0,
@@ -32145,7 +32145,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_154",
             "question_id": 2916,
             "Pass@1": 0.0,
@@ -32353,7 +32353,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_155",
             "question_id": 2916,
             "Pass@1": 0.0,
@@ -32561,7 +32561,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_156",
             "question_id": 2916,
             "Pass@1": 100.0,
@@ -32769,7 +32769,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_157",
             "question_id": 2916,
             "Pass@1": 100.0,
@@ -32977,7 +32977,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_158",
             "question_id": 2902,
             "Pass@1": 0.0,
@@ -33185,7 +33185,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_159",
             "question_id": 2902,
             "Pass@1": 100.0,
@@ -33393,7 +33393,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_160",
             "question_id": 2902,
             "Pass@1": 0.0,
@@ -33601,7 +33601,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_161",
             "question_id": 2902,
             "Pass@1": 0.0,
@@ -33809,7 +33809,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_162",
             "question_id": 2902,
             "Pass@1": 0.0,
@@ -34017,7 +34017,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_163",
             "question_id": 2902,
             "Pass@1": 0.0,
@@ -34225,7 +34225,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_164",
             "question_id": 3000,
             "Pass@1": 0.0,
@@ -34433,7 +34433,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_165",
             "question_id": 2977,
             "Pass@1": 100.0,
@@ -34641,7 +34641,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_166",
             "question_id": 2977,
             "Pass@1": 100.0,
@@ -34849,7 +34849,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_167",
             "question_id": 2977,
             "Pass@1": 0.0,
@@ -35057,7 +35057,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_168",
             "question_id": 2977,
             "Pass@1": 100.0,
@@ -35265,7 +35265,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_169",
             "question_id": 2977,
             "Pass@1": 100.0,
@@ -35473,7 +35473,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_170",
             "question_id": 2977,
             "Pass@1": 100.0,
@@ -35681,7 +35681,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_171",
             "question_id": 2811,
             "Pass@1": 0.0,
@@ -35889,7 +35889,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_172",
             "question_id": 2811,
             "Pass@1": 0.0,
@@ -36097,7 +36097,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_173",
             "question_id": 2811,
             "Pass@1": 0.0,
@@ -36305,7 +36305,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_174",
             "question_id": 2811,
             "Pass@1": 0.0,
@@ -36513,7 +36513,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_175",
             "question_id": 2811,
             "Pass@1": 0.0,
@@ -36721,7 +36721,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_176",
             "question_id": 2811,
             "Pass@1": 0.0,
@@ -36929,7 +36929,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_177",
             "question_id": 2979,
             "Pass@1": 0.0,
@@ -37137,7 +37137,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_178",
             "question_id": 2979,
             "Pass@1": 0.0,
@@ -37345,7 +37345,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_179",
             "question_id": 2979,
             "Pass@1": 0.0,
@@ -37553,7 +37553,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_180",
             "question_id": 2979,
             "Pass@1": 0.0,
@@ -37761,7 +37761,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_181",
             "question_id": 2979,
             "Pass@1": 100.0,
@@ -37969,7 +37969,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_182",
             "question_id": 2979,
             "Pass@1": 0.0,
@@ -38177,7 +38177,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_183",
             "question_id": 2832,
             "Pass@1": 100.0,
@@ -38385,7 +38385,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_184",
             "question_id": 2832,
             "Pass@1": 0.0,
@@ -38593,7 +38593,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_185",
             "question_id": 2832,
             "Pass@1": 100.0,
@@ -38801,7 +38801,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_186",
             "question_id": 2832,
             "Pass@1": 0.0,
@@ -39009,7 +39009,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_187",
             "question_id": 2832,
             "Pass@1": 0.0,
@@ -39217,7 +39217,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_188",
             "question_id": 3019,
             "Pass@1": 0.0,
@@ -39425,7 +39425,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_189",
             "question_id": 3019,
             "Pass@1": 0.0,
@@ -39633,7 +39633,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_190",
             "question_id": 3019,
             "Pass@1": 0.0,
@@ -39841,7 +39841,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_191",
             "question_id": 3019,
             "Pass@1": 0.0,
@@ -40049,7 +40049,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_192",
             "question_id": 3019,
             "Pass@1": 0.0,
@@ -40257,7 +40257,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_193",
             "question_id": 3019,
             "Pass@1": 0.0,
@@ -40465,7 +40465,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_194",
             "question_id": 3026,
             "Pass@1": 100.0,
@@ -40673,7 +40673,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_195",
             "question_id": 3026,
             "Pass@1": 100.0,
@@ -40881,7 +40881,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_196",
             "question_id": 3026,
             "Pass@1": 0.0,
@@ -41089,7 +41089,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_197",
             "question_id": 3026,
             "Pass@1": 100.0,
@@ -41297,7 +41297,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_198",
             "question_id": 3026,
             "Pass@1": 0.0,
@@ -41505,7 +41505,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_199",
             "question_id": 3026,
             "Pass@1": 100.0,
@@ -41713,7 +41713,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_200",
             "question_id": 3025,
             "Pass@1": 0.0,
@@ -41921,7 +41921,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_201",
             "question_id": 3025,
             "Pass@1": 0.0,
@@ -42129,7 +42129,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_202",
             "question_id": 3046,
             "Pass@1": 100.0,
@@ -42337,7 +42337,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_203",
             "question_id": 3046,
             "Pass@1": 100.0,
@@ -42545,7 +42545,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_204",
             "question_id": 3046,
             "Pass@1": 100.0,
@@ -42753,7 +42753,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_205",
             "question_id": 3046,
             "Pass@1": 100.0,
@@ -42961,7 +42961,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_206",
             "question_id": 3046,
             "Pass@1": 0.0,
@@ -43169,7 +43169,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_207",
             "question_id": 3046,
             "Pass@1": 100.0,
@@ -43377,7 +43377,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_208",
             "question_id": 2915,
             "Pass@1": 0.0,
@@ -43585,7 +43585,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_209",
             "question_id": 2915,
             "Pass@1": 0.0,
@@ -43793,7 +43793,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_210",
             "question_id": 2915,
             "Pass@1": 0.0,
@@ -44001,7 +44001,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_211",
             "question_id": 2915,
             "Pass@1": 0.0,
@@ -44209,7 +44209,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_212",
             "question_id": 2915,
             "Pass@1": 0.0,
@@ -44417,7 +44417,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_213",
             "question_id": 2915,
             "Pass@1": 0.0,
@@ -44625,7 +44625,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_214",
             "question_id": 3034,
             "Pass@1": 100.0,
@@ -44833,7 +44833,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_215",
             "question_id": 3034,
             "Pass@1": 100.0,
@@ -45041,7 +45041,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_216",
             "question_id": 3034,
             "Pass@1": 0.0,
@@ -45249,7 +45249,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_217",
             "question_id": 3034,
             "Pass@1": 100.0,
@@ -45457,7 +45457,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_218",
             "question_id": 3034,
             "Pass@1": 100.0,
@@ -45665,7 +45665,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_219",
             "question_id": 3034,
             "Pass@1": 0.0,
@@ -45873,7 +45873,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_220",
             "question_id": 3093,
             "Pass@1": 0.0,
@@ -46081,7 +46081,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_221",
             "question_id": 3093,
             "Pass@1": 0.0,
@@ -46289,7 +46289,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_222",
             "question_id": 3093,
             "Pass@1": 0.0,
@@ -46497,7 +46497,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_223",
             "question_id": 3093,
             "Pass@1": 0.0,
@@ -46705,7 +46705,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_224",
             "question_id": 3093,
             "Pass@1": 0.0,
@@ -46913,7 +46913,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_225",
             "question_id": 3093,
             "Pass@1": 0.0,
@@ -47121,7 +47121,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_226",
             "question_id": 3104,
             "Pass@1": 0.0,
@@ -47329,7 +47329,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_227",
             "question_id": 3104,
             "Pass@1": 0.0,
@@ -47537,7 +47537,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_228",
             "question_id": 3104,
             "Pass@1": 0.0,
@@ -47745,7 +47745,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_229",
             "question_id": 3104,
             "Pass@1": 0.0,
@@ -47953,7 +47953,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_230",
             "question_id": 3104,
             "Pass@1": 0.0,
@@ -48161,7 +48161,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_231",
             "question_id": 3104,
             "Pass@1": 100.0,
@@ -48369,7 +48369,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_232",
             "question_id": 3055,
             "Pass@1": 0.0,
@@ -48577,7 +48577,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_233",
             "question_id": 3055,
             "Pass@1": 0.0,
@@ -48785,7 +48785,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_234",
             "question_id": 3055,
             "Pass@1": 100.0,
@@ -48993,7 +48993,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_235",
             "question_id": 3055,
             "Pass@1": 0.0,
@@ -49201,7 +49201,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_236",
             "question_id": 3055,
             "Pass@1": 0.0,
@@ -49409,7 +49409,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_237",
             "question_id": 3055,
             "Pass@1": 0.0,
@@ -49617,7 +49617,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_238",
             "question_id": 3154,
             "Pass@1": 0.0,
@@ -49825,7 +49825,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_239",
             "question_id": 3154,
             "Pass@1": 0.0,
@@ -50033,7 +50033,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_240",
             "question_id": 3154,
             "Pass@1": 0.0,
@@ -50241,7 +50241,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_241",
             "question_id": 3154,
             "Pass@1": 0.0,
@@ -50449,7 +50449,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_242",
             "question_id": 3154,
             "Pass@1": 0.0,
@@ -50657,7 +50657,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_243",
             "question_id": 3154,
             "Pass@1": 0.0,
@@ -50865,7 +50865,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_244",
             "question_id": 3172,
             "Pass@1": 0.0,
@@ -51073,7 +51073,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_245",
             "question_id": 3172,
             "Pass@1": 0.0,
@@ -51281,7 +51281,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_246",
             "question_id": 3172,
             "Pass@1": 0.0,
@@ -51489,7 +51489,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_247",
             "question_id": 3033,
             "Pass@1": 0.0,
@@ -51697,7 +51697,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_248",
             "question_id": 3033,
             "Pass@1": 0.0,
@@ -51905,7 +51905,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_249",
             "question_id": 3150,
             "Pass@1": 0.0,
@@ -52113,7 +52113,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_250",
             "question_id": 3150,
             "Pass@1": 0.0,
@@ -52321,7 +52321,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_251",
             "question_id": 3150,
             "Pass@1": 0.0,
@@ -52529,7 +52529,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_252",
             "question_id": 3150,
             "Pass@1": 0.0,
@@ -52737,7 +52737,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_253",
             "question_id": 3150,
             "Pass@1": 0.0,
@@ -52945,7 +52945,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_254",
             "question_id": 3150,
             "Pass@1": 100.0,
@@ -53153,7 +53153,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_255",
             "question_id": 3176,
             "Pass@1": 0.0,
@@ -53361,7 +53361,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_256",
             "question_id": 3176,
             "Pass@1": 0.0,
@@ -53569,7 +53569,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_257",
             "question_id": 3176,
             "Pass@1": 0.0,
@@ -53777,7 +53777,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_258",
             "question_id": 3176,
             "Pass@1": 0.0,
@@ -53985,7 +53985,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_259",
             "question_id": 3176,
             "Pass@1": 0.0,
@@ -54193,7 +54193,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_260",
             "question_id": 3176,
             "Pass@1": 0.0,
@@ -54401,7 +54401,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_261",
             "question_id": 3166,
             "Pass@1": 0.0,
@@ -54609,7 +54609,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_262",
             "question_id": 3166,
             "Pass@1": 0.0,
@@ -54817,7 +54817,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_263",
             "question_id": 3166,
             "Pass@1": 100.0,
@@ -55025,7 +55025,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_264",
             "question_id": 3166,
             "Pass@1": 0.0,
@@ -55233,7 +55233,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_265",
             "question_id": 3166,
             "Pass@1": 0.0,
@@ -55441,7 +55441,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_266",
             "question_id": 3166,
             "Pass@1": 100.0,
@@ -55649,7 +55649,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_267",
             "question_id": 3171,
             "Pass@1": 0.0,
@@ -55857,7 +55857,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_268",
             "question_id": 3171,
             "Pass@1": 0.0,
@@ -56065,7 +56065,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_269",
             "question_id": 3171,
             "Pass@1": 0.0,
@@ -56273,7 +56273,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_270",
             "question_id": 3171,
             "Pass@1": 0.0,
@@ -56481,7 +56481,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_271",
             "question_id": 3171,
             "Pass@1": 0.0,
@@ -56689,7 +56689,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_272",
             "question_id": 3171,
             "Pass@1": 0.0,
@@ -56897,7 +56897,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_273",
             "question_id": 3188,
             "Pass@1": 0.0,
@@ -57105,7 +57105,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_274",
             "question_id": 3188,
             "Pass@1": 0.0,
@@ -57313,7 +57313,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_275",
             "question_id": 3188,
             "Pass@1": 100.0,
@@ -57521,7 +57521,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_276",
             "question_id": 3188,
             "Pass@1": 100.0,
@@ -57729,7 +57729,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_277",
             "question_id": 3188,
             "Pass@1": 0.0,
@@ -57937,7 +57937,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_278",
             "question_id": 3188,
             "Pass@1": 0.0,
@@ -58145,7 +58145,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_279",
             "question_id": 3190,
             "Pass@1": 0.0,
@@ -58353,7 +58353,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_280",
             "question_id": 3190,
             "Pass@1": 0.0,
@@ -58561,7 +58561,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_281",
             "question_id": 3190,
             "Pass@1": 0.0,
@@ -58769,7 +58769,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_282",
             "question_id": 3190,
             "Pass@1": 0.0,
@@ -58977,7 +58977,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_283",
             "question_id": 3207,
             "Pass@1": 0.0,
@@ -59185,7 +59185,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_284",
             "question_id": 3207,
             "Pass@1": 0.0,
@@ -59393,7 +59393,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_285",
             "question_id": 3207,
             "Pass@1": 0.0,
@@ -59601,7 +59601,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_286",
             "question_id": 3207,
             "Pass@1": 0.0,
@@ -59809,7 +59809,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_287",
             "question_id": 3207,
             "Pass@1": 0.0,
@@ -60017,7 +60017,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_288",
             "question_id": 3207,
             "Pass@1": 0.0,
@@ -60225,7 +60225,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_289",
             "question_id": 3195,
             "Pass@1": 0.0,
@@ -60433,7 +60433,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_290",
             "question_id": 3195,
             "Pass@1": 0.0,
@@ -60641,7 +60641,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_291",
             "question_id": 3195,
             "Pass@1": 0.0,
@@ -60849,7 +60849,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_292",
             "question_id": 3195,
             "Pass@1": 0.0,
@@ -61057,7 +61057,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_293",
             "question_id": 3195,
             "Pass@1": 100.0,
@@ -61265,7 +61265,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_294",
             "question_id": 3195,
             "Pass@1": 100.0,
@@ -61473,7 +61473,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_295",
             "question_id": 3210,
             "Pass@1": 0.0,
@@ -61681,7 +61681,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_296",
             "question_id": 3210,
             "Pass@1": 100.0,
@@ -61889,7 +61889,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_297",
             "question_id": 3210,
             "Pass@1": 100.0,
@@ -62097,7 +62097,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_298",
             "question_id": 3210,
             "Pass@1": 100.0,
@@ -62305,7 +62305,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_299",
             "question_id": 3210,
             "Pass@1": 100.0,
@@ -62513,7 +62513,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_300",
             "question_id": 3210,
             "Pass@1": 0.0,
@@ -62721,7 +62721,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_301",
             "question_id": 3219,
             "Pass@1": 100.0,
@@ -62929,7 +62929,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_302",
             "question_id": 2727,
             "Pass@1": 0.0,
@@ -63137,7 +63137,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_303",
             "question_id": 2727,
             "Pass@1": 100.0,
@@ -63345,7 +63345,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_304",
             "question_id": 2727,
             "Pass@1": 0.0,
@@ -63553,7 +63553,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_305",
             "question_id": 2727,
             "Pass@1": 0.0,
@@ -63761,7 +63761,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_306",
             "question_id": 2727,
             "Pass@1": 0.0,
@@ -63969,7 +63969,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_307",
             "question_id": 2727,
             "Pass@1": 0.0,
@@ -64177,7 +64177,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_308",
             "question_id": 2728,
             "Pass@1": 100.0,
@@ -64385,7 +64385,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_309",
             "question_id": 2728,
             "Pass@1": 100.0,
@@ -64593,7 +64593,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_310",
             "question_id": 2728,
             "Pass@1": 100.0,
@@ -64801,7 +64801,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_311",
             "question_id": 2728,
             "Pass@1": 100.0,
@@ -65009,7 +65009,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_312",
             "question_id": 2728,
             "Pass@1": 100.0,
@@ -65217,7 +65217,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_313",
             "question_id": 2728,
             "Pass@1": 100.0,
@@ -65425,7 +65425,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_314",
             "question_id": 2756,
             "Pass@1": 100.0,
@@ -65633,7 +65633,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_315",
             "question_id": 2756,
             "Pass@1": 100.0,
@@ -65841,7 +65841,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_316",
             "question_id": 2756,
             "Pass@1": 100.0,
@@ -66049,7 +66049,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_317",
             "question_id": 2756,
             "Pass@1": 0.0,
@@ -66257,7 +66257,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_318",
             "question_id": 2756,
             "Pass@1": 100.0,
@@ -66465,7 +66465,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_319",
             "question_id": 2756,
             "Pass@1": 100.0,
@@ -66673,7 +66673,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_320",
             "question_id": 2754,
             "Pass@1": 0.0,
@@ -66881,7 +66881,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_321",
             "question_id": 2754,
             "Pass@1": 0.0,
@@ -67089,7 +67089,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_322",
             "question_id": 2824,
             "Pass@1": 100.0,
@@ -67297,7 +67297,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_323",
             "question_id": 2824,
             "Pass@1": 100.0,
@@ -67505,7 +67505,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_324",
             "question_id": 2824,
             "Pass@1": 100.0,
@@ -67713,7 +67713,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_325",
             "question_id": 2824,
             "Pass@1": 100.0,
@@ -67921,7 +67921,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_326",
             "question_id": 2824,
             "Pass@1": 100.0,
@@ -68129,7 +68129,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_327",
             "question_id": 2824,
             "Pass@1": 100.0,
@@ -68337,7 +68337,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_328",
             "question_id": 2786,
             "Pass@1": 0.0,
@@ -68545,7 +68545,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_329",
             "question_id": 2786,
             "Pass@1": 0.0,
@@ -68753,7 +68753,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_330",
             "question_id": 2786,
             "Pass@1": 0.0,
@@ -68961,7 +68961,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_331",
             "question_id": 2786,
             "Pass@1": 0.0,
@@ -69169,7 +69169,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_332",
             "question_id": 2786,
             "Pass@1": 100.0,
@@ -69377,7 +69377,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_333",
             "question_id": 2786,
             "Pass@1": 0.0,
@@ -69585,7 +69585,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_334",
             "question_id": 2847,
             "Pass@1": 100.0,
@@ -69793,7 +69793,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_335",
             "question_id": 2847,
             "Pass@1": 0.0,
@@ -70001,7 +70001,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_336",
             "question_id": 2847,
             "Pass@1": 0.0,
@@ -70209,7 +70209,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_337",
             "question_id": 2847,
             "Pass@1": 100.0,
@@ -70417,7 +70417,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_338",
             "question_id": 2847,
             "Pass@1": 100.0,
@@ -70625,7 +70625,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_339",
             "question_id": 2847,
             "Pass@1": 0.0,
@@ -70833,7 +70833,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_340",
             "question_id": 2850,
             "Pass@1": 0.0,
@@ -71041,7 +71041,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_341",
             "question_id": 2850,
             "Pass@1": 0.0,
@@ -71249,7 +71249,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_342",
             "question_id": 2850,
             "Pass@1": 0.0,
@@ -71457,7 +71457,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_343",
             "question_id": 2854,
             "Pass@1": 100.0,
@@ -71665,7 +71665,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_344",
             "question_id": 2854,
             "Pass@1": 0.0,
@@ -71873,7 +71873,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_345",
             "question_id": 2854,
             "Pass@1": 100.0,
@@ -72081,7 +72081,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_346",
             "question_id": 2870,
             "Pass@1": 0.0,
@@ -72289,7 +72289,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_347",
             "question_id": 2870,
             "Pass@1": 100.0,
@@ -72497,7 +72497,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_348",
             "question_id": 2870,
             "Pass@1": 0.0,
@@ -72705,7 +72705,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_349",
             "question_id": 2870,
             "Pass@1": 0.0,
@@ -72913,7 +72913,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_350",
             "question_id": 2870,
             "Pass@1": 0.0,
@@ -73121,7 +73121,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_351",
             "question_id": 2870,
             "Pass@1": 100.0,
@@ -73329,7 +73329,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_352",
             "question_id": 2834,
             "Pass@1": 0.0,
@@ -73537,7 +73537,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_353",
             "question_id": 2834,
             "Pass@1": 100.0,
@@ -73745,7 +73745,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_354",
             "question_id": 2834,
             "Pass@1": 0.0,
@@ -73953,7 +73953,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_355",
             "question_id": 2834,
             "Pass@1": 100.0,
@@ -74161,7 +74161,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_356",
             "question_id": 2834,
             "Pass@1": 0.0,
@@ -74369,7 +74369,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_357",
             "question_id": 2834,
             "Pass@1": 0.0,
@@ -74577,7 +74577,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_358",
             "question_id": 2883,
             "Pass@1": 0.0,
@@ -74785,7 +74785,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_359",
             "question_id": 2883,
             "Pass@1": 0.0,
@@ -74993,7 +74993,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_360",
             "question_id": 2883,
             "Pass@1": 100.0,
@@ -75201,7 +75201,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_361",
             "question_id": 2892,
             "Pass@1": 100.0,
@@ -75409,7 +75409,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_362",
             "question_id": 2892,
             "Pass@1": 100.0,
@@ -75617,7 +75617,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_363",
             "question_id": 2892,
             "Pass@1": 0.0,
@@ -75825,7 +75825,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_364",
             "question_id": 2892,
             "Pass@1": 0.0,
@@ -76033,7 +76033,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_365",
             "question_id": 2892,
             "Pass@1": 0.0,
@@ -76241,7 +76241,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_366",
             "question_id": 2892,
             "Pass@1": 0.0,
@@ -76449,7 +76449,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_367",
             "question_id": 2887,
             "Pass@1": 0.0,
@@ -76657,7 +76657,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_368",
             "question_id": 2887,
             "Pass@1": 0.0,
@@ -76865,7 +76865,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_369",
             "question_id": 2887,
             "Pass@1": 0.0,
@@ -77073,7 +77073,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_370",
             "question_id": 2887,
             "Pass@1": 0.0,
@@ -77281,7 +77281,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_371",
             "question_id": 2887,
             "Pass@1": 0.0,
@@ -77489,7 +77489,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_372",
             "question_id": 2887,
             "Pass@1": 0.0,
@@ -77697,7 +77697,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_373",
             "question_id": 2955,
             "Pass@1": 100.0,
@@ -77905,7 +77905,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_374",
             "question_id": 2920,
             "Pass@1": 0.0,
@@ -78113,7 +78113,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_375",
             "question_id": 2920,
             "Pass@1": 0.0,
@@ -78321,7 +78321,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_376",
             "question_id": 2920,
             "Pass@1": 100.0,
@@ -78529,7 +78529,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_377",
             "question_id": 2920,
             "Pass@1": 0.0,
@@ -78737,7 +78737,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_378",
             "question_id": 2920,
             "Pass@1": 0.0,
@@ -78945,7 +78945,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_379",
             "question_id": 2920,
             "Pass@1": 100.0,
@@ -79153,7 +79153,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_380",
             "question_id": 2917,
             "Pass@1": 0.0,
@@ -79361,7 +79361,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_381",
             "question_id": 2917,
             "Pass@1": 0.0,
@@ -79569,7 +79569,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_382",
             "question_id": 2917,
             "Pass@1": 0.0,
@@ -79777,7 +79777,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_383",
             "question_id": 2917,
             "Pass@1": 0.0,
@@ -79985,7 +79985,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_384",
             "question_id": 2917,
             "Pass@1": 0.0,
@@ -80193,7 +80193,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_385",
             "question_id": 2917,
             "Pass@1": 0.0,
@@ -80401,7 +80401,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_386",
             "question_id": 3018,
             "Pass@1": 100.0,
@@ -80609,7 +80609,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_387",
             "question_id": 3018,
             "Pass@1": 100.0,
@@ -80817,7 +80817,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_388",
             "question_id": 3018,
             "Pass@1": 100.0,
@@ -81025,7 +81025,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_389",
             "question_id": 3018,
             "Pass@1": 100.0,
@@ -81233,7 +81233,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_390",
             "question_id": 3018,
             "Pass@1": 0.0,
@@ -81441,7 +81441,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_391",
             "question_id": 2999,
             "Pass@1": 100.0,
@@ -81649,7 +81649,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_392",
             "question_id": 2999,
             "Pass@1": 0.0,
@@ -81857,7 +81857,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_393",
             "question_id": 2999,
             "Pass@1": 0.0,
@@ -82065,7 +82065,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_394",
             "question_id": 2999,
             "Pass@1": 100.0,
@@ -82273,7 +82273,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_395",
             "question_id": 2999,
             "Pass@1": 0.0,
@@ -82481,7 +82481,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_396",
             "question_id": 2999,
             "Pass@1": 0.0,
@@ -82689,7 +82689,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_397",
             "question_id": 2954,
             "Pass@1": 0.0,
@@ -82897,7 +82897,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_398",
             "question_id": 2954,
             "Pass@1": 0.0,
@@ -83105,7 +83105,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_399",
             "question_id": 2954,
             "Pass@1": 0.0,
@@ -83313,7 +83313,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_400",
             "question_id": 2954,
             "Pass@1": 0.0,
@@ -83521,7 +83521,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_401",
             "question_id": 2954,
             "Pass@1": 0.0,
@@ -83729,7 +83729,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_402",
             "question_id": 2954,
             "Pass@1": 0.0,
@@ -83937,7 +83937,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_403",
             "question_id": 3045,
             "Pass@1": 0.0,
@@ -84145,7 +84145,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_404",
             "question_id": 3045,
             "Pass@1": 0.0,
@@ -84353,7 +84353,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_405",
             "question_id": 3045,
             "Pass@1": 100.0,
@@ -84561,7 +84561,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_406",
             "question_id": 3045,
             "Pass@1": 100.0,
@@ -84769,7 +84769,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_407",
             "question_id": 3045,
             "Pass@1": 0.0,
@@ -84977,7 +84977,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_408",
             "question_id": 3045,
             "Pass@1": 100.0,
@@ -85185,7 +85185,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_409",
             "question_id": 3081,
             "Pass@1": 0.0,
@@ -85393,7 +85393,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_410",
             "question_id": 3081,
             "Pass@1": 0.0,
@@ -85601,7 +85601,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_411",
             "question_id": 3081,
             "Pass@1": 0.0,
@@ -85809,7 +85809,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_412",
             "question_id": 3081,
             "Pass@1": 0.0,
@@ -86017,7 +86017,7 @@
             "Pass@1-COT": 80.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_413",
             "question_id": 3081,
             "Pass@1": 100.0,
@@ -86225,7 +86225,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_414",
             "question_id": 3081,
             "Pass@1": 100.0,
@@ -86433,7 +86433,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_415",
             "question_id": 2953,
             "Pass@1": 100.0,
@@ -86641,7 +86641,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_416",
             "question_id": 2953,
             "Pass@1": 100.0,
@@ -86849,7 +86849,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_417",
             "question_id": 3044,
             "Pass@1": 0.0,
@@ -87057,7 +87057,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_418",
             "question_id": 3044,
             "Pass@1": 0.0,
@@ -87265,7 +87265,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_419",
             "question_id": 3044,
             "Pass@1": 0.0,
@@ -87473,7 +87473,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_420",
             "question_id": 3044,
             "Pass@1": 0.0,
@@ -87681,7 +87681,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_421",
             "question_id": 3044,
             "Pass@1": 0.0,
@@ -87889,7 +87889,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_422",
             "question_id": 3044,
             "Pass@1": 0.0,
@@ -88097,7 +88097,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_423",
             "question_id": 3094,
             "Pass@1": 0.0,
@@ -88305,7 +88305,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_424",
             "question_id": 3094,
             "Pass@1": 100.0,
@@ -88513,7 +88513,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_425",
             "question_id": 3094,
             "Pass@1": 0.0,
@@ -88721,7 +88721,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_426",
             "question_id": 3094,
             "Pass@1": 0.0,
@@ -88929,7 +88929,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_427",
             "question_id": 3094,
             "Pass@1": 0.0,
@@ -89137,7 +89137,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_428",
             "question_id": 3094,
             "Pass@1": 100.0,
@@ -89345,7 +89345,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_429",
             "question_id": 3080,
             "Pass@1": 100.0,
@@ -89553,7 +89553,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_430",
             "question_id": 3080,
             "Pass@1": 100.0,
@@ -89761,7 +89761,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_431",
             "question_id": 3080,
             "Pass@1": 100.0,
@@ -89969,7 +89969,7 @@
             "Pass@1-COT": 60.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_432",
             "question_id": 3080,
             "Pass@1": 0.0,
@@ -90177,7 +90177,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_433",
             "question_id": 3080,
             "Pass@1": 0.0,
@@ -90385,7 +90385,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_434",
             "question_id": 3080,
             "Pass@1": 0.0,
@@ -90593,7 +90593,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_435",
             "question_id": 3164,
             "Pass@1": 100.0,
@@ -90801,7 +90801,7 @@
             "Pass@1-COT": 20.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_436",
             "question_id": 3164,
             "Pass@1": 100.0,
@@ -91009,7 +91009,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_437",
             "question_id": 3164,
             "Pass@1": 100.0,
@@ -91217,7 +91217,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_438",
             "question_id": 3164,
             "Pass@1": 0.0,
@@ -91425,7 +91425,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_439",
             "question_id": 3164,
             "Pass@1": 0.0,
@@ -91633,7 +91633,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_440",
             "question_id": 3164,
             "Pass@1": 100.0,
@@ -91841,7 +91841,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_441",
             "question_id": 3091,
             "Pass@1": 100.0,
@@ -92049,7 +92049,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_442",
             "question_id": 3163,
             "Pass@1": 0.0,
@@ -92257,7 +92257,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_443",
             "question_id": 3163,
             "Pass@1": 0.0,
@@ -92465,7 +92465,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_444",
             "question_id": 3163,
             "Pass@1": 0.0,
@@ -92673,7 +92673,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_445",
             "question_id": 3163,
             "Pass@1": 0.0,
@@ -92881,7 +92881,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_446",
             "question_id": 3163,
             "Pass@1": 0.0,
@@ -93089,7 +93089,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_447",
             "question_id": 3163,
             "Pass@1": 0.0,
@@ -93297,7 +93297,7 @@
             "Pass@1-COT": 30.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_448",
             "question_id": 3174,
             "Pass@1": 100.0,
@@ -93505,7 +93505,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_449",
             "question_id": 3174,
             "Pass@1": 100.0,
@@ -93713,7 +93713,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_450",
             "question_id": 3174,
             "Pass@1": 0.0,
@@ -93921,7 +93921,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_451",
             "question_id": 3174,
             "Pass@1": 100.0,
@@ -94129,7 +94129,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_452",
             "question_id": 3174,
             "Pass@1": 100.0,
@@ -94337,7 +94337,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_453",
             "question_id": 3174,
             "Pass@1": 100.0,
@@ -94545,7 +94545,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_454",
             "question_id": 3106,
             "Pass@1": 0.0,
@@ -94753,7 +94753,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_455",
             "question_id": 3106,
             "Pass@1": 0.0,
@@ -94961,7 +94961,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_456",
             "question_id": 3106,
             "Pass@1": 0.0,
@@ -95169,7 +95169,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_457",
             "question_id": 3106,
             "Pass@1": 0.0,
@@ -95377,7 +95377,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_458",
             "question_id": 3106,
             "Pass@1": 0.0,
@@ -95585,7 +95585,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_459",
             "question_id": 3106,
             "Pass@1": 0.0,
@@ -95793,7 +95793,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_460",
             "question_id": 3199,
             "Pass@1": 0.0,
@@ -96001,7 +96001,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_461",
             "question_id": 3199,
             "Pass@1": 100.0,
@@ -96209,7 +96209,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_462",
             "question_id": 3199,
             "Pass@1": 100.0,
@@ -96417,7 +96417,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_463",
             "question_id": 3199,
             "Pass@1": 0.0,
@@ -96625,7 +96625,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_464",
             "question_id": 3199,
             "Pass@1": 100.0,
@@ -96833,7 +96833,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_465",
             "question_id": 3199,
             "Pass@1": 0.0,
@@ -97041,7 +97041,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_466",
             "question_id": 3194,
             "Pass@1": 100.0,
@@ -97249,7 +97249,7 @@
             "Pass@1-COT": 90.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_467",
             "question_id": 3194,
             "Pass@1": 100.0,
@@ -97457,7 +97457,7 @@
             "Pass@1-COT": 70.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_468",
             "question_id": 3194,
             "Pass@1": 100.0,
@@ -97665,7 +97665,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_469",
             "question_id": 3194,
             "Pass@1": 100.0,
@@ -97873,7 +97873,7 @@
             "Pass@1-COT": 100.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_470",
             "question_id": 3194,
             "Pass@1": 100.0,
@@ -98081,7 +98081,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_471",
             "question_id": 3194,
             "Pass@1": 100.0,
@@ -98289,7 +98289,7 @@
             "Pass@1-COT": 50.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_472",
             "question_id": 3209,
             "Pass@1": 0.0,
@@ -98497,7 +98497,7 @@
             "Pass@1-COT": 10.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_473",
             "question_id": 3209,
             "Pass@1": 100.0,
@@ -98705,7 +98705,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_474",
             "question_id": 3209,
             "Pass@1": 0.0,
@@ -98913,7 +98913,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_475",
             "question_id": 3209,
             "Pass@1": 0.0,
@@ -99121,7 +99121,7 @@
             "Pass@1-COT": 40.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_476",
             "question_id": 3209,
             "Pass@1": 0.0,
@@ -99329,7 +99329,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_477",
             "question_id": 3209,
             "Pass@1": 0.0,
@@ -99537,7 +99537,7 @@
             "Pass@1-COT": 0.0
         },
         {
-            "model": "Gemini-Pro-1.5 (n=1)",
+            "model": "Gemini-Pro-1.5 (April) (n=1)",
             "sample_id": "sample_478",
             "question_id": 3211,
             "Pass@1": 0.0,
@@ -115105,6 +115105,13 @@
         {
             "model_name": "gemini-pro",
             "model_repr": "Gemini-Pro",
+            "model_style": "Google",
+            "release_date": 1682838000000,
+            "link": "https://blog.google/technology/ai/gemini-api-developers-cloud"
+        },
+        {
+            "model_name": "gemini-1.5-pro-latest",
+            "model_repr": "Gemini-Pro-1.5 (April) (n=1)",
             "model_style": "Google",
             "release_date": 1682838000000,
             "link": "https://blog.google/technology/ai/gemini-api-developers-cloud"
