@@ -108289,6 +108289,6194 @@
             "date": 1709424000000,
             "difficulty": "easy",
             "pass@1": 30.0
+        },
+        {
+            "question_id": "2727",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2727",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2728",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2728",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2730",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2730",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2754",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2754",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2755",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2755",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2756",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2756",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2757",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "hard",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2757",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "hard",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2777",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1683504000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2777",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1683504000000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2779",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1683504000000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2779",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1683504000000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2784",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2784",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2785",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2785",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2785",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2786",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2786",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2786",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2791",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2791",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2792",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2792",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2792",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2800",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2800",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2802",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2802",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2808",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2808",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2810",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2810",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2811",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2811",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2812",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2812",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2816",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2816",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2816",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2817",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685318400000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2817",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685318400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2819",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685318400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2819",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685318400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2824",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2824",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2825",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2825",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2825",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2827",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2827",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "hard",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2827",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2828",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2828",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2828",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2831",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2831",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2832",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2832",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2833",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2833",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2834",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2834",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2837",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2837",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2839",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2839",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2839",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2844",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2844",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2845",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2845",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2847",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2847",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2847",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2848",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2848",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2849",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2849",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2850",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2850",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2854",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2854",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2854",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2855",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2855",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2855",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2856",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2856",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2857",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2857",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2866",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2866",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2866",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2867",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2867",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2868",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2868",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2869",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2869",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2869",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2870",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2870",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2872",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2872",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2873",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2873",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2876",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2876",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2877",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2877",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2878",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2878",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2879",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2879",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2879",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2881",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2881",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2881",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2882",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2882",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2883",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2883",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2883",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2884",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2884",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2886",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2886",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2887",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2887",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2888",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2888",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2888",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2891",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2891",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2892",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2892",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2892",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2892",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2893",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2893",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2902",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2902",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2915",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2915",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2916",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2916",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2916",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2917",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2917",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2919",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "hard",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2919",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2919",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "hard",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2920",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2920",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2920",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2921",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2921",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2952",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2952",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2953",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2953",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2954",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2954",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2954",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2955",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2955",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2977",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2977",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2977",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2979",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2979",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2998",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2998",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2999",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2999",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3000",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3000",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3000",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3017",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3017",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3017",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "hard",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3018",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3018",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3018",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3019",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3019",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3019",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3024",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694390400000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3024",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694390400000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3025",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3025",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3025",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3026",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3026",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3026",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3031",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3031",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3032",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3032",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3033",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3033",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3034",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694390400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3034",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694390400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3044",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3044",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3044",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3045",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3045",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3045",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3046",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3046",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3046",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3047",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3047",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3055",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3055",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3080",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3080",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3081",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3081",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3081",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3091",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "hard",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3091",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3091",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3093",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3093",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3094",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3094",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3104",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3104",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3106",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3106",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3106",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3114",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3114",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3114",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3141",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3141",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3141",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3150",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3150",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3150",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3151",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3151",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3153",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3153",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3154",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3154",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3154",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3163",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3163",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3164",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3164",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3166",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3166",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3171",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3171",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3172",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3172",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3172",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3174",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3174",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3174",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3176",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3176",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3176",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3183",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3183",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3183",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3184",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "hard",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3184",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "hard",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3184",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3188",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3188",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3190",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3190",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3190",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3192",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3192",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3192",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3193",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3193",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3193",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3194",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3194",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3194",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3195",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3195",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3195",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3196",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3196",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3199",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699747200000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3199",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699747200000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3200",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699747200000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3200",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1699747200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3203",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3203",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3203",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "hard",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3206",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3206",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3207",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3207",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3209",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3209",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3210",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3210",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3210",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3211",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3211",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3211",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "hard",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3212",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3212",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3212",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3213",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3213",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3219",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3219",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3219",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3220",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3220",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3221",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3221",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3223",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3223",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3224",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3224",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3225",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3225",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3225",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3226",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3226",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3227",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3227",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3228",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3228",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3228",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3229",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3229",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3229",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3230",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3230",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3230",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3231",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3231",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3231",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3233",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3233",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3233",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3234",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3234",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3235",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3235",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3235",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3236",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3236",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3239",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3239",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3239",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3240",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3240",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3242",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3242",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3243",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3243",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3243",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3244",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3244",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3244",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3245",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3245",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3246",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3246",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3246",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3249",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3249",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3251",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3251",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3252",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3252",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3252",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3261",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3261",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3261",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3262",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3262",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3262",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3263",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3263",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3263",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3265",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3265",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3265",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3267",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3267",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3267",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3269",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3269",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3279",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3279",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3291",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3291",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3291",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3292",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3292",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3292",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3297",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3297",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3297",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3298",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3298",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3299",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3299",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3308",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3308",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3309",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3309",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3309",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3311",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3311",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3312",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3312",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3317",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3317",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3317",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3320",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3320",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3324",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3324",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3329",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3329",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3331",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3331",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3331",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3347",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3347",
+            "model": "Dracarys2-72B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2727",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2727",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2728",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2728",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2730",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2730",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2754",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2754",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2755",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2755",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2756",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2756",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2757",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "hard",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2757",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2777",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1683504000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2777",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1683504000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2779",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1683504000000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2779",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1683504000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2784",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2784",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684022400000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2785",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2785",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2785",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2786",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2786",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2786",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2791",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2791",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2792",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2792",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2792",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684108800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2800",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2800",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2802",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2802",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2808",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2808",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2810",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2810",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2811",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2811",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2812",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2812",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2816",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2816",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2816",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1684713600000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2817",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685318400000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2817",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685318400000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2819",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685318400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2819",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685318400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2824",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2824",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686441600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2825",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2825",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2825",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685923200000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2827",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2827",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2827",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1685232000000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2828",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2828",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2828",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2831",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2831",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2832",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2832",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2833",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2833",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2834",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2834",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2837",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2837",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2839",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2839",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "hard",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2839",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1686528000000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2844",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2844",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2845",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2845",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2847",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2847",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2847",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2848",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2848",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2849",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2849",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "hard",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2850",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2850",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2854",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2854",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2854",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687651200000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2855",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2855",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2855",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2856",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2856",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2857",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2857",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687132800000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2866",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2866",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2866",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2867",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2867",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1687737600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2868",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2868",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2869",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2869",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2869",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2870",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2870",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2872",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2872",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2873",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2873",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688342400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2876",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2876",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2877",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "2877",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2878",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2878",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688947200000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2879",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "hard",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2879",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "hard",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2879",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "hard",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2881",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2881",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2881",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2882",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2882",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2883",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2883",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2883",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1688860800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2884",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2884",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2886",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2886",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2887",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2887",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2888",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2888",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2888",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2891",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2891",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1689552000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2892",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2892",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2892",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2892",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2893",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2893",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690070400000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2902",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2902",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2915",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2915",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2916",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "2916",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2916",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691366400000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "2917",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2917",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2919",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "hard",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "2919",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2919",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690156800000,
+            "difficulty": "hard",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2920",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2920",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2920",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2921",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2921",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1690761600000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2952",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "2952",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2953",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "2953",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2954",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2954",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2954",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2955",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2955",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691280000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2977",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2977",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2977",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "2979",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "2979",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692576000000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "2998",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2998",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "2999",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "2999",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693699200000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3000",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3000",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3000",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1691971200000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3017",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3017",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3017",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3018",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3018",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3018",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1692489600000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3019",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3019",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3019",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3024",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694390400000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3024",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694390400000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3025",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3025",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3025",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3026",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3026",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3026",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3031",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3031",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3032",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3032",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693180800000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3033",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3033",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3034",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694390400000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3034",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694390400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3044",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3044",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3044",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3045",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3045",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3045",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3046",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3046",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3046",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1693785600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3047",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3047",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3055",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3055",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3080",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3080",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3081",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3081",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3081",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694908800000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3091",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "hard",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3091",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "hard",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3091",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3093",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3093",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3094",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3094",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696118400000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3104",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3104",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1694995200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3106",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3106",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3106",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3114",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3114",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3114",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1695600000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3141",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3141",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3141",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3150",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3150",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3150",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697414400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3151",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3151",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3153",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3153",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3154",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3154",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3154",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696204800000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3163",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3163",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3164",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3164",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1697328000000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3166",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3166",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3171",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3171",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3172",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "easy",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3172",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3172",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1696809600000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3174",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3174",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3174",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698537600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3176",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3176",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3176",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698019200000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3183",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3183",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3183",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1698624000000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3184",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3184",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "hard",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3184",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3188",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "easy",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3188",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699228800000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3190",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3190",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3190",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3192",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3192",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3192",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3193",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3193",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3193",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699833600000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3194",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3194",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3194",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3195",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3195",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3195",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3196",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "hard",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3196",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3199",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699747200000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3199",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699747200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3200",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699747200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3200",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1699747200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3203",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3203",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3203",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "hard",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3206",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3206",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3207",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3207",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700352000000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3209",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3209",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3210",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3210",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3210",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3211",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3211",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3211",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3212",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3212",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3212",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3213",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3213",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3219",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3219",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3219",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1700956800000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3220",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3220",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3221",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3221",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3223",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3223",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3224",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3224",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3225",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3225",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3225",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3226",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3226",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3227",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3227",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3228",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3228",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3228",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3229",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3229",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3229",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702771200000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3230",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3230",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3230",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3231",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3231",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3231",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1701561600000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3233",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3233",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3233",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3234",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3234",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1702166400000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3235",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3235",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3235",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3236",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3236",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3239",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3239",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3239",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3240",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3240",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3242",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3242",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "easy",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3243",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3243",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3243",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "hard",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3244",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3244",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3244",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3245",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3245",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705190400000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3246",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "easy",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3246",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3246",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "easy",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3249",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3249",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3251",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3251",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1704585600000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3252",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3252",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3252",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3261",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3261",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3261",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "hard",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3262",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3262",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3262",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703376000000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3263",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3263",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3263",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3265",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3265",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3265",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3267",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3267",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3267",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1703980800000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3269",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3269",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 70.0
+        },
+        {
+            "question_id": "3279",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3279",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3291",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 90.0
+        },
+        {
+            "question_id": "3291",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3291",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1705795200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3292",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3292",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3292",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3297",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3297",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3297",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3298",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "hard",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3298",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "hard",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3299",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3299",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "medium",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3308",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3308",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 40.0
+        },
+        {
+            "question_id": "3309",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3309",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3309",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 10.0
+        },
+        {
+            "question_id": "3311",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3311",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707004800000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3312",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3312",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1706400000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3317",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 80.0
+        },
+        {
+            "question_id": "3317",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3317",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1707609600000,
+            "difficulty": "medium",
+            "pass@1": 20.0
+        },
+        {
+            "question_id": "3320",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3320",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3324",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "easy",
+            "pass@1": 50.0
+        },
+        {
+            "question_id": "3324",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708819200000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3329",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 60.0
+        },
+        {
+            "question_id": "3329",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1708214400000,
+            "difficulty": "medium",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3331",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3331",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 0.0
+        },
+        {
+            "question_id": "3331",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 100.0
+        },
+        {
+            "question_id": "3347",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 30.0
+        },
+        {
+            "question_id": "3347",
+            "model": "Dracarys2-Llama-3.1-70B-Instruct",
+            "date": 1709424000000,
+            "difficulty": "easy",
+            "pass@1": 30.0
         }
     ],
     "models": [
@@ -108536,6 +114724,20 @@
             "model_style": "Misc",
             "release_date": 1691280000000,
             "link": "https://huggingface.co/abacusai/Dracarys-Llama-3.1-70B-Instruct"
+        },
+        {
+            "model_name": "abacusai/Dracary2s-72B-Instruct",
+            "model_repr": "Dracarys2-72B-Instruct",
+            "model_style": "Misc",
+            "release_date": 1719705600000,
+            "link": "https://huggingface.co/abacusai/Dracarys2-72B-Instruct"
+        },
+        {
+            "model_name": "abacusai/Dracarys2-Llama-3.1-70B-Instruct",
+            "model_repr": "Dracarys2-Llama-3.1-70B-Instruct",
+            "model_style": "Misc",
+            "release_date": 1719705600000,
+            "link": "https://huggingface.co/abacusai/Dracarys2-Llama-3.1-70B-Instruct"
         }
     ],
     "date_marks": [
