@@ -29,7 +29,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   // args from Streamlit
   let args = props.args;
   const { performances, models, date_marks } = args;
-
+  console.log(performances);
 
   const [isMobileCompressed, setIsMobileCompressed] = useState(window.innerWidth < 768);
 
@@ -61,7 +61,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   }, [date_marks]);
 
   const [dateStartAndEnd, setDateStartAndEnd] = React.useState<number[]>([
-    dateMarks[4].value, // Right now, this is 2023-05-01
+    (dateMarks.length > 12) ? dateMarks[8].value : dateMarks[4].value, // Right now, this is 2023-05-01
     dateMarks[dateMarks.length - 1].value,
   ])
 
@@ -143,7 +143,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
   const numProblems = performances.filter(
     (result: any) =>
-      result["model"] === "GPT-3.5-Turbo-0301" &&
+      result["model"] === "GPT-4O-2024-05-13" &&
       result["date"] >= dateStartAndEnd[0] &&
       result["date"] <= dateStartAndEnd[1]
   ).length;
