@@ -61,7 +61,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
   }, [date_marks]);
 
   const [dateStartAndEnd, setDateStartAndEnd] = React.useState<number[]>([
-    (dateMarks.length > 12) ? dateMarks[8].value : dateMarks[4].value, // Right now, this is 2023-05-01
+    (dateMarks.length > 12) ? dateMarks[12].value : dateMarks[4].value, // Right now, this is 2023-05-01
     dateMarks[dateMarks.length - 1].value,
   ])
 
