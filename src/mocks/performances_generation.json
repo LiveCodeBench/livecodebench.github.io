@@ -133802,35 +133802,35 @@
             "model_repr": "O1-Preview-2024-09-12 (N=1)",
             "model_style": "OpenAIReasonPreview",
             "release_date": 1682812800000,
-            "link": "https://openai.com/index/spring-update"
+            "link": "https://platform.openai.com/docs/guides/reasoning"
         },
         {
             "model_name": "o1-mini-2024-09-12",
             "model_repr": "O1-Mini-2024-09-12 (N=1)",
             "model_style": "OpenAIReasonPreview",
             "release_date": 1682812800000,
-            "link": "https://openai.com/index/spring-update"
+            "link": "https://platform.openai.com/docs/guides/reasoning"
         },
         {
             "model_name": "o1-2024-12-17__low",
             "model_repr": "O1-2024-12-17 (N=1) (Low)",
             "model_style": "OpenAIReason",
             "release_date": 1682812800000,
-            "link": "https://openai.com/index/spring-update"
+            "link": "https://platform.openai.com/docs/api-reference/chat/create#chat-create-reasoning_effort"
         },
         {
             "model_name": "o1-2024-12-17__medium",
             "model_repr": "O1-2024-12-17 (N=1) (Med)",
             "model_style": "OpenAIReason",
             "release_date": 1682812800000,
-            "link": "https://openai.com/index/spring-update"
+            "link": "htthttps://platform.openai.com/docs/api-reference/chat/create#chat-create-reasoning_effort"
         },
         {
             "model_name": "o1-2024-12-17__high",
             "model_repr": "O1-2024-12-17 (N=1) (High)",
             "model_style": "OpenAIReason",
             "release_date": 1682812800000,
-            "link": "https://openai.com/index/spring-update"
+            "link": "https://platform.openai.com/docs/api-reference/chat/create#chat-create-reasoning_effort"
         },
         {
             "model_name": "claude-3-5-sonnet-20240620",
@@ -133893,7 +133893,7 @@
             "model_repr": "QwQ-32B-Preview (N=1)",
             "model_style": "QwQ",
             "release_date": 1722297600000,
-            "link": "https://huggingface.co/Qwen/Qwen2-72B-Instruct"
+            "link": "https://huggingface.co/Qwen/QwQ-32B-Preview"
         }
     ],
     "date_marks": [
