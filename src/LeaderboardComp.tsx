@@ -237,7 +237,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
   message += "<br><br>We estimate cutoff dates based on release date and performance variation. Models highlighted in red are likely contaminated on some fraction of the problems in the given time-window. Feel free to adjust the slider to see the leaderboard at different time windows. Please offer feedback if you find any issues!"
 
-  message += "<br><br>Announcements: 1. We have made revisions to our official autograder. In case you are performing local evaluations, please use the latest codebase. 2. We have been updating the problem difficulty distribution making it more challenging aligned with the model capability improvements. A drop in performance towards later months is expected."
+  message += "<br><br>Announcements: <br>1. We have made revisions to our official autograder, fixing some unhandled cases. In case you are performing local evaluations, please use the latest codebase. <br>2. We have been introducing larger fraction of difficult problems for the more recent releases in lines with model capability improvements. A drop in performance in the later months is expected."
 
 
 
@@ -245,7 +245,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
     <div style={{ width: "100%", height: "100%" }}>
       <ThemeProvider theme={muiTheme}>
         <CssBaseline />
-        <div style={{ display: "flex", justifyContent: "center" }}>
+        <div style={{ display: "flex", justifyContent: "left", textAlign: "left" }}>
           <b>{message.split("<br>").map((line, index) => (
             <React.Fragment key={index}>
               {line}
