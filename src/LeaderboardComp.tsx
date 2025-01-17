@@ -237,6 +237,8 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
   message += "<br><br>We estimate cutoff dates based on release date and performance variation. Models highlighted in red are likely contaminated on some fraction of the problems in the given time-window. Feel free to adjust the slider to see the leaderboard at different time windows. Please offer feedback if you find any issues!"
 
+  message += "<br><br>Announcements: 1. We have made revisions to our official autograder. In case you are performing local evaluations, please use the latest codebase. 2. We have been updating the problem difficulty distribution making it more challenging aligned with the model capability improvements. A drop in performance towards later months is expected."
+
 
 
   return (
