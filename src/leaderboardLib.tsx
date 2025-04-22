@@ -51,6 +51,7 @@ function get_pass_at_1(
       result["date"] >= start &&
       result["date"] <= end
   )
+  console.log("Results: ", results)
 
   const average_pass = formatNumber(
     mean(results.map((result) => result["pass@1"]))
@@ -86,6 +87,12 @@ function get_pass_at_1(
   )
 
   // console.log("COT PASS: ", cot_pass, cot_pass != undefined, cot_pass != null, cot_pass.toString() != "NaN")
+  console.log(
+    "Model: ",
+    model,
+    "Average Pass: ",
+    average_pass,
+  );
 
   return {
     average_pass,

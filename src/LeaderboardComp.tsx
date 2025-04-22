@@ -143,7 +143,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
   const numProblems = performances.filter(
     (result: any) =>
-      result["model"] === "GPT-4O-2024-05-13" &&
+      result["model"] === "GPT-4O-2024-08-06" &&
       result["date"] >= dateStartAndEnd[0] &&
       result["date"] <= dateStartAndEnd[1]
   ).length;
@@ -237,7 +237,7 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
   message += "<br><br>We estimate cutoff dates based on release date and performance variation. Models highlighted in red are likely contaminated on some fraction of the problems in the given time-window. Feel free to adjust the slider to see the leaderboard at different time windows. Please offer feedback if you find any issues!"
 
-  message += "<br><br>Announcements: <br>1. We have made revisions to our official autograder, fixing some unhandled cases. In case you are performing local evaluations, please use the latest codebase. <br>2. We have been introducing larger fraction of difficult problems for the more recent releases in lines with model capability improvements. A drop in performance in the later months is expected."
+  message += "<br><br>Note: We have been introducing larger fraction of difficult problems for the more recent releases in lines with model capability improvements. A drop in performance in the later months is expected."
 
 
 
