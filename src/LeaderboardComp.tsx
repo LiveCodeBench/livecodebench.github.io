@@ -239,19 +239,14 @@ const Leaderboard = React.memo(function LeaderboardComponent(props: any) {
 
   message += "<br><br>Note: We have been introducing larger fraction of difficult problems for the more recent releases in lines with model capability improvements. A drop in performance in the later months is expected."
 
-
+  message += '<br><br>Check out the previous version (release_v5) of the leaderboard at <a href="leaderboard_v5.html">leaderboard_v5.html</a>.';
 
   return (
     <div style={{ width: "100%", height: "100%" }}>
       <ThemeProvider theme={muiTheme}>
         <CssBaseline />
         <div style={{ display: "flex", justifyContent: "left", textAlign: "left" }}>
-          <b>{message.split("<br>").map((line, index) => (
-            <React.Fragment key={index}>
-              {line}
-              <br />
-            </React.Fragment>
-          ))}</b>
+          <b dangerouslySetInnerHTML={{ __html: message }}></b>
         </div>
 
 
