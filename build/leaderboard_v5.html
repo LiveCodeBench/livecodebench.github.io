@@ -1,31 +1,1082 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <title>LiveCodeBench Leaderboard</title>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta name="description" content="LiveCodeBench Leaderboard" />
-    <link rel="stylesheet" href="bootstrap.min.css" />
-    <link rel="stylesheet" href="./css/bulma.min.css" />
-    <link rel="stylesheet" href="./css/bulma-carousel.min.css" />
-    <link rel="stylesheet" href="./css/bulma-slider.min.css" />
-    <link rel="stylesheet" href="./css/fontawesome.all.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
-    <link rel="stylesheet" href="./css/index.css" />
-    <link rel="icon" href="./images/favicon.svg" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script defer="defer" src="./js/fontawesome.all.min.js"></script>
-    <script src="./js/bulma-carousel.min.js"></script>
-    <script src="./js/bulma-slider.min.js"></script>
-    <script src="./js/index.js"></script>
-    <script defer="defer" src="./static_v5/js/main.2488308f.js"></script>
-    <link href="./static_v5/css/main.be588df3.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LiveCodeBench Leaderboard - Holistic and Contamination Free Evaluation</title>
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Inter font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            font-family: Inter, sans-serif;
+            font-feature-settings: 'liga' 1, 'calt' 1;
+            --primary-color: #2563eb;
+            --primary-hover: #1d4ed8;
+            --background: #ffffff;
+            --surface: #ffffff;
+            --surface-hover: #f8fafc;
+            --surface-elevated: #f1f5f9;
+            --border: #e2e8f0;
+            --border-light: #f1f5f9;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --text-muted: #64748b;
+            --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+            --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+            --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+            --radius: 8px;
+            --radius-lg: 12px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Inter, sans-serif !important;
+            background: #f8fafc;
+            color: var(--text-primary);
+            line-height: 1.6;
+            font-size: 18px !important;
+            min-height: 100vh;
+        }
+
+        /* Simple container approach like GSO */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        /* Navigation Header */
+        .main-nav {
+            background: #ffffff;
+            border-bottom: 1px solid #e2e8f0;
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-brand {
+            font-family: Inter, sans-serif !important;
+            font-size: 1.75rem !important;
+            font-weight: 700 !important;
+            color: #0f172a !important;
+            text-decoration: none !important;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+        }
+
+        .nav-link {
+            font-family: Inter, sans-serif !important;
+            font-size: 1.125rem !important;
+            font-weight: 500 !important;
+            color: #64748b !important;
+            text-decoration: none !important;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+        }
+
+        .nav-link:hover {
+            color: #2563eb !important;
+            background: #f1f5f9;
+        }
+
+        .nav-link.active {
+            color: #2563eb !important;
+            background: #eff6ff;
+            font-weight: 600 !important;
+        }
+
+        .nav-new-badge {
+            display: inline-flex;
+            align-items: center;
+            background: linear-gradient(135deg, #ef4444, #dc2626);
+            color: white !important;
+            padding: 0.25rem 0.625rem;
+            border-radius: 9999px;
+            font-size: 0.75rem !important;
+            font-weight: 700 !important;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-left: 0.5rem;
+            box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.05);
+            }
+        }
+
+        /* Hero Section */
+        .hero {
+            background: var(--background);
+            padding: 3rem 0 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .hero-body {
+            text-align: center;
+        }
+
+        .title.is-1.publication-title {
+            font-size: 3rem !important;
+            font-weight: 700 !important;
+            margin-bottom: 2rem !important;
+            color: var(--text-primary) !important;
+            line-height: 1.2 !important;
+            letter-spacing: -0.025em !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        /* Content Container */
+        .content-container {
+            margin: 2rem 0;
+        }
+
+        /* Info Message */
+        .info-message {
+            text-align: left;
+            margin-bottom: 2rem;
+            font-weight: 400 !important;
+            color: var(--text-secondary) !important;
+            line-height: 1.7 !important;
+            font-size: 1.125rem !important;
+            padding: 1.5rem;
+            background: var(--surface);
+            border-radius: var(--radius);
+            border: 1px solid var(--border);
+            font-family: Inter, sans-serif !important;
+        }
+
+        .info-message strong {
+            color: var(--text-primary) !important;
+            font-weight: 600 !important;
+        }
+
+        .info-message em {
+            color: var(--text-muted) !important;
+            font-style: italic !important;
+        }
+
+        .info-message a {
+            color: var(--primary-color) !important;
+            text-decoration: none !important;
+            font-weight: 600 !important;
+        }
+
+        .info-message a:hover {
+            text-decoration: underline !important;
+        }
+
+        /* Slider Container */
+        .slider-container {
+            width: 100%;
+            padding: 0 1rem 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .slider-wrapper {
+            position: relative;
+            width: 100%;
+            height: 70px;
+            margin: 2rem 0;
+        }
+
+        .slider-track {
+            position: absolute;
+            top: 50%;
+            left: 0;
+            right: 0;
+            height: 6px;
+            background: var(--border);
+            border-radius: 3px;
+            transform: translateY(-50%);
+        }
+
+        .slider-rail {
+            position: absolute;
+            height: 6px;
+            background: var(--text-secondary);
+            border-radius: 3px;
+            top: 50%;
+            transform: translateY(-50%);
+            transition: all 0.15s ease;
+        }
+
+        .slider-input {
+            position: absolute;
+            width: 100%;
+            height: 70px;
+            background: transparent;
+            pointer-events: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+            outline: none;
+            top: 0;
+            left: 0;
+        }
+
+        .slider-input::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            background: var(--text-secondary);
+            cursor: pointer;
+            pointer-events: all;
+            border: 2px solid var(--background);
+            box-shadow: var(--shadow-md);
+            transition: all 0.15s ease;
+            position: relative;
+            z-index: 10;
+        }
+
+        .slider-input::-webkit-slider-thumb:hover {
+            background: var(--text-primary);
+            transform: scale(1.1);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .slider-input::-moz-range-thumb {
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            background: var(--text-secondary);
+            cursor: pointer;
+            pointer-events: all;
+            border: 2px solid var(--background);
+            box-shadow: var(--shadow-md);
+            transition: all 0.15s ease;
+            position: relative;
+            z-index: 10;
+        }
+
+        .slider-input::-moz-range-thumb:hover {
+            background: var(--text-primary);
+            transform: scale(1.1);
+        }
+
+        .slider-input::-webkit-slider-track {
+            background: transparent;
+            height: 6px;
+        }
+
+        .slider-input::-moz-range-track {
+            background: transparent;
+            height: 6px;
+            border: none;
+        }
+
+        .slider-marks {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            height: 40px;
+            pointer-events: none;
+        }
+
+        .slider-mark {
+            position: absolute;
+            top: 10px;
+            width: 3px;
+            height: 8px;
+            background: var(--border-light);
+            border-radius: 1px;
+            transform: translateX(-50%);
+        }
+
+        .slider-mark-label {
+            position: absolute;
+            top: 22px;
+            font-size: 0.875rem !important;
+            color: var(--text-muted) !important;
+            transform: translateX(-50%);
+            white-space: nowrap;
+            font-weight: 500 !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        /* Value labels */
+        .value-label {
+            position: absolute;
+            top: -45px;
+            background: var(--text-secondary);
+            color: white !important;
+            padding: 8px 12px;
+            border-radius: var(--radius);
+            font-size: 0.875rem !important;
+            font-weight: 600 !important;
+            transform: translateX(-50%);
+            white-space: nowrap;
+            transition: all 0.15s ease;
+            z-index: 15;
+            box-shadow: var(--shadow-md);
+            font-family: Inter, sans-serif !important;
+        }
+
+        .value-label::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 4px solid transparent;
+            border-top-color: var(--text-secondary);
+        }
+
+        /* --- GSO-style Table Aesthetics --- */
+        .table-container {
+            background: var(--surface);
+            border-radius: var(--radius-lg);
+            border: 1px solid var(--border);
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+            margin-bottom: 2rem;
+        }
+
+        .table-scroll {
+            max-height: 700px;
+            overflow-y: auto;
+            scrollbar-width: thin;
+            scrollbar-color: var(--border) var(--surface);
+        }
+
+        .table-scroll::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .table-scroll::-webkit-scrollbar-track {
+            background: var(--surface);
+        }
+
+        .table-scroll::-webkit-scrollbar-thumb {
+            background-color: var(--border);
+            border-radius: 4px;
+            border: 2px solid var(--surface);
+        }
+
+        .table-scroll::-webkit-scrollbar-thumb:hover {
+            background-color: var(--text-muted);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 1rem !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        th,
+        td {
+            padding: 1rem 1.25rem !important;
+            text-align: left;
+            border-bottom: 1px solid var(--border-light);
+            transition: all 0.2s ease;
+            font-family: Inter, sans-serif !important;
+        }
+
+        th {
+            background: #6b7280 !important;
+            font-weight: 600 !important;
+            color: #ffffff !important;
+            position: sticky;
+            top: 0;
+            z-index: 5;
+            font-size: 1rem !important;
+            letter-spacing: 0.05em !important;
+            border-bottom: 1px solid var(--border) !important;
+            text-transform: uppercase !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        th.rank-col,
+        th.model-col,
+        th.score-col {
+            color: #ffffff !important;
+        }
+
+        .rank-col {
+            width: 80px;
+            text-align: center;
+        }
+
+        .model-col {
+            width: 320px;
+            font-weight: 600 !important;
+            color: var(--text-primary) !important;
+        }
+
+        .score-col {
+            width: 100px;
+            text-align: center;
+            font-variant-numeric: tabular-nums;
+            font-weight: 600 !important;
+            color: var(--text-primary) !important;
+        }
+
+        tbody tr {
+            transition: all 0.2s ease;
+            background: var(--surface);
+        }
+
+        tbody tr:nth-child(even) {
+            background: var(--surface-elevated);
+        }
+
+        tbody tr:hover {
+            background: var(--surface-hover);
+        }
+
+        tbody tr:last-child {
+            border-bottom: none;
+        }
+
+        /* Contaminated rows */
+        .contaminated {
+            background-color: rgba(239, 68, 68, 0.08) !important;
+            border-left: 3px solid #ef4444;
+        }
+
+        .contaminated:hover {
+            background-color: rgba(239, 68, 68, 0.12) !important;
+        }
+
+        /* Rank badge (smaller, GSO style) */
+        .rank-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            font-weight: 700 !important;
+            font-size: 0.875rem !important;
+            box-shadow: var(--shadow-sm);
+            font-family: Inter, sans-serif !important;
+        }
+
+        .rank-1 {
+            background: linear-gradient(135deg, #fbbf24, #f59e0b);
+            color: #92400e !important;
+        }
+
+        .rank-2 {
+            background: linear-gradient(135deg, #d1d5db, #9ca3af);
+            color: #374151 !important;
+        }
+
+        .rank-3 {
+            background: linear-gradient(135deg, #f97316, #ea580c);
+            color: #9a3412 !important;
+        }
+
+        .rank-other {
+            background: var(--surface-elevated);
+            color: var(--text-secondary) !important;
+            border: 1px solid var(--border);
+        }
+
+        /* Smooth table updates */
+        .table-updating {
+            opacity: 0.95;
+        }
+
+        .table-updating tbody tr {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        /* Enhanced table styling for animations */
+        tbody {
+            position: relative;
+        }
+
+        a {
+            color: var(--primary-color) !important;
+            text-decoration: none !important;
+            font-weight: 500 !important;
+            cursor: pointer;
+        }
+
+        a:hover {
+            color: var(--primary-hover) !important;
+            text-decoration: underline !important;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-muted) !important;
+            font-weight: 500 !important;
+            font-size: 1.125rem !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        /* Mobile responsive */
+        @media (max-width: 768px) {
+            body {
+                font-size: 16px !important;
+            }
+
+            .container {
+                padding: 0 1rem;
+            }
+
+            .nav-container {
+                padding: 0 1rem;
+            }
+
+            .nav-links {
+                gap: 1rem;
+            }
+
+            .nav-link {
+                font-size: 1rem !important;
+                padding: 0.5rem 0.75rem;
+            }
+
+            .nav-brand {
+                font-size: 1.5rem !important;
+            }
+
+            .hero {
+                padding: 2rem 0;
+            }
+
+            .title.is-1.publication-title {
+                font-size: 2.25rem !important;
+            }
+
+            .slider-container {
+                padding: 0 0.5rem 1rem;
+            }
+
+            .content-container {
+                margin: 1.5rem 0;
+            }
+
+            .info-message {
+                font-size: 1rem !important;
+                padding: 1rem;
+            }
+
+            th,
+            td {
+                padding: 0.75rem 1rem !important;
+                font-size: 0.875rem !important;
+            }
+
+            th {
+                font-size: 0.75rem !important;
+            }
+
+            .model-col {
+                width: 180px;
+            }
+
+            .score-col {
+                width: 80px;
+            }
+
+            .rank-badge {
+                width: 28px;
+                height: 28px;
+                font-size: 0.75rem !important;
+            }
+
+            .slider-wrapper {
+                height: 60px;
+            }
+
+            .slider-input {
+                height: 60px;
+            }
+
+            .slider-mark-label {
+                font-size: 0.75rem !important;
+            }
+
+            .value-label {
+                font-size: 0.75rem !important;
+                padding: 6px 10px;
+            }
+        }
+    </style>
 </head>
 
-<body><noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+<body>
+    <!-- Navigation Header -->
+    <nav class="main-nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">LiveCodeBench</a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link">Overview</a>
+                <a href="leaderboard.html" class="nav-link active">Leaderboard</a>
+                <a href="gso.html" class="nav-link">
+                    GSO Leaderboard
+                    <span class="nav-new-badge">
+                        NEW
+                    </span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-body">
+                <h1 class="title is-1 publication-title">
+                    LiveCodeBench Leaderboard
+                </h1>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <div class="content-container">
+                <!-- Info Message -->
+                <div class="info-message" id="infoText">
+                    <b>Loading...</b>
+                </div>
+
+                <!-- Slider -->
+                <div class="slider-container">
+                    <div class="slider-wrapper">
+                        <div class="slider-track"></div>
+                        <div class="slider-rail" id="sliderRail"></div>
+                        <input type="range" id="startSlider" class="slider-input" min="0" max="100" value="30">
+                        <input type="range" id="endSlider" class="slider-input" min="0" max="100" value="100">
+                        <div class="value-label" id="startLabel">Loading...</div>
+                        <div class="value-label" id="endLabel">Loading...</div>
+                        <div class="slider-marks" id="sliderMarks"></div>
+                    </div>
+                </div>
+
+                <!-- Table -->
+                <div class="table-container" id="tableContainer" style="display: none;">
+                    <div class="table-scroll">
+                        <table id="leaderboardTable">
+                            <thead>
+                                <tr>
+                                    <th class="rank-col">Rank</th>
+                                    <th class="model-col">Model</th>
+                                    <th class="score-col">Pass@1</th>
+                                    <th class="score-col">Easy</th>
+                                    <th class="score-col">Medium</th>
+                                    <th class="score-col">Hard</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tableBody">
+                                <tr>
+                                    <td colspan="6" class="loading">Loading leaderboard data...</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // =============================================================================
+        // CONFIGURATION - Change this to use different datasets
+        // =============================================================================
+        const DEFAULT_DATASET = 'v5.json';
+        let currentDataset = DEFAULT_DATASET;
+
+        // =============================================================================
+        // Global state
+        // =============================================================================
+        let currentData = null;
+        let dateMarks = [];
+        let updateTimeout = null;
+
+        // Elements
+        const startSlider = document.getElementById('startSlider');
+        const endSlider = document.getElementById('endSlider');
+        const sliderRail = document.getElementById('sliderRail');
+        const startLabel = document.getElementById('startLabel');
+        const endLabel = document.getElementById('endLabel');
+        const sliderMarks = document.getElementById('sliderMarks');
+        const tableBody = document.getElementById('tableBody');
+        const tableContainer = document.getElementById('tableContainer');
+        const infoText = document.getElementById('infoText');
+
+        // Helper functions
+        function mean(arr) {
+            return arr.reduce((a, b) => a + b, 0) / (arr.length || 1);
+        }
+
+        function fmt(num) {
+            return Number(num.toFixed(1));
+        }
+
+        function formatDate(timestamp) {
+            return new Date(timestamp).toLocaleDateString('en-US', {
+                timeZone: 'UTC'
+            });
+        }
+
+        function updateSliderVisuals() {
+            const start = Math.min(parseInt(startSlider.value), parseInt(endSlider.value));
+            const end = Math.max(parseInt(startSlider.value), parseInt(endSlider.value));
+
+            // Update rail
+            sliderRail.style.left = start + '%';
+            sliderRail.style.width = (end - start) + '%';
+
+            // Update labels
+            if (dateMarks.length > 0) {
+                const startIdx = Math.floor(start * (dateMarks.length - 1) / 100);
+                const endIdx = Math.floor(end * (dateMarks.length - 1) / 100);
+
+                startLabel.textContent = formatDate(dateMarks[startIdx]);
+                endLabel.textContent = formatDate(dateMarks[endIdx]);
+                startLabel.style.left = start + '%';
+                endLabel.style.left = end + '%';
+            }
+        }
+
+        function throttledUpdateLeaderboard() {
+            // Update visuals immediately for responsiveness
+            updateSliderVisuals();
+
+            // Clear existing timeout
+            if (updateTimeout) {
+                clearTimeout(updateTimeout);
+            }
+
+            // Throttle the expensive leaderboard update with shorter delay
+            updateTimeout = setTimeout(() => {
+                updateLeaderboard();
+            }, 50); // Reduced from 100ms to 50ms for snappier response
+        }
+
+        function immediateVisualUpdate() {
+            // Just update visuals immediately without any throttling
+            updateSliderVisuals();
+        }
+
+        function createSliderMarks() {
+            if (!dateMarks.length) return;
+
+            sliderMarks.innerHTML = '';
+
+            // Show marks similar to React version - every few marks to avoid crowding
+            const markCount = Math.min(dateMarks.length, 12);
+            const step = Math.max(1, Math.floor(dateMarks.length / markCount));
+
+            for (let i = 0; i < dateMarks.length; i += step) {
+                const position = (i / (dateMarks.length - 1)) * 100;
+
+                // Create tick mark
+                const mark = document.createElement('div');
+                mark.className = 'slider-mark';
+                mark.style.left = position + '%';
+                sliderMarks.appendChild(mark);
+
+                // Create label for some marks to avoid crowding
+                if (i % (step * 2) === 0 || i === dateMarks.length - 1) {
+                    const label = document.createElement('div');
+                    label.className = 'slider-mark-label';
+                    label.style.left = position + '%';
+                    label.textContent = formatDate(dateMarks[i]);
+                    sliderMarks.appendChild(label);
+                }
+            }
+
+            // Update slider attributes - remove step constraint for smooth movement
+            startSlider.max = 100;
+            endSlider.max = 100;
+            startSlider.step = 0.1; // Allow fine-grained movement
+            endSlider.step = 0.1; // Allow fine-grained movement
+        }
+
+        function getPassAt1(results, model, start, end) {
+            const filtered = results.filter(
+                r => r.model === model && r.date >= start && r.date <= end
+            );
+
+            const m = (f) => fmt(mean(filtered.filter(f).map(r => r["pass@1"])) || 0);
+            const all = fmt(mean(filtered.map(r => r["pass@1"])) || 0);
+
+            return {
+                average_pass: all,
+                easy_pass: m(r => r.difficulty === "easy"),
+                medium_pass: m(r => r.difficulty === "medium"),
+                hard_pass: m(r => r.difficulty === "hard"),
+            };
+        }
+
+        function buildLeaderboard(data, start, end) {
+            const { performances, models } = data;
+            const rows = models
+                .filter(m => m.release_date)
+                .map(model => {
+                    const { average_pass, easy_pass, medium_pass, hard_pass } = getPassAt1(
+                        performances, model.model_repr, start, end
+                    );
+                    return {
+                        Model: model.model_repr,
+                        Contaminated: model.release_date >= start,
+                        "Pass@1": isNaN(average_pass) ? -1 : average_pass,
+                        "Easy": isNaN(easy_pass) ? -1 : easy_pass,
+                        "Medium": isNaN(medium_pass) ? -1 : medium_pass,
+                        "Hard": isNaN(hard_pass) ? -1 : hard_pass,
+                        link: model.link,
+                    };
+                })
+                .sort((a, b) => b["Pass@1"] - a["Pass@1"]);
+
+            // Assign ranks
+            let rank = 1;
+            rows.forEach(row => {
+                row.Rank = row.Contaminated ? null : rank++;
+            });
+
+            return rows;
+        }
+
+        function getRankBadgeClass(rank) {
+            if (rank === 1) return 'rank-1';
+            if (rank === 2) return 'rank-2';
+            if (rank === 3) return 'rank-3';
+            return 'rank-other';
+        }
+
+        function renderTable(rows) {
+            // Add smooth transition class to table
+            tableBody.classList.add('table-updating');
+
+            // Simple fade and update approach
+            setTimeout(() => {
+                tableBody.innerHTML = '';
+
+                rows.forEach((row, index) => {
+                    const tr = document.createElement('tr');
+                    tr.className = row.Contaminated ? 'contaminated' : '';
+                    tr.dataset.model = row.Model;
+
+                    // Start with slight opacity for smooth entry
+                    tr.style.opacity = '0';
+                    tr.style.transform = 'translateY(8px)';
+
+                    tr.innerHTML = `
+                        <td class="rank-col">
+                            ${row.Rank ? `<span class="rank-badge ${getRankBadgeClass(row.Rank)}">${row.Rank}</span>` : '—'}
+                        </td>
+                        <td class="model-col">
+                            ${row.link ? `<a href="${row.link}" target="_blank">${row.Model}</a>` : row.Model}
+                        </td>
+                        <td class="score-col">${row["Pass@1"] === -1 ? '—' : row["Pass@1"]}</td>
+                        <td class="score-col">${row.Easy === -1 ? '—' : row.Easy}</td>
+                        <td class="score-col">${row.Medium === -1 ? '—' : row.Medium}</td>
+                        <td class="score-col">${row.Hard === -1 ? '—' : row.Hard}</td>
+                    `;
+
+                    tableBody.appendChild(tr);
+
+                    // Animate in with staggered delay for smooth effect
+                    setTimeout(() => {
+                        tr.style.transition = 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)';
+                        tr.style.opacity = '1';
+                        tr.style.transform = 'translateY(0)';
+                    }, index * 20); // Stagger by 20ms per row
+                });
+
+                // Remove updating class after animation
+                setTimeout(() => {
+                    tableBody.classList.remove('table-updating');
+                    // Clean up inline styles
+                    Array.from(tableBody.querySelectorAll('tr')).forEach(tr => {
+                        tr.style.transition = '';
+                        tr.style.opacity = '';
+                        tr.style.transform = '';
+                    });
+
+                    // Scroll to keep the table in view if needed
+                    const tableContainer = document.querySelector('.table-container');
+                    if (tableContainer) {
+                        const rect = tableContainer.getBoundingClientRect();
+                        if (rect.top < 0) {
+                            tableContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        }
+                    }
+                }, rows.length * 20 + 400);
+
+            }, 150); // Short delay for smooth transition
+        }
+
+        function updateInfoText(numProblems) {
+            const startIdx = Math.floor(Math.min(startSlider.value, endSlider.value) * (dateMarks.length - 1) / 100);
+            const endIdx = Math.floor(Math.max(startSlider.value, endSlider.value) * (dateMarks.length - 1) / 100);
+            const start = dateMarks[startIdx];
+            const end = dateMarks[endIdx];
+
+            let message = `<strong>${numProblems} problems</strong> selected in the current time window (<strong>${formatDate(start)}</strong> to <strong>${formatDate(end)}</strong>).`;
+
+            if (numProblems === 0) {
+                message = "No problems selected in the current time window. Please select a different time range.";
+                tableContainer.style.display = 'none';
+            } else {
+                tableContainer.style.display = 'block';
+                if (numProblems < 100) {
+                    message += " <em>Fewer than 100 problems selected.</em> We recommend selecting a larger time window for more accurate results.";
+                } else {
+                    message += " You can adjust the start or end date to change the time window.";
+                }
+            }
+
+            message += "<br><br><strong>Contamination Detection:</strong> We estimate cutoff dates based on model release dates and performance variation. Models highlighted in red are likely contaminated on some fraction of the problems in the given time window. Feel free to adjust the slider to explore the leaderboard at different time periods.";
+
+            message += "<br><br><strong>Announcements:</strong> <br> 1. We have made revisions to our official autograder, fixing some unhandled cases. In case you are performing local evaluations, please use the latest codebase. <br> 2. We have been introducing larger fraction of difficult problems for the more recent releases in lines with model capability improvements. A drop in performance in the later months is expected.";
+
+            // message += '<br><br>Check out the <a href="leaderboard_v5.html">previous version (release_v5)</a> of the leaderboard.';
+
+            infoText.innerHTML = message;
+        }
+
+        function updateLeaderboard() {
+            if (!currentData || !dateMarks.length) return;
+
+            const startIdx = Math.floor(Math.min(startSlider.value, endSlider.value) * (dateMarks.length - 1) / 100);
+            const endIdx = Math.floor(Math.max(startSlider.value, endSlider.value) * (dateMarks.length - 1) / 100);
+            const start = dateMarks[startIdx];
+            const end = dateMarks[endIdx];
+
+            console.log('Update leaderboard:', {
+                startSliderValue: startSlider.value,
+                endSliderValue: endSlider.value,
+                startIdx,
+                endIdx,
+                start,
+                end,
+                dateMarksLength: dateMarks.length
+            });
+
+            const rows = buildLeaderboard(currentData, start, end);
+            renderTable(rows);
+            updateSliderVisuals();
+
+            // Count problems in current window
+            const numProblems = currentData.performances.filter(
+                r => r.model === "GPT-4O-2024-08-06" && r.date >= start && r.date <= end
+            ).length;
+            console.log('Problems in window:', numProblems);
+            updateInfoText(numProblems);
+        }
+
+        async function loadData(dataset) {
+            try {
+                console.log('Loading:', dataset);
+
+                const response = await fetch(dataset);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+
+                currentData = await response.json();
+                dateMarks = currentData.date_marks.sort((a, b) => a - b);
+
+                console.log('Date marks loaded:', dateMarks.length);
+                console.log('First few date marks:', dateMarks.slice(0, 5));
+                console.log('Last few date marks:', dateMarks.slice(-5));
+
+                // Set initial slider values to match React code exactly
+                // React: (dateMarks.length > 12) ? dateMarks[15].value : dateMarks[4].value
+                const initialStartIndex = (dateMarks.length > 12) ? 15 : 4;
+                console.log('Initial start index:', initialStartIndex);
+                console.log('Start timestamp:', dateMarks[initialStartIndex]);
+                console.log('End timestamp:', dateMarks[dateMarks.length - 1]);
+
+                // Calculate slider percentages
+                const startPercentage = (initialStartIndex / (dateMarks.length - 1)) * 100;
+                const endPercentage = 100;
+
+                console.log('Setting slider values:', {
+                    startPercentage,
+                    endPercentage,
+                    startIndex: initialStartIndex,
+                    endIndex: dateMarks.length - 1
+                });
+
+                startSlider.value = startPercentage;
+                endSlider.value = endPercentage;
+
+                createSliderMarks();
+                console.log('Data loaded successfully');
+
+                // Force update after a short delay to ensure everything is initialized
+                setTimeout(() => {
+                    updateLeaderboard();
+                }, 100);
+
+            } catch (error) {
+                console.error('Error loading data:', error);
+                startLabel.textContent = 'Error';
+                endLabel.textContent = 'Error';
+                tableBody.innerHTML = `<tr><td colspan="6" class="loading">Error loading data: ${error.message}</td></tr>`;
+                infoText.innerHTML = `<b>Error:</b> ${error.message}`;
+            }
+        }
+
+        // Event listeners
+        startSlider.addEventListener('input', immediateVisualUpdate);
+        endSlider.addEventListener('input', immediateVisualUpdate);
+
+        // Use 'change' event for final update when user stops dragging
+        startSlider.addEventListener('change', throttledUpdateLeaderboard);
+        endSlider.addEventListener('change', throttledUpdateLeaderboard);
+
+        // Also add mouseup and touchend for better mobile support
+        startSlider.addEventListener('mouseup', throttledUpdateLeaderboard);
+        endSlider.addEventListener('mouseup', throttledUpdateLeaderboard);
+        startSlider.addEventListener('touchend', throttledUpdateLeaderboard);
+        endSlider.addEventListener('touchend', throttledUpdateLeaderboard);
+
+        // Initial load
+        loadData(currentDataset);
+    </script>
 </body>
 
 </html>

@@ -30,6 +30,7 @@
     </script> -->
 
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="./css/bulma.min.css" />
   <link rel="stylesheet" href="./css/bulma-carousel.min.css" />
@@ -44,9 +45,204 @@
   <script src="./js/bulma-carousel.min.js"></script>
   <script src="./js/bulma-slider.min.js"></script>
   <script src="./js/index.js"></script>
+
+  <style>
+    /* Navigation Header */
+    .main-nav {
+      background: #ffffff !important;
+      border-bottom: 1px solid #e2e8f0 !important;
+      padding: 1rem 0 !important;
+      position: sticky !important;
+      top: 0 !important;
+      z-index: 1000 !important;
+      box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1) !important;
+    }
+
+    .nav-container {
+      max-width: 1200px !important;
+      margin: 0 auto !important;
+      padding: 0 2rem !important;
+      display: flex !important;
+      justify-content: space-between !important;
+      align-items: center !important;
+    }
+
+    .nav-brand {
+      font-family: Inter, sans-serif !important;
+      font-size: 1.75rem !important;
+      font-weight: 700 !important;
+      color: #0f172a !important;
+      text-decoration: none !important;
+    }
+
+    .nav-links {
+      display: flex !important;
+      gap: 2rem !important;
+      align-items: center !important;
+    }
+
+    .nav-link {
+      font-family: Inter, sans-serif !important;
+      font-size: 1.125rem !important;
+      font-weight: 500 !important;
+      color: #64748b !important;
+      text-decoration: none !important;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      transition: all 0.2s ease;
+    }
+
+    .nav-link:hover {
+      color: #2563eb !important;
+      background: #f1f5f9;
+    }
+
+    .nav-link.active {
+      color: #2563eb !important;
+      background: #eff6ff;
+      font-weight: 600 !important;
+    }
+
+    .nav-new-badge {
+      display: inline-flex;
+      align-items: center;
+      background: linear-gradient(135deg, #ef4444, #dc2626);
+      color: white !important;
+      padding: 0.25rem 0.625rem;
+      border-radius: 9999px;
+      font-size: 0.75rem !important;
+      font-weight: 700 !important;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-left: 0.5rem;
+      box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+
+      0%,
+      100% {
+        transform: scale(1);
+      }
+
+      50% {
+        transform: scale(1.05);
+      }
+    }
+
+    /* Enhanced body and content font sizes */
+    body {
+      font-family: Inter, sans-serif !important;
+      font-size: 18px !important;
+    }
+
+    .title.is-1.publication-title {
+      font-family: Inter, sans-serif !important;
+      font-size: 3rem !important;
+      font-weight: 700 !important;
+      line-height: 1.2 !important;
+      letter-spacing: -0.025em !important;
+    }
+
+    .title.is-3 {
+      font-family: Inter, sans-serif !important;
+      font-size: 2rem !important;
+      font-weight: 600 !important;
+    }
+
+    .is-size-5.publication-authors {
+      font-family: Inter, sans-serif !important;
+      font-size: 1.125rem !important;
+      font-weight: 500 !important;
+    }
+
+    .subtitle {
+      font-family: Inter, sans-serif !important;
+      font-size: 1.25rem !important;
+      font-weight: 500 !important;
+      line-height: 1.6 !important;
+    }
+
+    .content p {
+      font-family: Inter, sans-serif !important;
+      font-size: 1.125rem !important;
+      line-height: 1.7 !important;
+    }
+
+    .button {
+      font-family: Inter, sans-serif !important;
+      font-size: 1rem !important;
+      font-weight: 500 !important;
+    }
+
+    /* Mobile responsive */
+    @media (max-width: 768px) {
+      body {
+        font-size: 16px !important;
+      }
+
+      .nav-container {
+        padding: 0 1rem;
+      }
+
+      .nav-links {
+        gap: 1rem;
+      }
+
+      .nav-link {
+        font-size: 1rem !important;
+        padding: 0.5rem 0.75rem;
+      }
+
+      .nav-brand {
+        font-size: 1.5rem !important;
+      }
+
+      .title.is-1.publication-title {
+        font-size: 2.25rem !important;
+      }
+
+      .title.is-3 {
+        font-size: 1.75rem !important;
+      }
+
+      .is-size-5.publication-authors {
+        font-size: 1rem !important;
+      }
+
+      .subtitle {
+        font-size: 1.125rem !important;
+      }
+
+      .content p {
+        font-size: 1rem !important;
+      }
+
+      .button {
+        font-size: 0.875rem !important;
+      }
+    }
+  </style>
 </head>
 
 <body>
+  <!-- Navigation Header -->
+  <nav class="main-nav">
+    <div class="nav-container">
+      <a href="index.html" class="nav-brand">LiveCodeBench</a>
+      <div class="nav-links">
+        <a href="index.html" class="nav-link active">Overview</a>
+        <a href="leaderboard.html" class="nav-link">Leaderboard</a>
+        <a href="gso.html" class="nav-link">
+          GSO Leaderboard
+          <span class="nav-new-badge">
+            NEW
+          </span>
+        </a>
+      </div>
+    </div>
+  </nav>
 
   <section class="hero">
     <div class="hero-body">

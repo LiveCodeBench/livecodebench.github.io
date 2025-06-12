@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GSO Leaderboard - Challenging Software Optimization Tasks</title>
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Inter font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            font-family: Inter, sans-serif;
+            font-feature-settings: 'liga' 1, 'calt' 1;
+            --primary-color: #2563eb;
+            --primary-hover: #1d4ed8;
+            --background: #ffffff;
+            --surface: #ffffff;
+            --surface-hover: #f8fafc;
+            --surface-elevated: #f1f5f9;
+            --border: #e2e8f0;
+            --border-light: #f1f5f9;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --text-muted: #64748b;
+            --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+            --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+            --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+            --radius: 8px;
+            --radius-lg: 12px;
+            --success-color: #10b981;
+            --warning-color: #f59e0b;
+            --error-color: #ef4444;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Inter, sans-serif !important;
+            background: #f8fafc;
+            color: var(--text-primary);
+            line-height: 1.6;
+            font-size: 18px !important;
+            min-height: 100vh;
+        }
+
+        /* Simple container approach like GSO */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        /* Navigation Header */
+        .main-nav {
+            background: #ffffff;
+            border-bottom: 1px solid #e2e8f0;
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-brand {
+            font-family: Inter, sans-serif !important;
+            font-size: 1.75rem !important;
+            font-weight: 700 !important;
+            color: #0f172a !important;
+            text-decoration: none !important;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+        }
+
+        .nav-link {
+            font-family: Inter, sans-serif !important;
+            font-size: 1.125rem !important;
+            font-weight: 500 !important;
+            color: #64748b !important;
+            text-decoration: none !important;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+        }
+
+        .nav-link:hover {
+            color: #2563eb !important;
+            background: #f1f5f9;
+        }
+
+        .nav-link.active {
+            color: #2563eb !important;
+            background: #eff6ff;
+            font-weight: 600 !important;
+        }
+
+        .nav-new-badge {
+            display: inline-flex;
+            align-items: center;
+            background: linear-gradient(135deg, #ef4444, #dc2626);
+            color: white !important;
+            padding: 0.25rem 0.625rem;
+            border-radius: 9999px;
+            font-size: 0.75rem !important;
+            font-weight: 700 !important;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-left: 0.5rem;
+            box-shadow: var(--shadow-sm);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.05);
+            }
+        }
+
+        /* Hero Section */
+        .hero {
+            background: var(--background);
+            padding: 3rem 0 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .hero-body {
+            text-align: center;
+        }
+
+        .title.is-1.publication-title {
+            font-size: 3rem !important;
+            font-weight: 700 !important;
+            margin-bottom: 1rem !important;
+            color: var(--text-primary) !important;
+            line-height: 1.2 !important;
+            letter-spacing: -0.025em !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        .subtitle {
+            font-size: 1.25rem !important;
+            color: var(--text-secondary) !important;
+            margin-bottom: 2rem !important;
+            font-weight: 400 !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        .new-badge {
+            display: inline-flex;
+            align-items: center;
+            background: linear-gradient(135deg, #ef4444, #dc2626);
+            color: white !important;
+            padding: 0.75rem 1.5rem;
+            border-radius: 9999px;
+            font-size: 1rem !important;
+            font-weight: 700 !important;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 1.5rem;
+            box-shadow: var(--shadow-md);
+            animation: pulse 2s infinite;
+            gap: 0.5rem;
+        }
+
+        /* Content Container */
+        .content-container {
+            margin: 2rem 0;
+        }
+
+        /* Info Message */
+        .info-message {
+            text-align: left;
+            margin-bottom: 2rem;
+            font-weight: 400 !important;
+            color: var(--text-secondary) !important;
+            line-height: 1.7 !important;
+            font-size: 1.125rem !important;
+            padding: 1.5rem;
+            background: var(--surface);
+            border-radius: var(--radius);
+            border: 1px solid var(--border);
+            font-family: Inter, sans-serif !important;
+        }
+
+        .info-message strong {
+            color: var(--text-primary) !important;
+            font-weight: 600 !important;
+        }
+
+        .info-message a {
+            color: var(--primary-color) !important;
+            text-decoration: none !important;
+            font-weight: 600 !important;
+        }
+
+        .info-message a:hover {
+            text-decoration: underline !important;
+        }
+
+        /* Filters */
+        .filters-container {
+            margin-bottom: 1.5rem;
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .filter-label {
+            font-weight: 600;
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        .filter-select {
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            background: var(--surface);
+            color: var(--text-primary);
+            font-family: Inter, sans-serif;
+            font-size: 0.875rem;
+            cursor: pointer;
+        }
+
+        .filter-select:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 3px rgb(37 99 235 / 0.1);
+        }
+
+        /* Table Container */
+        .table-container {
+            background: var(--surface);
+            border-radius: var(--radius-lg);
+            border: 1px solid var(--border);
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+            margin-bottom: 2rem;
+        }
+
+        .table-scroll {
+            max-height: 700px;
+            overflow-y: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 1rem !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        th,
+        td {
+            padding: 1rem 1.25rem !important;
+            text-align: left;
+            border-bottom: 1px solid var(--border-light);
+            transition: all 0.2s ease;
+            font-family: Inter, sans-serif !important;
+        }
+
+        th {
+            background: #6b7280 !important;
+            font-weight: 600 !important;
+            color: #ffffff !important;
+            position: sticky;
+            top: 0;
+            z-index: 5;
+            font-size: 1rem !important;
+            letter-spacing: 0.05em !important;
+            border-bottom: 1px solid var(--border) !important;
+            text-transform: uppercase !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        th.rank-col,
+        th.model-col,
+        th.scaffold-col,
+        th.setting-col,
+        th.score-col,
+        th.date-col {
+            color: #ffffff !important;
+        }
+
+        .rank-col {
+            width: 80px;
+            text-align: center;
+        }
+
+        .model-col {
+            width: 200px;
+            font-weight: 600 !important;
+            color: var(--text-primary) !important;
+        }
+
+        .scaffold-col {
+            width: 120px;
+            color: var(--text-secondary) !important;
+        }
+
+        .setting-col {
+            width: 100px;
+            text-align: center;
+            font-weight: 600 !important;
+        }
+
+        .score-col {
+            width: 100px;
+            text-align: center;
+            font-variant-numeric: tabular-nums;
+            font-weight: 600 !important;
+            color: var(--text-primary) !important;
+        }
+
+        .date-col {
+            width: 120px;
+            color: var(--text-muted) !important;
+            font-size: 0.875rem !important;
+        }
+
+        tbody tr {
+            transition: all 0.2s ease;
+            background: var(--surface);
+        }
+
+        tbody tr:hover {
+            background: var(--surface-hover);
+        }
+
+        tbody tr:last-child {
+            border-bottom: none;
+        }
+
+        .rank-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            font-weight: 700 !important;
+            font-size: 0.875rem !important;
+            box-shadow: var(--shadow-sm);
+            font-family: Inter, sans-serif !important;
+        }
+
+        .rank-1 {
+            background: linear-gradient(135deg, #fbbf24, #f59e0b);
+            color: #92400e !important;
+        }
+
+        .rank-2 {
+            background: linear-gradient(135deg, #d1d5db, #9ca3af);
+            color: #374151 !important;
+        }
+
+        .rank-3 {
+            background: linear-gradient(135deg, #f97316, #ea580c);
+            color: #9a3412 !important;
+        }
+
+        .rank-other {
+            background: var(--surface-elevated);
+            color: var(--text-secondary) !important;
+            border: 1px solid var(--border);
+        }
+
+        .setting-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .setting-opt1 {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+
+        .setting-opt10 {
+            background: #fef3c7;
+            color: #92400e;
+        }
+
+        a {
+            color: var(--primary-color) !important;
+            text-decoration: none !important;
+            font-weight: 500 !important;
+            cursor: pointer;
+        }
+
+        a:hover {
+            color: var(--primary-hover) !important;
+            text-decoration: underline !important;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-muted) !important;
+            font-weight: 500 !important;
+            font-size: 1.125rem !important;
+            font-family: Inter, sans-serif !important;
+        }
+
+        /* External link styling */
+        .external-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--primary-color);
+            color: white !important;
+            padding: 0.75rem 1.5rem;
+            border-radius: var(--radius);
+            font-weight: 600 !important;
+            text-decoration: none !important;
+            transition: all 0.2s ease;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .external-link:hover {
+            background: var(--primary-hover);
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-md);
+            color: white !important;
+            text-decoration: none !important;
+        }
+
+        .metrics-info {
+            background: #eff6ff;
+            border: 1px solid #bfdbfe;
+            border-radius: var(--radius);
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .metrics-info h3 {
+            color: var(--text-primary);
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .metrics-info p {
+            color: var(--text-secondary);
+            margin-bottom: 0.75rem;
+            line-height: 1.6;
+        }
+
+        .metrics-info p:last-child {
+            margin-bottom: 0;
+        }
+
+        /* Mobile responsive */
+        @media (max-width: 768px) {
+            body {
+                font-size: 16px !important;
+            }
+
+            .container {
+                padding: 0 1rem;
+            }
+
+            .nav-container {
+                padding: 0 1rem;
+            }
+
+            .nav-links {
+                gap: 1rem;
+            }
+
+            .nav-link {
+                font-size: 1rem !important;
+                padding: 0.5rem 0.75rem;
+            }
+
+            .nav-brand {
+                font-size: 1.5rem !important;
+            }
+
+            .hero {
+                padding: 2rem 0;
+            }
+
+            .title.is-1.publication-title {
+                font-size: 2.25rem !important;
+            }
+
+            .subtitle {
+                font-size: 1.125rem !important;
+            }
+
+            .content-container {
+                margin: 1.5rem 0;
+            }
+
+            .info-message {
+                font-size: 1rem !important;
+                padding: 1rem;
+            }
+
+            th,
+            td {
+                padding: 0.75rem 1rem !important;
+                font-size: 0.875rem !important;
+            }
+
+            th {
+                font-size: 0.75rem !important;
+            }
+
+            .model-col {
+                width: 150px;
+            }
+
+            .scaffold-col {
+                width: 100px;
+            }
+
+            .setting-col {
+                width: 80px;
+            }
+
+            .score-col {
+                width: 80px;
+            }
+
+            .date-col {
+                width: 100px;
+            }
+
+            .rank-badge {
+                width: 28px;
+                height: 28px;
+                font-size: 0.75rem !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation Header -->
+    <nav class="main-nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">LiveCodeBench</a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link">Overview</a>
+                <a href="leaderboard.html" class="nav-link">Leaderboard</a>
+                <a href="gso.html" class="nav-link active">
+                    GSO Leaderboard
+                    <span class="nav-new-badge">
+                        NEW
+                    </span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-body">
+                <!-- <div class="new-badge">
+                    <i class="fas fa-star"></i>
+                    NEW
+                </div> -->
+                <h1 class="title is-1 publication-title">
+                    GSO Leaderboard
+                </h1>
+                <p class="subtitle">
+                    Challenging Software Optimization Tasks for Evaluating SWE-Agents
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <div class="content-container">
+                <!-- Info Message -->
+                <div class="info-message">
+                    <strong>GSO Benchmark</strong> evaluates language models' capabilities in developing
+                    high-performance software through 102 challenging optimization tasks across 10 codebases. The
+                    benchmark measures runtime efficiency improvements against expert developer optimizations.
+                    <br><br>
+                    Visit the <a href="https://gso-bench.github.io/" target="_blank">official GSO website</a> for
+                    complete details, research paper, and dataset downloads.
+                </div>
+
+                <!-- Metrics Info -->
+                <div class="metrics-info">
+                    <h3>Evaluation Metrics</h3>
+                    <p><strong>Opt@1:</strong> Estimator of fraction of tasks where a single attempt achieves ≥95% human
+                        speedup and passes correctness tests.</p>
+                    <p><strong>Opt@K:</strong> Estimator of fraction of tasks where at least one attempt among K tries
+                        achieves ≥95% human speedup and passes correctness tests.</p>
+                </div>
+
+                <!-- Filters -->
+                <div class="filters-container">
+                    <div class="filter-group">
+                        <label class="filter-label">Setting:</label>
+                        <select id="settingFilter" class="filter-select">
+                            <option value="all">All Settings</option>
+                            <option value="Opt@1">Opt@1</option>
+                            <option value="Opt@10">Opt@10</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Table -->
+                <div class="table-container" id="tableContainer">
+                    <div class="table-scroll">
+                        <table id="gsoTable">
+                            <thead>
+                                <tr>
+                                    <th class="rank-col">Rank</th>
+                                    <th class="model-col">Model</th>
+                                    <th class="scaffold-col">Scaffold</th>
+                                    <th class="setting-col">Setting</th>
+                                    <th class="score-col">Score</th>
+                                    <th class="date-col">Date</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tableBody">
+                                <tr>
+                                    <td colspan="6" class="loading">Loading GSO leaderboard from official website...
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- External Links -->
+                <div style="text-align: center; margin-top: 2rem;">
+                    <a href="https://gso-bench.github.io/leaderboard.html" target="_blank" class="external-link">
+                        <i class="fas fa-external-link-alt"></i>
+                        View Full GSO Leaderboard
+                    </a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        let originalData = [];
+        let filteredData = [];
+
+        function getRankBadgeClass(rank) {
+            if (rank === 1) return 'rank-1';
+            if (rank === 2) return 'rank-2';
+            if (rank === 3) return 'rank-3';
+            return 'rank-other';
+        }
+
+        function getSettingBadgeClass(setting) {
+            if (setting === 'Opt@1') return 'setting-opt1';
+            if (setting === 'Opt@10') return 'setting-opt10';
+            return 'setting-opt1';
+        }
+
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+            });
+        }
+
+        async function loadGSOLeaderboard() {
+            try {
+                // Fetch the GSO leaderboard JSON directly
+                const response = await fetch('https://gso-bench.github.io/assets/leaderboard.json');
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                console.log('GSO data loaded:', data);
+
+                if (!data.models || !Array.isArray(data.models)) {
+                    throw new Error('Invalid data structure: missing models array');
+                }
+
+                originalData = data.models;
+                filteredData = [...originalData];
+
+                // Sort by score descending initially
+                filteredData.sort((a, b) => b.score - a.score);
+
+                renderGSOTable();
+                setupFilters();
+
+            } catch (error) {
+                console.error('Error loading GSO leaderboard:', error);
+
+                // Show error message
+                const tableBody = document.getElementById('tableBody');
+                tableBody.innerHTML = `
+                    <tr>
+                        <td colspan="6" style="text-align: center; padding: 3rem; color: var(--error-color);">
+                            <strong>Failed to load GSO leaderboard data</strong><br>
+                            <span style="font-size: 0.875rem; color: var(--text-muted);">
+                                Error: ${error.message}<br>
+                                <a href="https://gso-bench.github.io/leaderboard.html" target="_blank" style="color: var(--primary-color);">
+                                    View official GSO leaderboard
+                                </a>
+                            </span>
+                        </td>
+                    </tr>
+                `;
+            }
+        }
+
+        function setupFilters() {
+            const settingFilter = document.getElementById('settingFilter');
+
+            settingFilter.addEventListener('change', function () {
+                const selectedSetting = this.value;
+
+                if (selectedSetting === 'all') {
+                    filteredData = [...originalData];
+                } else {
+                    filteredData = originalData.filter(item => item.setting === selectedSetting);
+                }
+
+                // Sort by score descending
+                filteredData.sort((a, b) => b.score - a.score);
+                renderGSOTable();
+            });
+        }
+
+        function renderGSOTable() {
+            const tableBody = document.getElementById('tableBody');
+            tableBody.innerHTML = '';
+
+            filteredData.forEach((row, index) => {
+                const rank = index + 1;
+                const tr = document.createElement('tr');
+
+                // Add smooth entry animation
+                tr.style.opacity = '0';
+                tr.style.transform = 'translateY(10px)';
+                tr.style.transition = 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)';
+
+                tr.innerHTML = `
+                    <td class="rank-col">
+                        <span class="rank-badge ${getRankBadgeClass(rank)}">${rank}</span>
+                    </td>
+                    <td class="model-col">${row.name}</td>
+                    <td class="scaffold-col">${row.scaffold}</td>
+                    <td class="setting-col">
+                        <span class="setting-badge ${getSettingBadgeClass(row.setting)}">${row.setting}</span>
+                    </td>
+                    <td class="score-col">${row.score.toFixed(1)}%</td>
+                    <td class="date-col">${formatDate(row.date)}</td>
+                `;
+
+                tableBody.appendChild(tr);
+
+                // Animate in with staggered delay
+                setTimeout(() => {
+                    tr.style.opacity = '1';
+                    tr.style.transform = 'translateY(0)';
+                }, index * 20);
+            });
+
+            console.log(`Rendered ${filteredData.length} entries in GSO leaderboard`);
+        }
+
+        // Load the GSO leaderboard when page loads
+        document.addEventListener('DOMContentLoaded', function () {
+            // Small delay for better UX
+            setTimeout(() => {
+                loadGSOLeaderboard();
+            }, 300);
+        });
+    </script>
+</body>
+
+</html>
